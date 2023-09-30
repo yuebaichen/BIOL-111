@@ -1,0 +1,89 @@
+L6 - tree of life
+
+history of the tree of life
+- taxonomy: tree as a classification scheme
+    - Aristotles’s Scala nature, 400BC
+    - Linnaeus’ Systemae Naturae, 1735
+    - species are immutable
+- phylogeny: trees as a depiction of evolution
+    - Lamarack, 1809: adaptations are acquired
+    - Darwin, 1837: adaptations via natural selection
+    - Darwin, 1859 (On the Origin of Species)
+- big surprises from molecular phylogenetics:
+    - new Domain of Life
+    - extent of horizontal gene transfer (HGT)
+- history of molecular phylogenetics:
+    - Watson & Crick, 1953: “It has not escaped our notice that the specific pairing we have postulated immediately suggests a possible copying mechanism for the genetic material”
+    - Crick, 1958: suggests the idea of protein taxonomy
+    - Pauling & Zuckerlandl, 1964:
+        - Molecular Clock
+        - based on hemoglobin protein sequences
+- bacteria are notoriously hard to classify
+    - Linnaeus, 1774: “chaos”
+    - Haeckel, 1866: Monera at the base of the tree giving rise to more complex forms
+    - Chatton, 1937: Prokaryotes vs Eukaryotes
+- morphology, metabolism has limited information
+- molecular phylogeny provides the perfect tool
+- which molecule (gene) to use? (align->infer tree)
+    - hemoglobin
+    - ribosomal RNA
+    - DNA helices
+    - ATP synthase
+- Woese: “not elegant science, but a big slog”
+    - requires culturing large amounts of bacteria
+    - extract RNA, fragment, run on a gel to produce a “fingerprint”
+        - one day, Woese’s lab fingerprints a methanogen to see where it would fall within the prokaryotes
+        - bacteria & archaea had been grouped together due to morphological similarities
+    - Woese continues to add branches to the tree
+    - halophilic and thermoacidophilic bacteria also turn out to be archaea
+        - halophilic: extremophile that thrives in high salt concentrations
+            - extremophile: organism that is able to live/thrive in extreme environments
+        - thermoacidophlic: extremophile that that is both thermophilic and acidophilic; grow under high temp and low pH
+    - distinctness of arches also supported by weird phospholipids
+- refining the tree (with more data):
+    - correction: ester -> ether
+    - correction: reversion (not parsimonious
+- are we basically archaea? if so, which ones?:
+    - 
+
+the three-domain three of life
+- origin
+    - bacteria: domain of unicellular organism that has a cell wall but lack organelle and an organized nucleus (prokaryote)
+        - prokaryote: “before nucleus” - no nucleus
+    - split
+        - eukarya: domain of organisms that have cells with a nucleus and other organelles (eukaryotic)
+        - archaea: domain of unicellular prokaryotic organisms initially classified as bacteria but later reclassified due to distinct differences from bacteria:
+            - cell wall does not contain peptidoglycan
+            - cell membrane uses ether linked lipids as opposed to ester linked
+            - cannot perform photosynthesis
+            - have distinct metabolic pathways and genes
+- prokaryotes are not a domain since they are not monophyletic
+    - monophyly: shares common ancestor that excludes other groups
+        - monophyletic: group of a clade
+        - clade: group consisting of an organism and all its descendants
+        - paraphyletic: group of organisms that contain a common ancestor and some but not all of the descendants OR doesn’t include other branch at common ancestor (does not meet cladistic criterion/test)
+        - polyphyletic: group that contains clades from multiple separate branches of the tree of life, not forming a complete clade (does not meet cladistic criterion/test)
+
+phylogenetics
+- methods:
+    - start with a sequence alignment
+    - identify changes at homologous sites
+    - choose a method:
+        - distance-based: compute a distance matrix between each pair of sequences; join the two most similar sequences & repeat
+        - parsimony: choose the tree structure that minimizes the total number of mutations
+- molecular clock example: coronavirus
+    - SARS-CoV-2 point mutations appear once every ~2 weeks
+        - this allows us to fit a molecular clock ad build “time trees”
+- how to read a tree:
+    - phylogenies are like mobiles; branches can rotate but it doesn’t change the meaning
+    - read distance to the last common ancestor
+
+
+LUCA
+- all cells today descended from a single cell that lived in the ocean long ago called LUCA (last universal common ancestor)
+    - all the other cells alive then gave rise to lineages which subsequently became extinct and have left no descendants
+    - LUCA divided to give rise to two daughter cells:
+        - one was the ancestor of all living eubacteria
+        - the other was the ancestor of all living archaea
+- portrait of LUCA:
+    - 

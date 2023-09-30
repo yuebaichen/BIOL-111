@@ -1,0 +1,10 @@
+legend
+    #^__^# = definition
+    {x,y} = number of branches, number of examples
+    (x-> = branch number ( signifies branch depth
+    -x) = end branch
+    (___) = remark
+    x&x = this and this
+    x & x = combining points
+    -ex. = example
+    -*) = remark

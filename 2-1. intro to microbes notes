@@ -1,0 +1,163 @@
+L4 - intro to microbes {12}
+
+#^microbe: microorganism/microbe is an organism of microscopic size, which may exist in single or multicellular form (invisible to naked eye ~1 micrometer)^#
+
+1. why care about microbes? {4}
+    (1-> they make us sick
+    (2-> they make us not sick
+    (3-> have been evolving for billions of years {2}
+        -1) have filled effectively every available niche on earth
+        -2) are essential for all global nutrient cycles (carbon, nitrogen, phosphorus)
+    (4-> they are continuing to evolve {2}
+        -1) they continue to evolve and make us sick
+        -2) they are great models for evolution
+
+2. the invisible world of microbes {2}: (indirect observations of microbes)
+    (1-> Louis Pasteur (1870s): first to recognize microbes that are invisible to the naked eye are responsible for fermentation, sepsis, disease
+        -*) did some experiments using pasteurization (heating to kill microbes); kept one flask sterile for control and kept the other open, the open one started to change in appearance
+    (2-> Robert Koch (1890s) {5}: (Koch’s postulates)
+        -1) isolate pathogen from diseased animal
+        -2) grow the bacteria in pure culture until visible colonies form
+        -3) put culture into healthy animal to make it sick to show it causes disease
+        -4) re-isolate pathogen from diseased animal
+        -5) grow the bacteria in pure culture
+
+3. social lives of bacteria {3, 2}: (symbiosis - non-harmful bacteria (“living together”))
+    -ex1. vibrio fisher bacteria specifically colonize bobtailed squid and provides useful “camouflage” function
+        -*) bioluminescence of bacteria seems to make the squid a more efficient hunter
+    -ex2. there is a fine line between mutualism and pathogenesis
+        -*) vibrio cholera -> causes severe diarrhea
+    (1-> some bacteria change their environment in a way that will have secondary effects on what other things can live there (lower pH)
+    (2-> most plants and animals have a microbiome
+        -*) #^microbiome: microbes living in a particular environment in or on a part of the body^#
+    (3-> humans are ~2% bacteria by mass (mostly in the gut ~100 common species) {3}
+        -1) 50:50 ratio of bacterial cells to human cells
+        -2) 100:1 by genes
+            - millions of unique bacteria genes in us doing various metabolic pathways that the human genome cannot encode (hugely information rich)
+        -3) each defecation event changes the ratio to favour human cells
+
+4. deep evolution of bacteria {3}:
+    (1-> stromatolite fossils range from 500 Mya to billions of years old
+        -*) fossils are of ancient cyanobacteria mats
+    - living stromatolites: living layers of biofilm (mostly cyanobacteria but also other bacteria)
+        - found in intertidal zones
+    - filamentous cyanobacteria create banded iron formations consisting of alternating layers of flint and iron oxide
+        - formed when oxygen content of atmosphere was high enough to oxidize ferrous to ferric iron
+        - caused by evolution of oxygenic photosynthesis 
+            - cyanobacteria gave rise to oxygen on earth (0.001% -> 20%)
+
+5. bacteria as models of evolution
+    - perform experimental evolution by going through thousands of generations of bacteria
+    - long term evolution experiment: famous experiment started by microbiologist, Robert Lens (1988)
+        - 65k+ generations of transferring a flask to a new media, letting it grow, retransferring, etc
+        - shows that fitness doesn’t plateau and keeps evolving even after 50k generations (speed of evolution decreases but doesn’t stop)
+            - most advantages mutations will be selected first to out-compete others, later mutations only have so much room to improve on
+            - some point after 30k generations, a speciation event occurs where the bacteria evolved to use a metabolic waste product
+    - very rapid evolution:
+        - take any claims of “evolution proof” with a grain of salt
+        - stated that bacteria will never be able to evolve resistance against cationic antibiotics
+            - cationic antibiotics exploited fundamental features of the bacteria cell to make resistance less likely to evolve than with conventional antibiotics
+            - professor Graham Bell evolved 24 lineages of E. coli and Pseudomonas fluorescence and found that 22/24 independently evolved heritable mechanisms of resistance after 600-700 generations (few weeks of evolving in a a lab)  
+
+6. advantages of being small
+    - small cells can absorb more nutrients per unit volume (SA doesn’t increase as fast as volume)
+    - takes shorter time to replicate DNA (not dominant factor)
+
+7. history of microscopes
+    - antiquity (ancient times): globes with water to magnify
+    - 1300 (daPisa): magnifying glass - spectacles (~2x)
+    - 1590 (Jansen): compound microscope (~10x)
+    - 1650 (Hooke): microscopy - the cell (~50x)
+    - 1670 (van Leeuwenhoek): microbes (~300x)
+    - microscopes of the 21st century:
+        - genomics is a window to the microbial world
+        - DNA sequencing has gotten cheaper per base pair (able to sequence more and more)
+
+8. levels of biological organization
+    unit	mechanism	process
+    individual (cell)	metabolism & replication	requires continual input of energy & material to keep cell out of thermodynamic equilibrium (turning back into raw materials)
+    population	variation & evolution	replication causes variation, reproduction causes competition -> increased mean fitness
+    community (ecology)	consumption & nutrient cycling	different populations/species are linked by consumption & tropic interactions. must be in mass & energy balance at level of ecosystem
+
+9. brief summary of the cell
+    - plasma membrane consisting of a dual layer of phospholipids (phospholipid bilayer) that separates the aqueous outside and inside environments
+        - phospholipid layer: consists of a hydrophilic head group and a hydrophobic tail group
+        - plasma membrane controls all traffic in and out of the cell
+        - 3 types of embedded proteins in plasma membrane:
+            - transport proteins (channels) allow passage of specific molecules and ions (sugars, amino acids, ions)
+            - signal proteins (receptors) bind external ligands and change cell behaviour
+                - when it binds to a molecule, it sends a signal inside the cell to change physiology or metabolism
+            - adhesion proteins hold cells together 
+                - important to multicellular organisms and bacteria alike (responsible for formation of biofilms)
+                    - biofilm: syntrophic consortium of micro-organisms
+                        - syntrophic: phenomenon of one species feeding on the metabolic products of another to cope with energy limitations by electron transfer
+        - dual system of the cell:
+            - metabolism:
+                - cell generates/harvests energy and channels it to synthesize new biomass, including the components responsible for metabolism
+                    - without a membrane the products of metabolism would rapidly diffuse away from one another (metabolism in a soup isn’t useful)
+            - information:
+                - cell stores the information necessary to synthesize the metabolic system
+                    - without a membrane the information system could not be permanently linked to the metabolic system (
+            - growth leads to reproduction:
+                - large cells are inefficient since volume increases faster than surface are
+                - once cell has grown to certain size, it divides to form two daughter cells
+                    - both cells receive information and and metabolic systems from their progenitor
+                - substrates + energy + information in cell -> biosynthesis of substrates into more DNA, proteins, membranes, useful stuff
+                    - cell will grow and accumulate biomass until it has to split
+                    - reproduction involves the division of biomass and replication of information
+                    - link to natural selection:
+                        - the cell that can encode metabolism more efficiently than another cell, it will grow faster and get to reproduction faster in which case the heritable information responsible for metabolism will also be passed on to subsequent generations
+
+10. the bacterial genome and plasmids
+    - genome stores information:
+        - bacterial has nucleoid instead of nucleus
+            - nucleoid: irregular region within prokaryotic cell containing DNA (bacterial chromosome)
+        - typical bacterial genome comprises ~2 million base pairs encoding ~2k genes
+            - smallest encodes ~500 genes, largest encodes ~10k genes
+            - formed of single molecule of DNA in a closed loop ~1.6mm long (usually circular chromosome)
+            - some bacteria will have plasmids
+        - plasmids: small DNA molecules that occur in bacteria but are not essential for normal function (accessory or thing that mooches off host bacteria)
+            - encodes things like antibiotic resistance
+            - helps bacteria adapt to new environment
+            - replicate at the same time as the chromosomes but daughter cells don’t always receive equal numbers
+            - some plasmids encode conjugation that results in plasmid transfer from donor to recipient via a pilus
+                - conjugation: process of one bacterium transferring genetic material to another through direct contact
+                - pilus: thin protein tube originating from the cytoplasmic membrane of many bacteria; can be used to exchange genetic material or as cell adhesion mechanism
+            - plasmids may encode functions that benefit the host bacteria but in some cases they are parasites
+
+11. DNA, chromosomes, & genes
+    - replication of double stranded DNA:
+        - protein (DnaA) recognizes origin of replication and unwinds DNA
+        - origin-binding protein loads two helicases (protein complex) onto DNA
+        - ATP hydrolysis moves helicase along chromosome, driving a wedge between the strands to force them apart
+            - ATP hydrolysis: catabolic reaction process where the chemical energy stored in ATP is released upon breaking the bonds
+                - catabolic: promoting metabolic activity concerned with the breakdown of complex molecules to release energy
+        - RNA primer is synthesized on the single-stranded portion of DNA
+        - multi-protein replication machine (replisome - consisting of DNA polymerase & other elements) synthesize both daughter strands simultaneously and adds on matching nucleotide
+            - DNA polymerase: an enzyme (protein catalyst)
+        - two replication forks meet at termination site, replisome is unloaded and the daughter chromosomes separate
+    - replication proceeds with occasional errors:
+        - when DNA polymerase messes up nucleotide matching
+        - error rate of replication in bacteria is very low: ~10-10 (1 in 10 billion) per base pair per replication
+            - amounts to ~10-3 (1 in 1k) mutations per genome per replication
+            - however a 5ml overnight culture of E. coli contains ~10 billion cells, so every possible single-nucleotide mutation is likely to be present
+                - most of the mutations won’t matter; some deleterious, some beneficial
+    - chromosome replication and cell division are linked in bacteria:
+        - chromosome replicates
+        - daughter chromosomes move apart
+        - FtsZ proteins migrate to centre of cell
+            - FtsZ: protein encoded by the ftsZ gene that assembles into a ring at the future site of bacterial division
+        - FtsZ ring initiates formation of septum
+        - daughter cells separate
+    - exponential population increase -> natural selection -> evolution
+        - mutation -> variation
+        - differential reproduction leads to evolution by natural selection
+            - differential reproduction: difference in reproductive success rate of various individual members/groups within a species
+
+12. different types of metabolism
+    - natural selection will act upon populations of cells
+        - population will be assembled into communities of different species that are linked trophically 
+            - they will have different metabolism and lifestyle and they’ll interact
+                - example: distinction between photoautotrophs and heterotrophs (linked since end products of one are the beginning of the other)
+                    - photoautotrophs harvest sunlight to do photosynthesis: take CO2 + H2O -> CH2O (sugar) + O2
+                    - heterotrophs use those sugars (carbohydrates) and those sugars use oxygen to do aerobic respiration: CH2O (sugars/carbs) + O2 -> CO2 + H2O
