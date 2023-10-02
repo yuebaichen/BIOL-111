@@ -1,3 +1,5 @@
+author(s)/contributor(s): yuebai
+
 L4 - intro to microbes {12}
 
 #^microbe: microorganism/microbe is an organism of microscopic size, which may exist in single or multicellular form (invisible to naked eye ~1 micrometer)^#
@@ -74,10 +76,17 @@ L4 - intro to microbes {12}
         -*) DNA sequencing has gotten cheaper per base pair (able to sequence more and more)
 
 8. levels of biological organization {3*3}
-    |UNIT                |MECHANISM                      |PROCESS
-    |individual (cell)   |metabolism & replication       |requires continual input of energy & material to keep cell out of thermodynamic equilibrium (turning back into raw materials)
-    |population          |variation & evolution	         |replication causes variation, reproduction causes competition -> increased mean fitness
-    |community (ecology) |consumption & nutrient cycling |different populations/species are linked by consumption & tropic interactions. must be in mass & energy balance at level of ecosystem
+    -----------------------------------------------------------------------------------------------------------------------------------------------
+    |UNIT                |MECHANISM                      |PROCESS                                                                                 |
+    |---------------------------------------------------------------------------------------------------------------------------------------------|
+    |individual (cell)   |metabolism & replication       |requires continual input of energy & material to keep cell out of thermodynamic         |
+    \                    \                               \equilibrium (turning back into raw materials)                                           |
+    |---------------------------------------------------------------------------------------------------------------------------------------------|
+    |population          |variation & evolution	         |replication causes variation, reproduction causes competition -> increased mean fitness |
+    |---------------------------------------------------------------------------------------------------------------------------------------------|
+    |community (ecology) |consumption & nutrient cycling |-1) different populations/species are linked by consumption & tropic interactions       |
+    \                    \                               \-2) must be in mass & energy balance at level of ecosystem                              |
+    -----------------------------------------------------------------------------------------------------------------------------------------------
 
 9. brief summary of the cell {2}:
     (1-> plasma membrane consisting of a dual layer of phospholipids (phospholipid bilayer) that separates the aqueous outside and inside environments
