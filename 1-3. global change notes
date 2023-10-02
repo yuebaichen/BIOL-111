@@ -51,9 +51,9 @@ L3 - ecology & evolution of global change {4}
     (5-> invasive species {0, 1}:
         -ex. native populations have been replaced by invasive species
     (6-> hunting & harvesting {2, 2}:
-        -ex1. (commercial fish):
-            - gill-netting for fish kills bigger fish & lets smaller fish through
-            - fish sizes are shrinking since only small fish survive
+        -ex1. (commercial fish) {2}:
+            --1) gill-netting for fish kills bigger fish & lets smaller fish through
+            --2) fish sizes are shrinking since only small fish survive
         -1) estimates state 5-10% of ocean is being fished constantly -> massive population declines particularly in top predators (decrease in CPUE - catch per unit effort)
         -2) causes really big rates of change in populations
         -ex2. trophy hunting caused decline of horn size for trophy hunted animals & increasing frequency of tusklessness in elephants
@@ -64,7 +64,7 @@ L3 - ecology & evolution of global change {4}
     (2-> conceptualization of (mal)adaptation {2}: (well adapted phenotypic distribution sits beneath optimum)
         -1) scenario 1: abrupt shift in optimum cuts off majority of distribution (may lead to extinction)
         -2) scenario 2: gradual shift in optimum (phenotype distribution shifts along to follow optimum)
-    -*) shifting is usually conceptualized as natural selection but can also be sexual
+    (*-> shifting is usually conceptualized as natural selection but can also be sexual
 
 3. ways populations better match their phenotypes to the environment {2}:
     (1-> move to an appropriate location
@@ -89,19 +89,19 @@ L3 - ecology & evolution of global change {4}
             -2) persistence of many species lies in the diversity of populations they have but as those populations die out, the species as a whole becomes much more likely to go extinct
     (4-> change in habitat ranges of species {2, 1}:
         -1) habitat elevation of species is increasing {0, 1}
-            -ex. turkey vultures moving north to BC
+            --ex. turkey vultures moving north to BC
         -2) things specialized in high elevation will lose low elevation ranges as everything shifts up due to warming climate
-            -ex. marine life shifting to northward {0, 1}
+            --ex. marine life shifting to northward {0, 1}
         -ex. unexpected shifting: marmots in Vancouver shifting breeding later due to increased snow
     (5-> change in traits of species {1, 3}:
-        - rate of trait change in haldanes (h) = standard deviations per generation, shows that almost all big changes in average traits were due to human disturbance
+        -1) rate of trait change in haldanes (h) = standard deviations per generation, shows that almost all big changes in average traits were due to human disturbance
         -ex1. average size of all salmon populations is shrinking, particularly dramatically in recent years
             -*) move north to grow more quickly, mature earlier, & come back smaller
         -ex2. commercial cod fishery in Atlantic Coast of Canada had massive catches in 1970s & declined dramatically to 1% of population by 1990
             -*) cod in 1990 was half the length of cod in 1960
         -ex3. the faster fish stocks are harvest, the more rapidly the fish get smaller (study suggests that fishing specifically is the cause of size declines)
     (6-> evolutionary rescue {2, 0, 1}: persistence of a population (that would have gone extinct) through natural selection acting on heritable variation
-            -*) ultimate test of evolution; whether it will occur is an area of intense current research
-            -1) case 1: adaptive change keeps population out of risk zone (no extinction)
-            -2) case 2: adaptive change insufficient for persistence (extinction)
+        -*) ultimate test of evolution; whether it will occur is an area of intense current research
+        -1) case 1: adaptive change keeps population out of risk zone (no extinction)
+        -2) case 2: adaptive change insufficient for persistence (extinction)
     

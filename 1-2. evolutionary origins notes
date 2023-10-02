@@ -16,26 +16,26 @@ L2 - evolutionary origins {3}
 3. #^evolution {2}: changes in allele (variant form of gene that affects traits) frequency across generations^#
     (1-> two basic ways of studying evolutionary change depending on type of genetic variation {2}:
         ((1-> #^Mendelian genetic variation {0, 1}: differences among genomes of members of the same species^#
-            -ex. consider 1 gene with 2 possible alleles (A or a)
-                - diploid (presence of two complete sets of chromosomes in a cell) individuals will have two copies of this gene, one from each parent
-                - individual can exhibit one of 3 genotypes: homozygous (AA), homozygous (aa), or heterozygous (Aa)
-                    - #^genotype: total sum of genes transferred from parents to offspring; genetic make of an organism^#
-                    - #^homozygous: having identical alleles for a particular gene on homologous chromosomes (paired chromosomes that carry the same genes, one from each parent)^#
-                    - #^heterozygous: having two different alleles for a specific trait/gene^#
-                - genetic variation occurs when all individuals are not genetically identical
-                - populations can be considered as pools of genotypes&alleles (“gene pool”)
+            (((ex. consider 1 gene with 2 possible alleles (A or a) {4}
+                -1) diploid (presence of two complete sets of chromosomes in a cell) individuals will have two copies of this gene, one from each parent
+                -2) individual can exhibit one of 3 genotypes: homozygous (AA), homozygous (aa), or heterozygous (Aa) {3}
+                    --1) #^genotype: total sum of genes transferred from parents to offspring; genetic make of an organism^#
+                    --2) #^homozygous: having identical alleles for a particular gene on homologous chromosomes (paired chromosomes that carry the same genes, one from each parent)^#
+                    --3) #^heterozygous: having two different alleles for a specific trait/gene^#
+                -3) genetic variation occurs when all individuals are not genetically identical
+                -4) populations can be considered as pools of genotypes&alleles (“gene pool”)
         ((2-> #^quantitative variation {1}: distinct phenotypic variation among members of the same species#^
             -1) genetic changes in quantitative traits are controlled by changes in allele frequency at multiple genes & are often heavily influenced by the environment
     (2-> key mechanisms of evolution {5, 1}:
         ((1-> #^mutation {2}: changes in chromosomes&genes which typically manifests physically (the ultimate source of all genetic variation)^#
-            -1) mutations change the genetic code -> generates new alleles -> may change amino acid sequences or alter gene expression -> may have phenotypic effects
+            (((1-> mutations change the genetic code -> generates new alleles -> may change amino acid sequences or alter gene expression -> may have phenotypic effects
                 - mutation rates in roundworms: 1 mutation in 100M nucleotides copied, 2.1 mutations per genome per generation
                 -ex. mutation with phenotypic effects: different wing&abdomen shapes in Drosophila
-            -2) most mutations decrease fitness & are considered deleterious
-                - #^fitness: survival & reproductive success^#
-                - #^deleterious: injurious to health^#
-                - the average mutation reduces fitness by ~2%
-                - beneficial mutations (“hopeful monsters”) are extremely rare & are likely to be of small effect
+            (((2-> most mutations decrease fitness & are considered deleterious {2, 0, 2}
+                -*) #^fitness: survival & reproductive success^#
+                -*) #^deleterious: injurious to health^#
+                -1) the average mutation reduces fitness by ~2%
+                -2) beneficial mutations (“hopeful monsters”) are extremely rare & are likely to be of small effect
         ((2-> #^genetic drift {2}: change in gene pool of a population that takes place strictly by chance^#
             -1) causes random changes in allele frequency
             -2) evolution happens completely randomly due to an event wiping out random portion of the population
@@ -47,10 +47,10 @@ L2 - evolutionary origins {3}
                     --2) influence survival
                     --3) are heritable
                 -3) prediction: traits that improve survival should increase in frequency or size through time
-            -ex1. artificial selection of Drosophila across 35 generations completely diverged population into low&high bristle count
-            -ex2. natural example of evolutionary change (over one generation): 1976 Daphne Major drought & evolution of finches
-                - small seeds were quickly exhausted & only larger seeds were left; beak sizes were larger in the next generation
-                - some genes underlying this heritable beak trait variation have been identified & shown to also change in allele frequency during this period in this population
+            (((ex1. artificial selection of Drosophila across 35 generations completely diverged population into low&high bristle count
+            (((ex2. natural example of evolutionary change (over one generation) {2}: 1976 Daphne Major drought & evolution of finches
+                -1) small seeds were quickly exhausted & only larger seeds were left; beak sizes were larger in the next generation
+                -2) some genes underlying this heritable beak trait variation have been identified & shown to also change in allele frequency during this period in this population
             (((2-> selection&evolution are highly variable: favoured traits can vary drastically throughout generations (data from 30+ generations of finches shows all kinds of variance in evolutionary patterns)
         ((4-> #^sexual selection {2, 0, 1}: competition between members of the same sex for access to members of the opposite sex^#
             -1) #^intra-sexual {0, 1}: male-male competition^#
@@ -62,6 +62,6 @@ L2 - evolutionary origins {3}
             -1) often opposes effects of divergent natural selection
             -ex. exchanging individuals two varying lines of a species would reduce their divergence
                 -*) causes frequencies in two populations to be more alike
-        -ex. drunkards walk {2}:
+        ((ex. drunkards walk {2}:
             -1) evolution is a result of a balance of mutation (drunk stumbling), natural selection (slope/valley), sexual selection (hot girl), genetic drift (getting pushed or helped up), and gene flow (bungee tied to another drunk)
             -2) evolution often results in species at either end of the spectrum over time (in ditch - large or small beak), not the middle

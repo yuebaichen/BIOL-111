@@ -6,7 +6,7 @@ L1 - ecological complexity {1}
 
 1. branches of ecology {4}:
     (1-> #^community ecology {2, 0, 1}: interactions between species in relation to environment^#
-        -*) community ecology can be represented as a food web
+        ((*-> community ecology can be represented as a food web
         ((1-> categories within food webs {3}: (category of an organism is not always clear)
             (((1-> #^primary producer: organism that produces organic material from light/chemical energy^#
             (((2-> #^consumer {4}: any organism that does not produce its own energy^#
@@ -21,8 +21,8 @@ L1 - ecological complexity {1}
             -3) #^mutualism: interaction between species where both benefit^#
             -4) #^parasitism: one organism (parasite) takes resources from another (host) without immediately killing it^#
     (2-> #^behavioural ecology {2}: animal behaviour in relation to environment^#
-        ((1-> #^optimal foraging theory {2}: model that predicts how animals behave when searching for food^#
-            - #^the theory’s prediction: animals adopt a foraging strategy that provides the most benefit (energy) for lowest cost; maximizing the net energy gain in order to maximize fitness^#
+        ((1-> #^optimal foraging theory {2, 1, 1}: model that predicts how animals behave when searching for food^#
+            (((*-> #^the theory’s prediction: animals adopt a foraging strategy that provides the most benefit (energy) for lowest cost; maximizing the net energy gain in order to maximize fitness^#
             (((1-> factors to consider {3}:
                 -1) abundance of different prey types
                 -2) difficulty to catch of different prey types
@@ -32,30 +32,30 @@ L1 - ecological complexity {1}
                 -2) #^predation risk: propensity to be predated upon by another organism (fear)^#
                 -3) #^essential nutrients: choices to obtain particular essential nutrients (non-related to energy)^#
                 -4) #^protection from toxins: choices that could potentially protect against toxins (non-related to energy)^#
-            - ex. bears 
+            (((ex. bears 
                 -*) prediction: since nutrition of salmon decreases rapidly after spawning, bears should eat the newest, most energy-rich fish
-                    -*) however, they can only do so when catching them is easy
-                        -*) bears kill younger/fresher salmon at narrow and shallow creek
-                        -*) bears kill older, less nutritious fish at larger and deeper creek
+                    --*) however, they can only do so when catching them is easy
+                        --*) bears kill younger/fresher salmon at narrow and shallow creek
+                        --*) bears kill older, less nutritious fish at larger and deeper creek
         ((2-> #^ecological specialization {2}: extent of limitation of diet & habitat as a result of evolutionary trade offs^#
             -1) #^generalist: have a diverse diet & thrive in a range of habitats^#
             -2) #^specialist: have limited diet & stricter habitat requirements^#
     (3-> #^ecosystem ecology {2}: flow of energy&matter through biotic&abiotic components of ecosystems^#
         ((1-> #^bottom-up control {1, 1}: when abiotic factors (amount of nutrients, sunlight, water) determine abundance of primary producers#^
-            -1) different nutrients can limit productivity at different times & places
-            -ex. nitrogen is often the limiting factor in temperate terrestrial environments:
-                -*) despite air being 78% nitrogen, most nitrogen is in gaseous form N2 which cannot be used by most organisms
-                -*) nitrogen can be “fixed” into a more usable form by bacteria in soil or roots of legume plants
-                -*) however, there still often a shortage of nitrogen for maximal growth
-                -*) proof via experimentation: nitrogen addition during forest fertilization via urea - CO(NH2)2
+            (((1-> different nutrients can limit productivity at different times & places
+            (((ex. nitrogen is often the limiting factor in temperate terrestrial environments {4}:
+                -1) despite air being 78% nitrogen, most nitrogen is in gaseous form N2 which cannot be used by most organisms
+                -2) nitrogen can be “fixed” into a more usable form by bacteria in soil or roots of legume plants
+                -3) however, there still often a shortage of nitrogen for maximal growth
+                -4) proof via experimentation: nitrogen addition during forest fertilization via urea - CO(NH2)2
         ((2-> #^top-down control {2, 1}: when predators control the abundance of lower trophic levels^#
             -ex. proof via experimentation: wolves were hunted to extinction in early 1900s in the Yellowstone ecosystem and caused
             many documented effects (some dramatic), including a trophic cascade upon their reintroduction in 1995
             -1) #^trophic cascade: powerful event resulting in changes to the structure of an ecosystem of which the results impact up&/down many trophic levels^#
             -2) #^keystone species: species with disproportionately large effect on its natural environment relative to its abundance^#
     (4-> #^population ecology {2}: demographics (births, deaths, structure of population) in relation to the environment^#
-        -1) pink salmon show 2 year abundance cycles bc they have strict 2 year life cycle -> generates “odd year” & “even year” runs
-        -2) correlated population cycles of snowshoe hares & lynx {2}:
-            -1) correlation due to predation, competition between lynx, competition between hares?:
+        ((1-> pink salmon show 2 year abundance cycles bc they have strict 2 year life cycle -> generates “odd year” & “even year” runs
+        ((1-> correlated population cycles of snowshoe hares & lynx {2}:
+            -1) correlation due to predation, competition between lynx, competition between hares? {1}:
                 -*) experiment setup studying 7 plots in boreal forests: 3 unmanipulated plots for control, 1 no lynx, 1 extra food, 1 extra food and no lynx
             -2) #^conclusion: hare populations are limited by both predation and food availability especially in conjunction; when predation and food limitation occur together, they have a much greater effect than either factor independently^#

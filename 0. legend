@@ -1,12 +1,49 @@
 legend
     #^__^# = definition
-    {x,y} = number of branches, number of examples
+    {x, y, z} = number of branches/points, number of examples, number of remarks
     (x-> = branch number ( signifies branch depth
-    -x) = end branch
+    -x) = end branch - signifies branch depth
+    ~} = fruiting branch ~ signifies branch depth
     (___) = remark
     x&x = this and this
     x & x = combining points
-    -ex. = example
+    -ex. = example (dont follow branch rules)
     -*) = remark
     
-    asdf delete this after
+
+La - title {b}
+
+1. subtitle {1, 1}:
+    (1-> branch level 1 {1}
+        ((1-> branch level 2 {1}
+            (((1-> branch level 3 {1}
+                -1) branch level 4 {1}
+                    --1) branch level 5 {1}
+                        ---1) branch level 6 {1}
+                            ~1} branch level 7 {1}
+                                ~~1} branch level 8 {1}
+                                ~~~1} branch level 9
+        ((2-> branch level 2 {2}
+            -1) branch level 3
+            -2) branch level 3
+                -*) non-important note
+            -3) branch level 3 {2}
+                --1) important note
+                --*) important note
+    -ex. example text
+
+2. subtitle {2*3, 0, 1}
+    --------------------------------------------------------------
+    |            |COLUMN 1 TITLE |COLUMN 2 TITLE |COLUMN 3 TITLE |
+    |------------------------------------------------------------|
+    |ROW 1 TITLE |example text	 |example text   |example text   |
+    |------------------------------------------------------------|
+    |ROW 2 TITLE |example text   |example text   |example text   |
+    --------------------------------------------------------------
+    (*1-> example remark {0, 2}
+        -ex1. example text
+        -ex2. example text
+
+b-1. subtitle
+
+b-2. subtitle
