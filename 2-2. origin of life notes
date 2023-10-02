@@ -1,33 +1,45 @@
+author(s)/contributor(s): yuebai
+
 L5 - origin of life
 
-information -> metabolic pathways
-central dogma	function	units	compartment
-DNA	information storage	base pairs	nucleus (eukaryotes) or cytoplasm (prokaryotes)
-mRNA	information retrieval (transcription)	bases (single strand of A,U,G,C)	cytoplasm
-????	product assembly (translation)	triplet code (codons)	ribosome
-protein	product	20+ different amino acids	cytoplasm
+1. information -> metabolic pathways {4*4, 0, 1}
+    ---------------------------------------------------------------------------------------------------------------
+    |CENTRAL DOGMA |FUNCTION	          |UNITS	             |COMPARTMENT                                     |
+    |-------------------------------------------------------------------------------------------------------------|
+    |DNA	       |information storage	  |base pairs	         |nucleus (eukaryotes) or cytoplasm (prokaryotes) |
+    |-------------------------------------------------------------------------------------------------------------|
+    |mRNA	       |information retrieval |bases (single strand  |cytoplasm                                       |
+    \              \(transcription)	      \of A,U,G,C)           \                                                |
+    |-------------------------------------------------------------------------------------------------------------|
+    |   	       |product assembly      |triplet code (codons) |ribosome                                        |
+    \              \(translation)	      \                      \                                                |
+    |-------------------------------------------------------------------------------------------------------------|
+    |protein	   |product	              |20+ different         |cytoplasm                                       |
+    \              \                      \amino acids           \                                                |
+    ---------------------------------------------------------------------------------------------------------------
+    -*) ^#central dogma: explanation of flow of genetic information within a biological system
 
-ribosome: macromolecular translation machine that consists of a complex of RNA and protein that perform biological protein synthesis (mRNA translation)
-- RNA polymerase synthesizes a single mRNA molecule from one strand (“antisense” strand) of DNA, producing a working copy of the “sense” strand
-    - RNA: polymeric molecule (nucleic acid) that is essential for most biological functions, either by performing the function itself (non-coding RNA) or by forming a template for production of proteins (messenger RNA)
-        - tRNA: adaptor molecule composed of RNA that serves as the physical link between the mRNA and the amino acid sequence of proteins
-    - polymerase: enzyme that synthesizes long chains of polymers or nucleic acids (used to assembled DNA or RNA)
-    - sense strand: (coding strand) DNA strand that carries the code to make a protein; has same base sequence as mRNA except for thymine instead of uracil
-        - antisense strand: (non-coding strand) DNA strand that serves as a template during transcription; read in the opposite direction of sense strand
-            - sense and antisense DNA are two complementary strands of DNA that have opposite orientations and sequences
-- transcription stops when a termination sequence is encountered
-- ~10k ribosomes in a fast-growing bacteria cell; only 10-100 in a slow growing cell
-- ~1-15 copies of ribosomal genes in a bacterial genome
-- ribosomes consists of two subunits:
-    - small 30S subunit (contains 16S rRNA): reads the mRNA
-    - large 50S subunit (contains 5S and 23S rRNA): forms polypeptide chains of amino acids
-- steps of ribosome translation:
-    1. ribosome forms by locking a larger onto a smaller subunit; docks on the start codon of an mRNA molecule in the cytoplasm
-    2. tRNA molecules bearing amino acids are distinguished by a triplet recognition sequence of 3 nucleotides; each docks at the corresponding triplet nucleotide sequence of the mRNA molecule
-    3. ribosome moves along one codon notch on the mRNA molecule and receives a new tRNA molecule loaded with its amino acid
-    4. formation of a peptide bond attaches the new amino acid to the previous one
-    5. successive tRNAs donate amino acids to the elongation protein, which extends into the cytoplasm
-    6. end of nRNA molecule is marked by a stop codon (AUU); ribosome disengages and separates into two subunits; protein folds up and diffuses away
+2. #^ribosome {6}: macromolecular translation machine consisting of a complex of RNA&protein that perform biological protein synthesis (mRNA translation)
+    (1-> RNA polymerase synthesizes a single mRNA molecule from one strand (“antisense” strand) of DNA, producing a working copy of the “sense” strand
+        ((1-> #^RNA: polymeric molecule (nucleic acid) essential for most biological functions, either by performing the function itself (non-coding RNA) or by forming a template for production of proteins (messenger RNA)^#
+            -*) #^tRNA: adaptor molecule composed of RNA that serves as the physical link between the mRNA and the amino acid sequence of proteins^#
+        ((2-> #^polymerase: enzyme that synthesizes long chains of polymers or nucleic acids (used to assembled DNA or RNA)^#
+        ((3-> #^sense strand: (coding strand) DNA strand that carries the code to make a protein; has same base sequence as mRNA except for thymine instead of uracil^#
+        ((4-> #^antisense strand: (non-coding strand) DNA strand that serves as a template during transcription; read in the opposite direction of sense strand^#
+            -*) sense and antisense DNA are two complementary strands of DNA that have opposite orientations and sequences
+    (2-> transcription stops when a termination sequence is encountered
+    (3-> ~10k ribosomes in a fast-growing bacteria cell; only 10-100 in a slow growing cell
+    (4-> ~1-15 copies of ribosomal genes in a bacterial genome
+    (5-> ribosomes consists of 2 subunits {2}:
+        -1) small 30S subunit (contains 16S rRNA): reads the mRNA
+        -2) large 50S subunit (contains 5S and 23S rRNA): forms polypeptide chains of amino acids
+    (6-> steps of ribosome translation {6}:
+        -1) ribosome forms by locking a larger onto a smaller subunit; docks on the start codon of an mRNA molecule in the cytoplasm
+        -2) tRNA molecules bearing amino acids are distinguished by a triplet recognition sequence of 3 nucleotides; each docks at the corresponding triplet nucleotide sequence of the mRNA molecule
+        -3) ribosome moves along one codon notch on the mRNA molecule and receives a new tRNA molecule loaded with its amino acid
+        -4) formation of a peptide bond attaches the new amino acid to the previous one
+        -5) successive tRNAs donate amino acids to the elongation protein, which extends into the cytoplasm
+        -6) end of nRNA molecule is marked by a stop codon (AUU); ribosome disengages and separates into two subunits; protein folds up and diffuses away
 
 redundancy of genetic code
 - lots of codons code for the same thing
