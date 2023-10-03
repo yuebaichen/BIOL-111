@@ -22,24 +22,24 @@ L5 - origin of life
 2. #^ribosome {6}: macromolecular translation machine consisting of a complex of RNA&protein that perform biological protein synthesis (mRNA translation)
     (1-> RNA polymerase synthesizes a single mRNA molecule from one strand (“antisense” strand) of DNA, producing a working copy of the “sense” strand
         ((1-> #^RNA: polymeric molecule (nucleic acid) essential for most biological functions, either by performing the function itself (non-coding RNA) or by forming a template for production of proteins (messenger RNA)^#
-            -*) #^tRNA: adaptor molecule composed of RNA that serves as the physical link between the mRNA and the amino acid sequence of proteins^#
+            -*) #^tRNA: adaptor molecule composed of RNA that serves as the physical link between the mRNA & the amino acid sequence of proteins^#
         ((2-> #^polymerase: enzyme that synthesizes long chains of polymers or nucleic acids (used to assembled DNA or RNA)^#
         ((3-> #^sense strand: (coding strand) DNA strand that carries the code to make a protein; has same base sequence as mRNA except for thymine instead of uracil^#
         ((4-> #^antisense strand: (non-coding strand) DNA strand that serves as a template during transcription; read in the opposite direction of sense strand^#
-            -*) sense and antisense DNA are two complementary strands of DNA that have opposite orientations and sequences
+            -*) sense and antisense DNA are two complementary strands of DNA that have opposite orientations&sequences
     (2-> transcription stops when a termination sequence is encountered
     (3-> ~10k ribosomes in a fast-growing bacteria cell; only 10-100 in a slow growing cell
     (4-> ~1-15 copies of ribosomal genes in a bacterial genome
     (5-> ribosomes consists of 2 subunits {2}:
         -1) small 30S subunit (contains 16S rRNA): reads the mRNA
-        -2) large 50S subunit (contains 5S and 23S rRNA): forms polypeptide chains of amino acids
+        -2) large 50S subunit (contains 5S & 23S rRNA): forms polypeptide chains of amino acids
     (6-> steps of ribosome translation {6}:
         -1) ribosome forms by locking a larger onto a smaller subunit; docks on the start codon of an mRNA molecule in the cytoplasm
         -2) tRNA molecules bearing amino acids are distinguished by a triplet recognition sequence of 3 nucleotides; each docks at the corresponding triplet nucleotide sequence of the mRNA molecule
-        -3) ribosome moves along one codon notch on the mRNA molecule and receives a new tRNA molecule loaded with its amino acid
+        -3) ribosome moves along one codon notch on the mRNA molecule & receives a new tRNA molecule loaded with its amino acid
         -4) formation of a peptide bond attaches the new amino acid to the previous one
         -5) successive tRNAs donate amino acids to the elongation protein, which extends into the cytoplasm
-        -6) end of nRNA molecule is marked by a stop codon (AUU); ribosome disengages and separates into two subunits; protein folds up and diffuses away
+        -6) end of nRNA molecule is marked by a stop codon (AUU); ribosome disengages & separates into two subunits; protein folds up & diffuses away
 
 3. redundancy of genetic code {3}:
     (1-> lots of codons code for the same thing
@@ -68,12 +68,12 @@ L5 - origin of life
         -1) mostly microbial
         -2) life only happened once in the universe (to our knowledge)
         -3) how did life evolve? most important attributes of living organisms {2}:
-            -1) #^genetic: self-replication and heritability (since these alone confer evolvability)^#
-            -2) #^physiological: metabolism, and thus complexity^#
+            -1) #^genetic: self-replication&heritability (since these alone confer evolvability)^#
+            -2) #^physiological: metabolism, & thus complexity^#
     (3-> 3 theories that have been advanced to explain the origin of life {3}:
         -1) #^special creation: supernatural (not science)^#
-        -2) #^panspermia: theory that life on earth originated from microorganisms or chemical precursors of life present in outer space and was able to initiate life upon reaching a suitable environment^#
-        -3) #^spontaneous generation (Oparin-Haldane hypothesis): life arose gradually from inorganic molecules with “building blocks” such as amino acids arising first and then combining to make more complex polymers^#
+        -2) #^panspermia: theory that life on earth originated from microorganisms or chemical precursors of life present in outer space & was able to initiate life upon reaching a suitable environment^#
+        -3) #^spontaneous generation (Oparin-Haldane hypothesis): life arose gradually from inorganic molecules with “building blocks” such as amino acids arising first & then combining to make more complex polymers^#
             --*) continuous series of entities linking the unambiguously chemical with the indisputably living, with evolution through natural selection taking over from self-assembly at some early point
 
 5. panspermia {3, 0, 1}:
@@ -81,9 +81,9 @@ L5 - origin of life
         -1) genome size doubles every ~400 million years
         -2) fitting a linear graph to the log transform would result in life originating before the formation of earth (however it is a big assumption to draw such a linear graph)
     (1-> undirected panspermia {3}: dispersal of microbes from planet to planet
-        ((1-> taken seriously due to short interval between appearance of permanent oceans and first signs of life
+        ((1-> taken seriously due to short interval between appearance of permanent oceans & first signs of life
         ((2-> bacteria could be transported by meteors {1}:
-            -1) seems likely that some would survive atmospheric heating and impact due to evidence of living bacteria surviving in Egyptian tombs (3.5kya), Canadian permafrost (5+kya), Russian permafrost (3.5mya), amber (25-40mya), salt crystals (250mya)
+            -1) seems likely that some would survive atmospheric heating&impact due to evidence of living bacteria surviving in Egyptian tombs (3.5kya), Canadian permafrost (5+kya), Russian permafrost (3.5mya), amber (25-40mya), salt crystals (250mya)
         ((3-> objections to undirected panspermia {2}:
             -1) low local star density
             -2) low probability of capture (lot of debris from mars but mars is same age as earth)
@@ -109,18 +109,18 @@ L5 - origin of life
             -*1) no reasonable pathway leading directly from a dilute solution of small molecules to a full-fledged DNA-protein cell has ever been found {0, 0, 1}
                 --*) this created an impasse in spontaneous origin of life until 1987
             -1) RNA is replicated by RNA polymerases (small RNA replicators exist as viruses today)
-            -2) RNA molecules can replicate without cells when provided with raw materials and a replicase {0, 0, 1}
+            -2) RNA molecules can replicate without cells when provided with raw materials & a replicase {0, 0, 1}
                 --*) can also act as enzymes called ribozymes comparable to protein enzymes
                     -*) #^ribozymes: catalyze reactions, including reactions that modify the state of other RNA molecules^#
             -3) #^self splicing introns: first examples discovered that proves genetics first; have been regarded as primitive forms of splicing machinery for eukaryotic pre-mRNAs^#
                 -*) #^self splicing: occurs for rare introns that form a ribozyme, performing the functions of a spliceosome by RNA alone^#
                 -*) #^intron: any nucleotide sequence within a gene that is not expressed or operative in the final RNA product^#
             -*2) RNA uniquely combines the capacity to replicate with the capacity to direct metabolism {0, 0, 1}
-                --*) led to the theory of the RNA world: an early ocean populated by self-replicating RNA strands from which cells and eventually all living organisms descended
+                --*) led to the theory of the RNA world: an early ocean populated by self-replicating RNA strands from which cells & eventually all living organisms descended
         ((2-> metabolism first {5}:
             (((1-> life in Lost City hydrothermal field {1}:
                 -1) potential energy source - chemical disequilibrium at hydrothermal vents {2}:
-                    --1) at high pressure and temperature (~150oC) - CO2 dissolved in water is reduced to H2 (exergonic reaction)
+                    --1) at high pressure&temperature (~150oC) - CO2 dissolved in water is reduced to H2 (exergonic reaction)
                         ---*) high pressure due to depth of ocean
                         ---*) high temp due to convection of geothermal heat through seabed
                     --2) #^organic synthesis: CO2 dissolved in seawater is reduced by H2 to form a range of organic molecules in anoxic conditions^#
@@ -133,18 +133,18 @@ L5 - origin of life
                 |------------------------------------------------------------------------------------------------------------|
                 |ELECTION ACCEPTER |oxidized form of substance B |-reduction (electron gain)-> |reduced form of substance B  |
                 --------------------------------------------------------------------------------------------------------------
-                -*1) electron donor gives electron to electron acceptor and releases energy
-                -*2) electron acceptor becomes electron donor and continues reacting according to the redox tower
+                -*1) electron donor gives electron to electron acceptor & releases energy
+                -*2) electron acceptor becomes electron donor & continues reacting according to the redox tower
             (((3-> redox tower {3}:
                 -1) bacterial metabolism is based on pairing electron acceptors with electron donors
                 -2) if oxidation of molecule A (left column) is above the reduction of molecule B (right column) -> reactions can be coupled into a redox reaction -> yielding energy
-                -3) arrows drawn in the redox tower yield energy if they run downward from left to right and the amount of energy released is indicated by the length of the arrow
+                -3) arrows drawn in the redox tower yield energy if they run downward from left to right & the amount of energy released is indicated by the length of the arrow
             (((4-> evolution of metabolism {5}:
                 -1) glycolysis & fermentation (3.5 bya) {5}:
                     --1) glucose + 2NAD + 2ADP + 2Pi —(glycolysis)—> pyruvate + 2NADH + 2ATP + 2H2O + 2H+ —(fermentation)—> ethanol + NAD+ (2ATP)
                     --2) glycolysis is the initial stage of energy production
-                    --3) a 6-carbon molecule of glucose is broken down into a 3-carbon molecule of pyruvate, which generates energy (stored as ATP) and reducing power (stored as NADH) {3}
-                        ---1) #^pyruvate: simplest of the alpha-keto acids with a carboxylic acid and a ketone functional group^#
+                    --3) a 6-carbon molecule of glucose is broken down into a 3-carbon molecule of pyruvate, which generates energy (stored as ATP) & reducing power (stored as NADH) {3}
+                        ---1) #^pyruvate: simplest of the alpha-keto acids with a carboxylic acid & a ketone functional group^#
                         ---2) #^ATP: adenosine triphosphate, molecule that carries energy within cells^#
                         ---3) #^NADH: electron transfer molecule; electron donor at top of electron transport chain^#
                     --4) if oxygen (or some other alternative) is not available, then pyruvate is the final electron acceptor
@@ -177,9 +177,9 @@ L5 - origin of life
                     --2) caused the great oxygenation event (oxygen level from 0.0001% —> 21%)
                 -5) aerobic respiration {2}: evolution of oxygen breathing organisms
                     --1) CH2O + O2 —> CO2 + H2O (~36ATP)
-                    --2) electrons are supplied by NAD+ to NADH (most electropositive member of chain) and is passed along a chain of intermediates to the terminal electron acceptor, oxygen (which also received a proton to form water)
+                    --2) electrons are supplied by NAD+ to NADH (most electropositive member of chain) & is passed along a chain of intermediates to the terminal electron acceptor, oxygen (which also received a proton to form water)
             (((5-> Winogradsky column {5*4, 0, 1}:
-                -*) simple method for separating and visualizing the diverse metabolic systems found in a community of prokaryotes; microcosm of the history of life on earth {0, 0, 4}
+                -*) simple method for separating&visualizing the diverse metabolic systems found in a community of prokaryotes; microcosm of the history of life on earth {0, 0, 4}
                 -------------------------------------------------------------------------------------------------------
                 |AEROBIC                                                                                              |
                 |-----------------------------------------------------------------------------------------------------|
