@@ -1,3 +1,114 @@
 author(s)/contributor(s): jiyuan
 
 L8 - endosymbiosis - viruses {}
+
+
+Origin of eukaryotes: Are they just archaea? 
+    (x-> Hypothesis: the common ancestor split into 2 branches,
+        1. Bacteria
+        2. Archaea and eukaryotes.
+    However it was proven to be false, instead the Eocyte hypothesis suggests that it split in a different way: 
+        1. Bacteria
+        2. Archaea, 
+            Eukaryotes are only a branch of archaea 
+
+    Culture independent DNA sequencing of deep sea hydro thermal vents show that: 
+        All new archaea super phylum, a group in archaea are the known nearest relatives to eykaryotes. However, they grow very slow and must cross-feed with other bacteria to live and obtain essential nutrients
+            Lokiarchaeota
+            thorarchaeota
+            odinarchaeota 
+        The bacteria that Lokiarchaeota lived with could become mitocondrion. Through a process of entangle, engulf, endogenize. 
+            The ancestral prokaryotes diversified into mitocondrion ancestors, then through endosymbiosis absorbed into the ancestral eukaryotes.
+            ex. Eukaryotic algae could have taken photosynthetic plastids(chloroplasts) from photosynthetic bacteira such as blue green algae
+                Discovered by looking through a microscope and Discovered the structural similarities between a mitochondria and bacteria. 
+
+    The ancestors developed into compelx cells that had:
+         nucleus, mitocondrion, membrane. 
+         
+    Which developed into : 
+        Plants, animals, fungi, algae, protists. 
+
+LUCA- Last universal common ancestor of all living organisms
+    All cells today descend from a single cell that lived in the ocean a long time ago. 
+    All other linearages from LUCA became extinct. 
+    The two daughter cells of LUCA are
+        1. Bacteria
+        2. Archaea
+    Traits of LUCA were concluded from the common traits that still exist in both bacteria and archaea. 
+        1. They have a cell
+        2. They had a phospholipid
+        3. They had a DNA genome
+        4. They had a single circular chromosome 
+        5. The information to metabolism DNA is dependent on the RNA polymerase
+        6. They all have tRNAs. 
+        7. They all have ribosomes
+        8. They all have TCA cycle to do carbon metabolism and electron trasnport
+        9. They all have the ability to synthesize all 4 bases of DNA/RNA and amino acids. 
+    
+    More genome sequences means a bigger phyligeny. 
+    191 genomes based on alignment of 31 mowt ribosomal genes. 
+    Follow their mutations to infer a tree. 
+    Other super phylum candidates were Discovered(ancient groups that noone really knew)
+
+    However we cannot base 100 genes to represent the entire evolutionary history of the other 2000 genes in a prokaryotic genome. 
+    This discovery was thus called the tree of evolution of 1%
+    Any horizontal processes that grew into each other was not able to be shown. 
+
+    Compared rRNA of 16s in cyanobacteria to 18s rRNA with eukaryotic algae. Discovered them to be homologous. 
+        Algae contains nuclear ribosomal RNA--> eukaryotic. 
+        But chloroplast is cynobacterial. 
+    Which provides evidence for the hypothesis that cyanobacteria was ancestor to eukaryotic chloroplasts. 
+    The same was true for alphaproteobateria which turned into the mitochondria. 
+
+    however the spirochete was questionable. ****
+
+    Another key component that was missing from the tree was viruses. 
+     #^__^#    
+        Tiny pack of protein that contains DNA or RNA genome. 
+        Not a cell
+            No cytoplasm
+            No ribosome
+        Not capable of replication without a host cell. 
+        All forms of life are infected by viruses, LUCA probably too
+        All viruses use host resources to help replicate themselves
+            Animo acids
+            nucleotides
+        Some are more deadly than others. 
+
+    Ex. Corona virus(a eukaryotic virus)
+    Feature: 
+        1. In middle encapsulated single stranded RNA viral genome
+        2. A protein coat 
+        3. Lipid bilayer, 3 membrane proteins
+            Spike
+            membrane 
+            envelope
+        4. Genome sequence enabled development of vaccines and treatments. 
+
+    Cycle goes: 
+        1. Viral protein attaches to receptor on the outside of a eukaryotic cell. (such as human airway to COVID)
+        2.Viral genomes enters ribosome, start duplicating its polymerase. 
+        3.then RNA replication and trasncription 
+        4. Make new viral particles 
+        5. Through exocytosis leaves the cell. 
+
+    Identifying viruses: 
+        COVID is 96% similar to bats, 91% similar to pangolin, 55% similar to SARS COVID 1, ect..
+        They face tradeoffs as well during their evolution
+            Being better at transmitting through 1 species will decrease its effectiveness towards another. 
+        
+    Phage: virus that infects bacteria or archaea. 
+        highly diverse in: 
+            Shape
+            size 
+            gene
+        Linear double stranded DNA. 
+        Can transform HGT on bateria. 
+        outnumber bacteria by from 10x to 70x
+
+        Benefits: 
+            1. Control pathogen population 
+            2. Kill most abundant bacteria. 
+        Co-evolution: mutation happen on host to resist infection, while viruses mutate as well to cope with the resistance. 
+        ex. ompU bacteria good at anti-phage, tradeoff being bad at transmission to mammals. (lost the ability through evolution)
+
