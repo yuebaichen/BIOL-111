@@ -1,3 +1,5 @@
+author(s)/contributor(s): yuebai
+
 L4 - intro to microbes {12}
 
 #^microbe: microorganism/microbe is an organism of microscopic size, which may exist in single or multicellular form (invisible to naked eye ~1 micrometer)^#
@@ -23,17 +25,16 @@ L4 - intro to microbes {12}
         -5) grow the bacteria in pure culture
 
 3. social lives of bacteria {3, 2}: (symbiosis - non-harmful bacteria (“living together”))
-    -ex1. vibrio fisher bacteria specifically colonize bobtailed squid and provides useful “camouflage” function
+    (ex1. vibrio fisher bacteria specifically colonize bobtailed squid and provides useful “camouflage” function
         -*) bioluminescence of bacteria seems to make the squid a more efficient hunter
-    -ex2. there is a fine line between mutualism and pathogenesis
+    (ex2. there is a fine line between mutualism and pathogenesis
         -*) vibrio cholera -> causes severe diarrhea
     (1-> some bacteria change their environment in a way that will have secondary effects on what other things can live there (lower pH)
     (2-> most plants and animals have a microbiome
         -*) #^microbiome: microbes living in a particular environment in or on a part of the body^#
     (3-> humans are ~2% bacteria by mass (mostly in the gut ~100 common species) {3}
         -1) 50:50 ratio of bacterial cells to human cells
-        -2) 100:1 by genes
-            - millions of unique bacteria genes in us doing various metabolic pathways that the human genome cannot encode (hugely information rich)
+        -2) 100:1 by genes; millions of unique bacteria genes in us doing various metabolic pathways that the human genome cannot encode (hugely information rich)
         -3) each defecation event changes the ratio to favour human cells
 
 4. deep evolution of bacteria {3}:
@@ -74,10 +75,17 @@ L4 - intro to microbes {12}
         -*) DNA sequencing has gotten cheaper per base pair (able to sequence more and more)
 
 8. levels of biological organization {3*3}
-    |UNIT                |MECHANISM                      |PROCESS
-    |individual (cell)   |metabolism & replication       |requires continual input of energy & material to keep cell out of thermodynamic equilibrium (turning back into raw materials)
-    |population          |variation & evolution	         |replication causes variation, reproduction causes competition -> increased mean fitness
-    |community (ecology) |consumption & nutrient cycling |different populations/species are linked by consumption & tropic interactions. must be in mass & energy balance at level of ecosystem
+    -----------------------------------------------------------------------------------------------------------------------------------------------
+    |UNIT                |MECHANISM                      |PROCESS                                                                                 |
+    |---------------------------------------------------------------------------------------------------------------------------------------------|
+    |individual (cell)   |metabolism & replication       |requires continual input of energy & material to keep cell out of thermodynamic         |
+    \                    \                               \equilibrium (turning back into raw materials)                                           |
+    |---------------------------------------------------------------------------------------------------------------------------------------------|
+    |population          |variation & evolution	         |replication causes variation, reproduction causes competition -> increased mean fitness |
+    |---------------------------------------------------------------------------------------------------------------------------------------------|
+    |community (ecology) |consumption & nutrient cycling |-1) different populations/species are linked by consumption & tropic interactions       |
+    \                    \                               \-2) must be in mass & energy balance at level of ecosystem                              |
+    -----------------------------------------------------------------------------------------------------------------------------------------------
 
 9. brief summary of the cell {2}:
     (1-> plasma membrane consisting of a dual layer of phospholipids (phospholipid bilayer) that separates the aqueous outside and inside environments
@@ -105,8 +113,8 @@ L4 - intro to microbes {12}
             ((4-> substrates + energy + information in cell -> biosynthesis of substrates into more DNA, proteins, membranes, useful stuff {2, 0, 1}
                 -1) cell will grow and accumulate biomass until it has to split
                 -2) reproduction involves the division of biomass and replication of information
-                -ex. link to natural selection:
-                    -*) the cell that can encode metabolism more efficiently than another cell, it will grow faster and get to reproduction faster in which case the heritable information responsible for metabolism will also be passed on to subsequent generations
+                -ex. link to natural selection {1}:
+                    --*) the cell that can encode metabolism more efficiently than another cell, it will grow faster and get to reproduction faster in which case the heritable information responsible for metabolism will also be passed on to subsequent generations
 
 10. the bacterial genome and plasmids - genome stores information {2, 0, 1}:
     -*) bacterial has nucleoid instead of nucleus
@@ -119,9 +127,9 @@ L4 - intro to microbes {12}
         -1) encodes things like antibiotic resistance
         -2) helps bacteria adapt to new environment
         -3) replicate at the same time as the chromosomes but daughter cells don’t always receive equal numbers
-        -4) some plasmids encode conjugation that results in plasmid transfer from donor to recipient via a pilus
-            -*) #^conjugation: process of one bacterium transferring genetic material to another through direct contact^#
-            -*) #^pilus: thin protein tube originating from the cytoplasmic membrane of many bacteria; can be used to exchange genetic material or as cell adhesion mechanism^#
+        -4) some plasmids encode conjugation that results in plasmid transfer from donor to recipient via a pilus {2}
+            --*) #^conjugation: process of one bacterium transferring genetic material to another through direct contact^#
+            --*) #^pilus: thin protein tube originating from the cytoplasmic membrane of many bacteria; can be used to exchange genetic material or as cell adhesion mechanism^#
         -5) plasmids may encode functions that benefit the host bacteria but in some cases they are parasites
 
 11. DNA, chromosomes, & genes {4}:
@@ -158,5 +166,5 @@ L4 - intro to microbes {12}
     -2) population will be assembled into communities of different species that are linked trophically 
     -3) they will have different metabolism and lifestyle and they’ll interact
     -ex. distinction between photoautotrophs and heterotrophs (linked since end products of one are the beginning of the other) {2}
-        -1) photoautotrophs harvest sunlight to do photosynthesis: take CO2 + H2O -> CH2O (sugar) + O2
-        -2) heterotrophs use those sugars (carbohydrates) and those sugars use oxygen to do aerobic respiration: CH2O (sugars/carbs) + O2 -> CO2 + H2O
+        --1) photoautotrophs harvest sunlight to do photosynthesis: take CO2 + H2O -> CH2O (sugar) + O2
+        --2) heterotrophs use those sugars (carbohydrates) and those sugars use oxygen to do aerobic respiration: CH2O (sugars/carbs) + O2 -> CO2 + H2O
