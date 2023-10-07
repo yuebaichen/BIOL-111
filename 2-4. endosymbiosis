@@ -13,12 +13,12 @@ L8 - endosymbiosis {4}
 2. updating the tree of life {4}:
     (1-> Ciccarelli et al. (2006) {3}:
         -1) included 191 geneomes of different species in a tree
-        -2) based on an alignment of 31 genes (mostly ribosomal) present in 1 copy per genome (didnt just use 1 gene like Woese)
+        -2) based on an alignment of 31 genes (mostly ribosomal) present in 1 copy per genome (didn't just use 1 gene like Woese)
         -3) major branches: bacteria, archaea&eukaryotes as sisters
     (2-> Laura Hug et al. (2016) {4}: major update
         -1) included 30k genomes of cultured bacteria
         -2) added 1011 metagenome-assembled genomes (never been cultured, just sequenced from environment & assembled into a genome)
-        -3) discovered entire superphylum "Candidate Phyla Radiation" of uncultured bacteria (ancient unkown group)
+        -3) discovered entire superphylum "Candidate Phyla Radiation" of uncultured bacteria (ancient unknown group)
         -4) also added the Asgard branch & the TACK superphylum (sister to the Asgard branch) that is thought to have given rise to eukaryotes
     (3-> problem with the tree {5}:
         -1) critique: "the tree of one percent"
@@ -44,7 +44,7 @@ L8 - endosymbiosis {4}
             \(hypothesized by Margulis)   \             \-no molecular evidence                   |
             ---------------------------------------------------------------------------------------
 
-3. summary of endosymiotic theory & HGT (horizontal gene transfer) {4}:
+3. summary of endosymbiotic theory & HGT (horizontal gene transfer) {4}:
     -1) endosymbiosis is a special case of HGT involving an entire genome (whole cell gets eaten)
     -2) some genes from endosymbiont genome are transferred to host genome over time (another form of HGT) (most likely bacteria -> archaea, formation of interdependence)
     -3) more genome sequencing shows extent of HGT is much greater than expected: tangled tree as opposed to neat vertical tree
@@ -60,13 +60,13 @@ L8 - endosymbiosis {4}
         -6) some viruses are more virulent (killing/deadly) than others ("some just tag along for the ride without doing much harm")
     (ex1. eukaryotic virus - coronavirus {8}:
         ((1-> viral particle made up of {3}:
-            -1) genetic material consisting of single-stranded RNA (protected by nucleocaspids)
-            -2) encapsuled by a protein coat (capsid, weird geometric looking shield thing)
+            -1) genetic material consisting of single-stranded RNA (protected by nucleocapsids)
+            -2) encapsulated by a protein coat (capsid, weird geometric looking shield thing)
             -3) lipid bilayer consisiting of 3 membrane proteins {3}:
                 --1) spike
                 --2) membrane
                 --3) envelope
-        ((2-> causes repiratory illness
+        ((2-> causes respiratory illness
         ((3-> genome sequence from early 2020 enabled rapid development of vaccines&treatments
         ((4-> virus replication varies but all use host cell machinery {6}:
             -1) binding & viral entry (binds to cell receptor)
@@ -74,7 +74,7 @@ L8 - endosymbiosis {4}
             -3) host cell ribosome translates viral genome & polymerase
             -4) RNA replication&transcription
             -5) replicated genomic RNA & subgenomic transcripts are translated
-            -6) structural proteins combine with nucleocaspid -> viron formation -> exits cell & does damage via exocytosis
+            -6) structural proteins combine with nucleocapsid -> virion formation -> exits cell & does damage via exocytosis
         ((5-> receptors are specific to tissue/specie cell type (lung cells have different receptors than skin cells)
         ((6-> similarity between SARs-CoV2 & other CoV {5}:
             -1) 96% bat CoV
@@ -94,14 +94,14 @@ L8 - endosymbiosis {4}
             -3) highly diverse (size, shape, gene content)
             -4) linear double-stranded DNA, 3k-500k base pairs
         ((2-> phages as a vector of HGT {3}: transduction 
-            -1) lyctic cycle {4}: lyctic phages that lyse/explode/kill bacteria; imposes seletive pressure (resist or die)
+            -1) lytic cycle {4}: lytic phages that lyse/explode/kill bacteria; imposes selective pressure (resist or die)
                 --1) phage infects bacteria
                 --2) injects its own DNA into bacteria
                 --3) lyses the bacterial genome
                 --4) some bacterial genome gets accidentally packaged into new phages
             -2) transducing phage with bacterial genome can inject its DNA into another bacteria species; DNA can get integrated in the transduced cell
             -3) lysogenic cycle {1}: lysogenic phages that integrate DNA
-                --1) key genes that make chloera a pathogen is entirely coded by phages & integrated into the bacterial genome
+                --1) key genes that make cholera a pathogen is entirely coded by phages & integrated into the bacterial genome
         ((3-> phages are everywhere & very abundant (predators that kill bacteria, impose very strong selective pressure) {4}
             -1) ~10^31 phages on earth
             -2) sea water: 10^(5-6) phages (/g or /ml), outnumber bacteria 10:1
@@ -111,7 +111,7 @@ L8 - endosymbiosis {4}
             -1) vectors of HGT
             -2) often target the most abundant bacteria & keep them in check ("kill the winner") {0, 2}
                 --ex1. could potentially terminate cyanobacteria blooms in lakes
-                --ex2. could potentially keep pathogens like V. chloera under control
+                --ex2. could potentially keep pathogens like V. cholera under control
         ((5-> phages are linked in cycle of coevolution:
             -1) defined as mutually imposed selective pressures (evolution of one affects the other, adaptation&counter-adaptation)
             -ex. mechanism {3, 0, 1}:

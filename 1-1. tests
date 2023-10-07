@@ -1,0 +1,118 @@
+<><><><><><>
+TEST 1:
+
+ecology: interaction btwn organisms&environment
+
+branches of ecology:
+    1. community: interaction between organisms in relation to env
+        - can be represented as food web
+        1. 3 categories within food web:
+            1. primary producer: produces organic material from light/chem nrg
+            2. consumer: cannot produce its own energy, has to consume other organic sources of carbon
+                1. herbivore: consumes plants
+                2. carnivore: consumes flesh of animals
+                3. omnivore: consumes both plants & aniamls
+                4. parasite: survives in/on another species, at the expense of its host
+            3. decomposer: breaks down organic material 
+    2. behaviour: animal behaviour in relation to env
+        1. optimal foraging theory: model predicting animal behaviour when searching for food
+            - predicts that animals will adopt strategy to maximize nrg intake while minimizing effort
+            1. limiting factors
+            2. other factors
+                1. intraspecific competition: members of same species compete for limited resource
+                2. predation risk: propensity to be predated upon by another (relates to fear)
+                3. essential nutrients: choices to obtain essential nutrients (non-related to nrg)
+                4. pretection against toxins: choices that could potentially provide protection from toxins (non-related to nrg)
+            - bear as example:
+                - predication: since nutritional value of salmon decrease rapidly with time, bears should eat the freshest, most nrg-rich fish
+                    - bears at shallow creek eat the fresh salmon due to ease of catching
+                    - bears at deep creek are forced to sacrifice nutritional value despite equal abundance due to difficulty to catch salmon
+        2. ecological specialization: extent of limitation of diet&habitat as result of evolutionary tradeoffs
+            1. generalist: diverse diet & can thrive in variety of habitats
+            2. specialist: limited diet & stricter habitat requirements
+    3. ecosystem: flow of nrg&matter through biotic&abiotic components of ecosystem
+        1. bottom-up control: abiotic factors determine abundance of primary producers
+        2. top-down control: predators determine abundance of lower trophic levels
+            - wolves as example:
+                - wolves were hunted to extinction in the early 1900s in Yellowstone
+                - resulted in many documented effects (some dramatic) including a trophic cascade upon their reintroduction in 1995
+        - terminology:
+            1. trophic cascade: powerful event that changes structure of ecosystem of which the effects impacts up&down many trophic levels
+            2. keystone species: has disproportionately large effect on natural environment relative to its abundance
+    4. population ecology: demographics in relation to env
+        1. annual population trends of pink salmon:
+            - pink salmon show 2 year life cycles due to their strict 2 year lifespan
+            - this generates even&odd runs
+        2. correlated population of snowshoe hares & lynx:
+            - experiment conducted to determine whether trend is driven by predation, competition btwn lynx, or competition btwn hares:
+                - study on 7 plots of boreal forest: 3 unmanipulated plots for control, 1 plot no lynx, 1 plot extra food, 1 plot no lynx & extra food
+            - study concluded that hare populations are controlled by predation AND food abundance... ESPECIALLY IN conjunction
+                - when predation & food limitation occur together, it has a much greater impact that either factor has individually
+
+
+
+<><><><><><>
+TEST 2:
+
+ecology: interactions btwn organisms&env.
+
+branches of ecology:
+    1. community: interaction btwn species in rel. to env.
+        - can be expressed as food webs
+        1. categories within food webs:
+            1. primary producers: produce organic material from light/chem nrg & inorganic carbon sources
+            2. consumers: derives nrg intake from inorganic carbon sources
+                1. herbivores: consumes plants
+                2. carnivores: consumes flesh of animals
+                3. ominvores: consumes both plants&animals
+                4. parasites: survives in/on another species at expense of its host
+            3. decomposers: break down organic material 
+        2. community interactions: ()
+            1. predation: one organism preys on another
+            2. competition: two organims compete for an insufficient resource
+            3. mutualism: rel. btwn two organisms that benefit both
+            4. parasitism: one organim takes resources from another, without immediately killing its host
+    2. behaviour: animal behaviour in rel. to env.
+        - optimal foraging theory: model predicting animal behaviour when searching for food
+            - predicts that animals should adopt foraging strategy to maximize ratio of nrg gained to nrg spent
+            - should maximize tot nrg gained to maximize fitness
+        - main factors:
+            1. abund. of prey types
+            2. difficulty to catch (effort)
+            3. quality (nutritional value)
+        - other factors:
+            1. intraspecific competition: members of same species compete for insufficient resource
+            2. predation risk: propensity to be predated upon by another (related to fear)
+            3. essential nutrients: choices to obtain particular essential nutrients
+            4. protection from toxins: choices that could potentially grant protection from toxins (non-related to nrg)
+        - bears as ex.
+            - prediction: since salmon nutritional value rapidly decreases with time, bears should choose to consume freshest, most nrg-rich salmon
+                - bears in deep creek must sacrifice nutritional value of prey despite abund. of prey due to difficulty to catch
+    3. ecosystem: flow of nrg&matter through biotic&abiotic components of ecosystem
+        - bottom-up: abiotic factors determine abund. of primary producers
+            - diff. nutrients can limit productivity @ diff. times&places
+            - nitrogen as ex.
+                - nitrogen is often limiting factor in temperate terrestrial envs.
+                - nitrogen is very abundant in the air as N2 but is inaccessable to most organisms
+                - can be "fixed" into soil by some bacteria & plants
+                - still exists shortage of nitrogen for maximal growth
+                - proof via experimentation: nitrogen addition via urea significantly boosts plant growth (used as fertilizer)
+        - top-down: predators control abund. of lower trophic levels
+        - terms:
+            - trophic cascade: powerful event that shapes structure of ecosystem of which its effects impacts up&down many trophic levels
+            - keystone species: has disproportionately large effect on its natural env. relative to its abund.
+    4. population: demographics in rel. to env.
+        - annual population trend of pink salmon:
+            - 2 year life cycle due to strict 2 year life span
+            - generates odd&even runs
+        - correlated population cycle of snowshoe hare & lynx:
+            - experiment to determine whether trend was driven by: predation, comp btwn lynx, comp btwn hares
+                - studied 7 plots of boreal forest: 3 unmanipulated, 1 no lynx, 1 extra food, 1 no lynx & extra food
+            - conclusions:
+                - hare populations are limited by both predation & food limitation, especially in conjunction
+                - when predation & food limitation occur simultaneously, it has much greater effects than either factor independently
+
+
+
+<><><><><><>
+TEST 3:

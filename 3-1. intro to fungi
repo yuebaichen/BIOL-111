@@ -19,8 +19,8 @@ L7 - intro to fungi {5}
         --1) free-living/symbiotic
         --2) beneficial/pathogenic
         --3) single/multicellular
-    -6) fungi are as ubiquotous as bacteria
-    -7) critical to ecosytem function (as plant symbionts & decomposers) across all ecosystems
+    -6) fungi are as ubiquitous as bacteria
+    -7) critical to ecosystem function (as plant symbionts & decomposers) across all ecosystems
     -8) has a wide range of human uses
     -9) largest organism in the world (fungal network): The Humongous Fungus, Malheur National Forest, Oregon (Armillaria ostoyae, "honey mushroom") - discovered by Dr Catherine Parks in 2000
 
@@ -30,7 +30,7 @@ L7 - intro to fungi {5}
         ((*2-> has no complex transport systems
         ((1-> single-celled fungi {}:
             -1) single-celled species occur in several taxonomic groups (not monophyletic)
-            -2) "yeasts" are unicellular fungi, others include cytrids (parasite)
+            -2) "yeasts" are unicellular fungi, others include chytrids (parasite)
             -3) difference between fungi&bacteria {2}:
                 --1) fungi are eukaryotes, bacteria are prokaryotes
                 --2) cell wall composition: chitin for fungi, peptidoglycan for bacteria
@@ -53,7 +53,7 @@ L7 - intro to fungi {5}
             -1) saprophyte: feeds on dead things (ex. white rot fungus)
             -2) symbiont: gets fed by others, not always intentionally (symbiosis two organisms living closely together; does not necessary mean beneficial relationship - parasite is symbiotic)
         ((3-> ways of nutrient absorption of different fungi have impacted their ecology&evolution
-        ((4-> impact of fungi nutrition {0, 4}: examples that shape exosystems
+        ((4-> impact of fungi nutrition {0, 4}: examples that shape ecosystems
             (((ex1. lignin {6}:
                 -1) plant lignin&celulose are the most abundant molecules on earth (lignins = ~25% of land-based biomass); lignin&cellulose are tightly intertwined together into ligninocellulose
                 -2) fungi were the first & most efficient decomposers of lignin
@@ -68,15 +68,15 @@ L7 - intro to fungi {5}
                 -3) important in succession: lichens are often the first organisms to habitat post-glacial-retreat or post-volcanic environments
                 -4) secrete acids -> help break down rock -> kickstarts soil formation & ecological succession
             (((ex3. mycorrhizae {5}:
-                -1) plants provid fungus with sugars&carbon; fungus absorbs nutrients from soil which are passed along to the host plant
-                -2) 80% of vascular plants partner with fungi to get nutriest from soil
+                -1) plants provide fungus with sugars&carbon; fungus absorbs nutrients from soil which are passed along to the host plant
+                -2) 80% of vascular plants partner with fungi to get nutrients from soil
                 -3) hyphae massively increase SA of root system for absorption
                 -4) 100 times thinner than thinnest plant root; vastly extend reach/absorption of plant root system
                 -5) incredibly important for plant health&productivity (almost all vascular plants have them)
             (((ex4. chytrid fungi {8}:
                 -1) example of symbiotic fungi that shapes ecosystems (but not in a good way)
                 -2) group of single-celled fungi that are very devastating pathogens to amphibians
-                -3) grows on the skin of amphibians (frogs, salamanders); since amphibians perform many essential funtions via skin (respiration, water absorption, thermoregulation), the fungus rapidly kills them 
+                -3) grows on the skin of amphibians (frogs, salamanders); since amphibians perform many essential functions via skin (respiration, water absorption, thermoregulation), the fungus rapidly kills them 
                 -4) believed to have arisen in Korea in the last century (1960s) & rapidly spread throughout the world due to human activity
                 -5) people started to notice that frogs were dying off on mass around the world; 60 species of frogs were already extinct by the time the fungus was identified in the 1990s
                 -6) ~120 frog species today have gone extinct or near extinction due to chytrid fungus
@@ -87,13 +87,13 @@ L7 - intro to fungi {5}
         ((2-> fungi have evolved very diverse/complicated reproduction system
         ((3-> different to other organisms in that some fungi have haploid&diploid phases
         ((4-> asexual {2}: (no mixture of sexual material)
-            -1) simplest: fragmetation (hyphae can break off into a new organism)
+            -1) simplest: fragmentation (hyphae can break off into a new organism)
             -2) slightly more complex: during haploid phase (can produce haploid vegetative spores)
         ((5-> sexual reproduction {3, 1}:
             -1) very different from sexual reproduction in plants/animals
             -2) often only see sexual reproductive structures in the form of mushrooms
             -ex. Basidiomycete {4, 0, 1}
-                --*) fungi have a dikaryotic phase where cells fuse without fusion of nucleus/genetic materal
+                --*) fungi have a dikaryotic phase where cells fuse without fusion of nucleus/genetic material
                 --1) compatible individual haploid mycelia/hyphae fuse to initiate sexual cycle (plasmogamy)
                 --2) produces a dikaryotic mycelium (1 cell, 2 haploid nuclei); this stage can last decades
                 --3) produce mushroom with gills lined with dikaryotic basidia: haploid nuclei fuse (karyogamy) -> diploid nuclei -> recombination
@@ -110,7 +110,7 @@ L7 - intro to fungi {5}
 
 4. humans & fungi {}:
     - edible mushrooms (all mushrooms are edible, but some of them only once - food & drugs)
-    - yeasts have been adopted by humans for millenia to take advantage of their fermentation (breakdown of sugars -> alcohols + CO2) to produce:
+    - yeasts have been adopted by humans for millennia to take advantage of their fermentation (breakdown of sugars -> alcohols + CO2) to produce:
         - alcohols (grains, fruits)
             - yeast that naturally grow on skin of grapes that creates wine
             - yeast for brewing beer
@@ -119,7 +119,7 @@ L7 - intro to fungi {5}
         - cheese (blue cheese)
     - mycotoxins: fungi can produce toxins that kill other organisms 
         -ex. penicillin producing fungus that kills bacteria; penicillin (antibiotic) was derived from fungi
-        -ex. cyclosporin produced by fungi to reduce rejection of organ transplants
+        -ex. cyclosporine produced by fungi to reduce rejection of organ transplants
         -ex. ergot alkaloids that clot/thicken/stem blood used to treat migraine, Parkinson's disease, Alzheimer's disease, prevent excessive bleeding during labor, create of hallucinogenic drugs
     - bioremediation (especially white rot fungus that devours lignin)
         - white rot fungus to break down pulp&paper industry waste
@@ -135,7 +135,7 @@ L7 - intro to fungi {5}
     -7) chytrid fungi (chytridiomycota): simple microscopic fungi widespread in fresh&brackish water that invades thin permeable skin of amphibians
     -8) chitin: fibrous structure consisting of large, structural polysaccharide (carbohydrate) made from chains of modified glucose found in the exoskeletons of insects & the cell walls of fungi
     -9) spore: sexual/asexual reproductive cell consisting of a cell wall that encloses a mass of cytoplasm & a nucleus (usually adapted for dispersal & survival for long periods of time under unfavourable conditions)
-    -10) saprophyte/saprotroph: organism that feeds&grows on dead organisms; breaks down complex organic material & absorb the simplre products
+    -10) saprophyte/saprotroph: organism that feeds&grows on dead organisms; breaks down complex organic material & absorb the simpler products
     -11) saprophytic: organisms that obtains food by absorbing dissolved organic material from products of organic breakdown&decay
     -12) symbiont: organism that lives in a symbiotic relationship with another organism
     -13) plasmogamy: fusion of cytoplasm of two or more cells (usually without fusion of nuclei)
