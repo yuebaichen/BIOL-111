@@ -144,6 +144,7 @@ EXAM:
         - revised "eocyte hypothesis" tree: eukaryotes embedded within archaea formed due to endosymbiosis of bacteria by archaea (not parsimonious due to ester -> ether -> ester)
     - bacteria: unicellular, cell wall & cell membrane, lack organelles, nucleoid instead of organized nucleus (prokaryotic), cell wall w/ peptidoglycan
     - archaea: unicellular, prokaryotic, cell membrane phospholipid w/ ether bonds, cannot photosynthesize, distinct metabolic pathways & genes to bacteria (includes extremophiles previously thought to be bacteria)
+    - eukarya: eukaryotic, has organelles
     - possible model for first eukaryote: endosymbiosis (entangle, engulf, endogenize)
     - LUCA: last universal common ancestor -> bacteria & archaea
         - had phospholipid bilayer plasma membrane
