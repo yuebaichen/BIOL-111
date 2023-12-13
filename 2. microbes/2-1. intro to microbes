@@ -1,6 +1,6 @@
 author(s)/contributor(s): yuebai
 
-L4 - intro to microbes {12}
+L4 - 2.1: intro to microbes {12}
 
 #^microbe: microorganism/microbe is an organism of microscopic size, which may exist in single or multicellular form (invisible to naked eye ~1 micrometer)^#
 
@@ -135,18 +135,17 @@ L4 - intro to microbes {12}
 
 11. DNA, chromosomes, & genes {4}:
     (1-> replication of double stranded DNA {6}:
-        -1) protein (DnaA) recognizes origin of replication and unwinds DNA
-        -2) origin-binding protein loads two helicases (protein complex) onto DNA
-        -3) ATP hydrolysis moves helicase along chromosome, driving a wedge between the strands to force them apart
-            -*) #^ATP hydrolysis: catabolic reaction process where the chemical energy stored in ATP is released upon breaking the bonds^#
-                -*) #^catabolic: promoting metabolic activity concerned with the breakdown of complex molecules to release energy^#
-        -4) RNA primer is synthesized on the single-stranded portion of DNA
-        -5) multi-protein replication machine (replisome - consisting of DNA polymerase & other elements) synthesize both daughter strands simultaneously and adds on matching nucleotide
-            -*) #^DNA polymerase: an enzyme (protein catalyst)^#
-        -6) two replication forks meet at termination site, replisome is unloaded and the daughter chromosomes separate
+        1. DnaA protein recognizes origin of replication & unwinds DNA & loads two helicases onto DNA
+        2. single stranded binding (SBB) proteins keep unzipped strands separate & topoisomerase keeps zipped DNA from supercoiling
+        3. ATP hydrolysis moves helicase along chromosome
+        4. primase synthesizes RNA primer on single strand portions of DNA
+        5. replisomes consisiting of DNA polymerase & other elements synthesize both daughter strands simultaneously & adds on matcing base
+            - DNA polymerase only codes 5' to 3', so the 3' to 5' lagging strand constantly needs new primers resulting in Okazaki fragments (since DNA strands run antiparallel)
+            - RNA primer is overwritten with DNA & fragments on lagging strand are patched by ligase
+        6. two replication forks meet at termination site: replisome is unloaded & daughter chromosomes separate
     (2-> replication proceeds with occasional errors {2}:
         (1-> when DNA polymerase messes up nucleotide matching
-        (2-> error rate of replication in bacteria is very low {3}: ~10-10 (1 in 10 billion) per base pair per replication
+        (2-> error rate of replication in bacteria is very low {3}: ~10^-10 (1 in 10 billion) per base pair per replication
             -1) amounts to ~10-3 (1 in 1k) mutations per genome per replication
             -2) however a 5ml overnight culture of E. coli contains ~10 billion cells, so every possible single-nucleotide mutation is likely to be present
             -3) most of the mutations won’t matter; some deleterious, some beneficial

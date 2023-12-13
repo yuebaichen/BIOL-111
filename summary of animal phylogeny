@@ -1,0 +1,145 @@
+*: sister groups
+
+virus: likely originated from ancient RNA cells predating LUCA
+        - tiny protein package containing a DNA/RNA genome 
+        - not concidered a cell (no organelles)
+        - not capable of reproduction w/o host (vector of HGT)
+    1. eukaryotic virus: single stranded RNA encapsulated by protein coat (capsid)
+    2. phage: linear DNA genome in protein coat, injects DNA into bacteria/archaea 
+
+LUCA:
+    1. bacteria
+    2. split--<:
+        1. archaea
+        2. eukaryotes:
+            1. split--<:
+                1. fungi
+                2. split--<:
+                    1. choanoflagellates (NOT COVERED)
+                    2. animalia: ...
+            2. plantae: ...
+
+plantae:
+    - green algae (chloroplasts containing chlorophyll a+b & B-carotene, green plants)
+        - bryophytes (terrestrial, non-vascular)
+            - tracheophytes (vascular tissue, seedless)
+                - gymnosperms (naked seeds)
+                    - angiosperms (flowering)
+    
+algae examples: mostly aquatic, photosynthetic, lack true roots/stems/leaves & specialized reproductive structures
+        - used as food, food thickener, agar, gelatin substitute, bioplastics, potential fertilizer, potential biofuel
+    1. phytoplankton: single-celled, free-living organisms, responsible for ~50% of global photosynthesis (PLANTS!!!)
+    2. brown algae: kelps, ~2k species, brown from carotenoid pigment, multicellular, fast growing, crucial to ecosystems, sex/asex (NOT PLANTS!!!)
+    3. red algae: uni/multi-cellular, sex/asex, 7k+ species, can live at great depths (red carotenoid pigment absorbs blue light) (PLANTS!!! but not green)
+
+animalia: eukaryotic, heterotrophic, multicellular, no cell wall, motile at some life stage, diploid somatic cells, diplontic
+    - multicellularity:
+        - porifera (sponges)
+        - 2 embryonic cell layers (diploblastic):
+            - cnidaria:
+                1. hydrozoa (hydra)
+                2. scyphozoa (true jellyfish)
+                3. cubozoa (box jellyfish)
+                4. anthozoa (true corals)
+            - 3 embryonic cell layers (triploblastic), bilateral symmetry:
+                - aceolomorpha (NOT COVERED)
+                - coelom, CNS, cephalization:
+                    - protostomes: spiral cleavage, coelom forms via splitting within mesoderm, blastopore develops into mouth
+                        - lophotrochozoa: lophophore (often coiled ring of ciliated tentacles around mouth), trochophore larva (ciliated ring for mobility & to direct food to mouth)
+                            - rotifera (NOT COVERED)
+                                - platyhelminthes/flatworm
+                                    *1. annelids:
+                                        1. polychaeta ("many hairs") (bristle worms, marine worms)
+                                        2. clitellata:
+                                            1. oligochaeta ("few hairs") (earthworms)
+                                            2. hirudinea (leeches)
+                                        3. echiura & sipuncula (unsegmented worms) (NOT COVERED)
+                                    *2. mollusks:
+                                        1. polyplacophora ("bearer of many plates") (chiton; looks like isopod but lacks advanced locking mechanism & exoskeleton)
+                                        2. bivalvia ("two valves") (clams, mussels, oysters, scallops)
+                                        3. gastropda ("belly feet") (land snails, nudibranch)
+                                        4. cephalopoda ("head foot") (squid, cuttlefish, octopus, nautilus)
+                        - ecdysozoa: exoskeleton, grow by ecdysis/molting
+                            1. nematoda (round worms)
+                            2. tardigrada (water bears or moss piglets)
+                            *3. onychophora (velvet worms)
+                            *4. arthopoda (jointed foot):
+                                1. myriapods ("countless feet")
+                                2. chelicerates ("fanged")
+                                3. crustaceans
+                                    4. insects
+                    - deuterostomes: radial cleavage, coelom forms via mesoderm forming pockets from gut, blastopore develops into anus
+                            - pharyngeal gill slits
+                        *1. echinodermata: penta radial symmetry, water vascular system, loss of pharyngeal gill slits
+                            1. crinoidea (sea lillies/feather)
+                            2. asteroidea (sea stars)
+                            3. ophiuoroidea (brittle stars)
+                            4. holothuroidea (sea cucumbers)
+                            5. echinoidea (sea urchins & sand dollars)
+                        *2. chordata: dorsal hollow nerve cord, notochord, muscular post-anal tail
+                            1. cephalochordata (lancelets) (NOT COVERED)
+                            2. urochordata (tunicates) (NOT COVERED)
+                            3. vertebrata (craniates): ...
+
+vertebrata: vertebrae, cranium
+    *1. myxinoidea (hagfish)
+    *2. petromyzontoidea (lamprey)
+    - gnathostomata: jaws
+        - chondrichthyes (cartilaginous fishes) (sharks, rays, skates)
+        - osteichthyes (bony fishes): lungs, endoskeleton
+            - actinopterygii (ray-finned fishes)
+            - sarcopterygii: lobed fins
+                - actinistia (coelocanths)
+                - split--<:
+                    - dipnoi (lungfish)
+                    - tetrapoda: limbs
+                        - amphibia:
+                            - anura (frogs & toads)
+                            - urodela (salamanders & newts)
+                            - caecillia (worm-like things)
+                        - amniota: amniotic egg
+                            - *mammalia: hair/fur, sweat glands, mammary glands (lactation)
+                                - prototherians: monotremes (oviparous)
+                                - therians: viviparous
+                                    - *marsupials (pouched)
+                                    - *eutherians (placental)
+                            - *reptilia: scales w/ hard keratin
+                                1. lepidosauria (lizards, snakes, tuatara)
+                                    1. squamates (lizards, snakes)
+                                    2. tuatara (2 extant species)
+                                2. testudinea (turtles, turtoises)
+                                *3. crocodilia (alligators, crocodiles)
+                                *4. aves (birds)
+
+primates: forward facing eyes, grasping hand
+    - prosimians (lemurs, loris, galago)
+    - tarsiers (among the smallest primates, only entirely carnivorous primate)
+    - anthropoids: larger brain
+        - new world monkeys (prehensile tail, flat nose, arboreal)
+        - split--<:
+            - old world monkeys
+            - long arms, short legs, no tail:
+                - gibbons (smaller than most apes, mostly arboreal)
+                - hominids (great apes): fist walking
+                    - orangutan (very large)
+                    - knuckle walking:
+                        - eastern & western gorilla
+                        - split--<:
+                            - bonobo & chimps
+                            - homo: ...
+
+homo: bipedalism
+    1. ardipithecus (could walk upright but still retained primitive big toe for grasping trees)
+    2. australopithecus (gracile australopithecines): all extinct
+        1. A. afarensis: "lucy" skeleton from 3.5 Mya provided evidence that BIPEDALISM EVOLVED BEFORE BRAINS fully evolved
+        2. A. africanus (NOT COVERED)
+    3. paranthropus (robust australopithecines) (NOT COVERED)
+    4. early homo:
+        1. H. habilis ("handy/skillful") (shorter jaw & bigger brain, first tool use)
+        2. H. ergaster (NOT COVERED)
+        3. H. erectus ("standing") (first hominid to leave africa into eurasia, first fire use) (same size as humans but w/ smaller brain & thicker skull)
+    5. recent homo:
+        1. H. heidelbergensis (NOT COVERED)
+        2. H. neanderthalensis: (coexisted w/ H. sapiens but disappeared ~30 Kya) (short, stalky, but powerful build w/ brains larger than humans)
+        3. H. floresiensis: (survived until ~60 Kya & possibly wiped out by volcanic eruption)
+        4. H. sapiens

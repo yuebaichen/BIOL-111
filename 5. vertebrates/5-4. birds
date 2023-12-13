@@ -1,0 +1,155 @@
+authors & contributors: yuebai
+
+L23 - 5.4: verts 4 - birds: how to occupy extreme env & fly?
+
+big ideas for aves:
+    - how to occupy extreme envs?: thermoregulation
+    - how to get in the air?: feathers, better lungs, lighter bones
+
+probable ancestor to birds: theropod dinosaur (flesh eating dinos characterized by hollow limbs & 3 toes/claws on each limb)
+    - shared characteristics btwn birds & dino ancestor:
+        - bipedal, 3 hind toes
+        - carnivorous
+        - 4 chambered heart
+        - similar lungs
+        - feathers
+        - hollow bones
+        - parental care of eggs & juveniles
+    - evolutionary cousin to birds (not ancestor, we don't know the actual ancestor): archaeopteryx ("ancient wing")
+        - ~150 Mya (jurrasic period)
+        - 12+ fossil specimens
+        - crow-sized
+        - bird (avian) characteristics of arc'teryx: feathers & wings
+        - non-avian characteristics of arc'teryx: teeth & bony tail
+
+general bird info:
+    - ~9.6k species
+    - amniotes
+    - endothermic (warm-blooded, can regulate heat internally)
+    - 4-chambered heart w/ completely separate pulmonary & systemic circuits
+    - have feathers & most fly
+    - diverse beaks (evolution of beak linked to diversification as it ties to feeding styles/capabilities)
+        - diverse diets: carnivores, herbivores, nectivores, scavengers
+        - evolution of beak -> anatomical variation -> natural selection -> diversity
+        - example: darwin's finches
+            - mini-radiation of beaks to generate diff adaptations to feed on diff things
+    - diverse feet modified for running, grappling, swimming, etc
+
+thermoregulation: body temp control
+    - 4 main ways of heat loss/gain:
+        1. conduction: from surface you're sitting on
+        2. radiation: heat from sun radiation
+        3. evaporation: evaporative cooling off body
+        4. convection: wind blowing & removing heat via convection
+    - 2 sources of body heat:
+        1. ectotherms: absorb EXTERNAL heat & ridding it to the env passively
+        2. endotherms: generate their own INTERNAL heat via METABOLIC processes
+    - how do endotherms generate heat?: due to our poor metabolic efficiency -> generates excess heat (lose NRG when converting food to ATP or ATP to ADP)
+        - we're able to keep ourselves warm because we're BAD at metabolism (also means it's costly to keep warm)
+    - cool fact: camera traps use infra-red movement detection to turn on infra-red camera (infra-red array lights up scene with infra-red light so camera can see)
+    - endotherm vs ectotherm is not the same as hemeotherm (const body temp) & heterotherm (variable temp, allow body temp to fluctuate)
+        - endotherms often maintain constant body temp
+            - not always: endotherms can drop body temp significantly during hibernation
+            - bees arent endotherms but can generate heat by fake flying
+        - endotherm metabolism works overtime when surrounding temp is lower or higher than its body temp to generate/get rid of heat
+            - metabolism is lowest when at preferred heat
+        - ectotherms metabolism increases as temp increases
+            - body temp is 1-1 linear relationship to env temp (cold turtle won't move but warm turtle can move fast)
+    - 3 broad classes/mechanisms of thermoregulation:
+        1. behavioural:
+            - orientation relative to heat source, basking, huddling, & varying contact w/ heat source
+            - moving locations throughout the day
+            - example: lizards
+                - maintains body temp btwn lower & upper limits by moving btwn hot & cold microhabitats 
+                - usually maintain body temp different to that of env
+            - example: japanese macaque - goes into hot spring in winter for warmth (famous tourist attraction)
+            - example: emperor penguins (huddles together in -60 deg C but sometimes gets too warm so they disperse -> huge release of vapor)
+        2. physiological:
+            - too hot -> inc blood flow to periphery, sweating, panting (blood carries most of heat so preventing it from reaching SA prevents losing heat to outside)
+            - too cold -> dec blood flow to periphery, shiver
+            - example: human thermostat
+                - negative feedback system in hypothalamus (maintains homeostasis, stable eqm)
+                - if temp too high -> sweat -> evaporative cooling
+                - if temp too low -> shiver -> generate metabolic heat
+        3. physical:
+            - insulation (fur, feathers, fat)
+            - SA to vol ratio
+                - modify size through evolution to inc/dec SA:vol ratio based on env (colder -> bigger, hotter -> smaller)
+            - colour
+            - example: amt of fur, fat, SA differences 
+                - Allen's rule: thicker limbs & appendages in cold climates to improve SA:volume ratio
+                - example: jack rabbit
+                    - long vascularized ears to rid of heat in hot (convective & evaporative cooling can occur via blood vessels flowing to extremeties)
+                - example: arctic hare
+                    - short ears & thick limbs - don't want to lose heat through extremeties
+        - other thermoregulation techniques:
+            - counter-current heat exchangers: whale tongue, mammal foot, flippers
+            - store fat as brown adipose tissues (can then metabolism to keep warm)
+        
+respiration:
+    - flying/swimming & endothermy demand high amt of oxygen
+    - some birds able to high at extremely high altitudes (>30k feet, bar-headed geese flying over himalayas)
+    - consequently, bird resp sys has evolved to be much more complex & efficient than mammals
+    - resp sys:
+        - UNIDIRECTIONAL flow of air thorugh lungs
+        - numerous sacs (8-9) - made up of anterior & posterior sacs (NOT LUNGS, no resp surfaces)
+    - bird ventiliation (aka breathing): 
+        - birds don't have tidal flow: air doesnt go in and out with every breath
+        - takes 2 cycles/breaths for air to go in and out (breathe in and out)
+        - human lungs exchange a drastically smaller percentage of the air we breath compared to birds
+        1. breath 1: air drawn into posterior sacs (inhalation), air propelled through lungs from posterior sac (exhalation)
+        2. breath 2: same air drawn into anterior sacs from lungs (inhalation), same air propelled out through nares/nostrils (exhalation)
+
+evolution of flight: enabled by efficient resp sys
+    - flight has evolved at least 4 times (independently):
+        1. insects
+        2. pterosaurs (not dinosaurs but around the same time, evolved much bigger flying things than exists today)
+        3. birds
+        4. bats
+        - NOTE: flying is NOT the same as gliding
+            - flying is POWERED flight, using muscles to flap wings
+            - gliding is passive (flying squirrels/lemurs/fish/reptiles/etc) but is still very cool
+                - flying fish jump out of water, spread their fins, and glide across water thanks to the ground effect (when chased by predator)
+                - flying lizard spreads out its ribs with flaps of skin to glide through air
+                - gliding frog has spread out webs in btwn toes that help them glide from tree to tree
+                - gliding snakes climb up trees, jump off & spread their bodies to glide long distances
+    - convergent evolution of flight:
+        - similarities due to common env, not a common ancestor
+        - not closely related organisms independently evolve similar features
+    - 3 main adaptations for flight:
+        1. hollow bones (w/ struts to provide structural support, can be strong yet very light)
+        2. sternum (breastbone) enlarged & keeled (keel: projection on sternum serving as anchor for wing muscle attachments)
+            - inc SA for attachment of large flight muscles
+        3. feathers
+            - therapod dinos had feathers for insulation: birds likely evolved feathers not for flight but for insulation
+            - functions: insulation, flight, sensory structures, nest lining (all evolved from scales)
+            - composed of B-keratin derived from scales (mentioned in 5-3, evolved in reptiles)
+            - most birds have reptile-like scaled skin on their legs rather than feathers
+            - have evolved feathers for all types of purposes (tail, flight, semiplume, filoplume, bristle, downy)
+    did flight evolve from ground-up or trees-down?:
+        - ground-up hypothesis: dinos were running around & started flapping for wtv reason -> gliding -> eventually flight
+            - direct support for ground-up: chukars (are partridges - medium-sized galliform (heavy-bodied & ground-feeding) bird)
+                - chukars are poor fliers: have short stubby wings & tire easily
+                - hatchlings run from danger, often up steep inclines & flapping their wings
+                - angle of flapping created traction rather than lift ("wing-assisted incline running") - perhaps later evolved into flying
+            - dinos were blisteringly fast on land, evolving primitive flight to take a little load off feet can greatly improve speed
+                - primitive dino feathers for ornamentation and insulation shown to improve running speed and leaping height by DOUBLE
+                    - feathers would be very favourable under pressure of natural selection -> flight
+        - trees-down hypothesis: arboreal dinosaurs leaped down from trees -> started gliding -> started flapping -> eventually flight
+            - however they'd have to evolve to be arboreal first in order to climb up trees to jump down from them
+            - non-avian dinosaurs had no trace of any arboreal adaptations, only had anatomy for high-speed chase running
+        - cool fact: bats showed no transitionary fossil since their appearacne 55 Mya
+            - bats were intially arboreal whereas birds & pterosaurs had a ground up start
+            - this is why bats are so poor at flying (less efficient) compared to birds & pterosaurs
+
+intro video:
+    - dark-eyed junco: altricial birds (takes long time to develop in nest)
+    - common merganser: diving fish predators
+    - common loon: large numbers of failed breeders congregate at lake to forage on sticklback fish
+    - killdeer: covers babies under itself
+    - eagles tend to be scavengers
+    - white-bearded manakin: males clear a little space on forest floor & does jumping dance between branches to impress females
+    - pelican: lunge beaks into water or dive in water to catch fish
+    - potoo: turns into branch looking form
+    - vultures: can eat a lot of food (rotten food, scavengers) but have trouble getting into carcass
+    - swallow: sometimes cavity nest in logs (will feed young then bring out waste)

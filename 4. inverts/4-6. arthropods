@@ -1,0 +1,182 @@
+authors & contributors: yuebai
+
+L19 - 4.6: inverts 6 - diversity of arthropods: from protostomes to deuterostomes
+
+arthropod diversity: 4 major groups
+    - arthropod groups have long been undergoing constant revision: myriapods & insects considered sister groups but new molecular data suggests insects are within crustaceans
+    1. myriapods ("countless feet"): milipedes, centipedes
+        - ~16k species found mainly in moist terrestrial envs 
+        - 2 body regions:
+            - head with one pair of antennae, simple eyes, two jaws (lower & upper)
+            - long segmented trunk/body
+        - reproduction: separated sexes, internal fertilization
+        - centipedes (chilopoda):
+            - 1 pair of appendages per segment
+            - carnivores: nocturnal predators (poison containing fangs)
+            - ~3k species
+        - milipedes (diplopoda):
+            - 2 pairs of appendages per segment (each visible segment is a pair of fused segments)
+            - detritivores, herbivores (much slower than centipedes)
+            - ~11k species
+    2. chelicerates ("fanged"): pycnogonids (sea spiders), arachnids (spiders, mites, scorpions), horseshoe crabs
+        - ~100k species: ancient group of arthropods
+        - 2 body regions (tagmata): 
+            - cephalothorax - appendages
+            - abdomen - no appendages
+        - six pairs of appendages:
+            1. chelicerae: fangs (connected to venom glands)
+            2. pedipalps: pincers, sensory organs, locomotion (can be modified in many ways)
+            3-6. 4 pairs of walking legs
+        - no jaw/mandibles & no antennae: must inject digestive enzymes into prey to partially digest before consumption
+        - mostly predators but many evolved to have other feeding modes
+        - reproduction: sexes are separated, with elaborate courtship for some species (spiders)
+            - internal fertilization: internal for terrestrial (often indirect), external for marine horseshoe crabs
+        - example: sea spiders - carnivores/scavengers, external fertilization (most unusual chelicerates, phylogeny highly debated)
+    3. crustaceans: crabs, daphnia, barnacles, shrimp, crayfish, isopods
+        - crustaceans are paraphyletic (insects are nested within crustacea, insects later lost one pair of antennae)
+        - dominate marine, but also found in freshwater & terrestrial envs
+            - ~47k species: very ancient with fossils dating back to cambrian & also living fossils (ex. triops)
+            - make up large park of "zooplankton" (animal drifters)
+            - >8mil tons harvested annually for human consumption: mainly shrimps, crabs, lobsters
+        - 3 body regions: head, thorax (cephalothorax, head & thorax fused tgt in many species), abdomen
+        - each body segment can have pair of appendages
+        - separate sexes (few hermaphroditic, few have asexual reproduction)
+        - example: daphnia
+            - freshwater cladoceran ("water fleas"): lives in all kinds of freshwater habitats
+            - capable of diel vertical migration (DVM) up and down water column to avoid predation
+            - zooplankton: important trophic link
+            - phenotypic plasticity: ability of one genotype to produce more than one phenotype when exposed to diff envs
+            - model organism for toxicology & ecological genomics: due to sensitivity to env pollution & condition
+            - cyclical vs obligate parthenogenetic life cycle: alternation between sexual & asexual
+                - parthenogenesis: form of asexual reproduction where embryo develops w/o fertilization by sperm
+                    - some species reproduce exclusively by parthenogenesis while others can switch between sexual & parthenogenesis
+                - cyclical:
+                    - favourable conditions: asexual mature females -> parthenogenetic daughter (haploid, genetically identical)
+                        - can rapidly fill env: produce offspring every few days
+                    - unfavourable conditions: asexual mature females -> sexual female w/ ephippia (haploid egg) OR parthenogenetic son (haploid sperm)
+                        - female & son mate -> diploid sexual egg -> diapause (dormant stage during unfav cond) -> mature asexual female
+                - obligate: loss of mating & sexual reproduction
+                    - females still produce parthenogenetic son but diploid eggs instead of haploid which doesn't require fertilization (meiosis genes suppressed in females)
+                    - produced males are fully function since meiosis is not suppressed in males 
+                        - progeny of son will be partially asexual: can spread meiosis suppression to sexual cyclical populations (it's complicated)
+        - example: copepods
+            - very small crustaceans found in nearly every aquatic habitat (most are planktonic, some benthic): very diverse
+            - most have huge pair of first antennae for swimming
+            - few species have parasitic phases
+            - dominant member of zooplankton: feeds on small algae (phytoplankton)
+            - zooplankton: important trophic link
+    4. insects: butterflies, moths, beetles, flies, grasshoppers (highly modified/specialized crustaceans)
+        - dominate land & abundant in freshwater, very few marine species
+            - ~1mil described species (more undescribed)
+        - 3 body regions:
+            - head w/ antennae, mouthparts (ex. mandibles), compound eyes
+                - external mouthparts: unique to insects
+                    - diversity in mouthparts adapted for diff feeding modes:
+                        - chewing (grasshopper), lapping (bee), siphoning (butterfly), sucking (mosquito)
+                        - herbivore, detritivore, fluid-drinker, predator, scavenger, parasite
+            - thorax w/ 3 pairs of walking legs, may have wings (one/two pairs)
+                - wings evolved 320 Mya from ancestral multibranched appendage based on pdm gene analysis (used in gas exchange in modern crafish)
+                    - wings are outgrowth of exoskeleton: insects were likely the first animals on earth to aquire wings
+                - homologous structure: same ancestral root
+                - analogous structure: same function, diff ancestry
+            - abdomen w/ no appendages
+        - sexual reproduction w/ separate sexes & metamorphosis (complete/incomplete)
+        - key orders of insects: wings play important role in classification of insects (don't need to memorize orders & wing types)
+            - coleoptera: beetles - four wings, hard forewings (elytra) protecting hind wings
+            - lepidoptera: butterflies, moths - wings covered w/ minute scales, fore & hind wings fused tgt
+            - diptera: flies, mosquitoes, midges - one pair of main wings, reduced hind wings (halteres)
+            - hymenoptera: ants, bees, wasps - large forewing, reduced hind wing
+            - hemiptera: true bugs, aphids, cicadas - forewings are leathery near base & membranous near tip (some species are wingless or only have forewings)
+                - periodical cicadas (magicicada): occur simultaneously in 13 or 17 year cycles (after spending 13/17 years as larva)
+                    - males aggregate into groups after emergence to attract females
+                    - females make slits in bark after mating to deposit eggs in stems of woody plants
+                    - adults only live 4-6 weeks but larvae/nymphs spend 13/17 years underground
+            - orthoptera: grasshoppers, crickets - membranous hind wings folded like fan under forewing
+            - odonata: dragonflies, damselflies - four membranous wings with long slender abdomen
+        - example: wings of flies & wasps
+            - wings appear transparent but are colourful against black background
+            - colour initially dismissed as iridescence, however surface variation of chitin filters out iridescence
+                - remaining colour is stable & visible from any angle
+                - colours differ consistently between species & sexes (beautiful colours have been neglected until fairly recently)
+        - ecological impact: perform important ecosystem services
+            - pollination by native insects (esp crop pollination): 15-30% of human diet is result of animal mediated pollination
+            - essential decomposers: dung burial by dung beetles (inc value of pasture via nitrogen cycling)
+            - biological control of pests: vast number of insects prey on other insects
+                - 10% of insects are parasitoids (entire orders of insects)
+            - essential food source for other mammals, birds, fish
+            - effective dispersal agents for seeds, pathogens, other invertebrates
+        - sharp decline of insects: "insect apocalypse"
+             - worldwide trend of sharp decline in biomass & diversity
+             - causes: 
+                - widespread use of insecticides
+                - habitat loss, decline of plants/animals insects depend on for food/shelter
+                - displacement by non-native species
+                - pollution, global spread of insect diseases
+
+deuterostomes: focus on echinodermata
+    - evolution of coelom, cephalization, CNS resulted in protostomes & deuterostomes
+        - protostomes: Lophotrochozoa & Ecdysozoa
+        - deuterostomes: Echinoderms & Chordates (has notochord some point in life stage)
+    - phylum echinodermata ("spiny skin"): starfish & stuff
+        - ~7k extant species
+            - include sea stars/urchins/cucumbers/lillies
+        - strictly marine
+            - found on seabead at every ocean depth (benthic)
+        - diverse modes of nutrition: predators, detritivores, filter-feeders
+        - appeared in fossil record at start of Cambrian (very ancient)
+        - most have sexual reproduction: separate sexes & external fertilization
+            - release gametes into water column -> fertilized eggs hatch -> free swimming larva -> eventually settles in seabed -> adult
+        - able to regen lost tissues (limbs): able to fully regrow as long as there is part of central disk left
+        - 4 similarites w/ other deuterostomes: ancestral characteristics
+            1. triploblastic
+            2. complete digestive tract
+            3. ceolomate body cavity
+            4. bilateral symmetry during larval stage
+        - 3 lost ancestral characters retained by other deuterostomes:
+            - segmentation, cephalization (no head, no brain, no centralized sensory organs), bilateral symmetry in adult form
+        - 4 derived characters special to echinoderms:
+            1. water-vascular system:
+                - sys of water-filled tubes: hydrualic sys with chambers & canals
+                - end in "tube feet" that extend through pores in endoskeleton
+                - fluid within system moves to beating of cilia lining the canals & chambers
+                - used for locomotion but also for feeding, excretion of waste, gas exchange
+                - tube feet also have sensory structures (chemical & tactile)
+            2. hard dermal ENDOSKELETON: skeleton are covered by skin/muscle
+                - composed of calcium carbonate plates (ossicles) & spines
+                - continuous growth: plates enlarge & new ones are added
+                - covered by thin layers of skin (epidermis) & muscles
+            3. hemal system: poorly understood, lack true blood-vascular system, similar to water-vascular system, hemal channels extend to gonads
+            4. pentaradial symmetry: organs radiating from central disk in pattern of five
+        - 5 major echinodermata classes/groups:
+            - crinoidea: sea lillies/feather
+                - suspension feeders
+                - ~700 species
+                - sea lillies covered parts of seafloor in dense forests during Cambrian
+            - asteroidea: sea stars
+                - ~2k species
+                    - sometimes called starfish
+                - often predator, relatively agile
+                - evert stomach secretes enzymes to digest prey then engulf partially digested prey
+            - ophiuroidea: brittle stars
+                - w/ long arms (many arm spines) connected to central dish
+                - ~2k species
+                - filter-feeders, predators, detritivores
+                - many live in deep sea
+            - holothuroidea: sea cucumbers
+                - ~1.5k extant species
+                - mainly detritivores, scavengers, filter-feeders
+                - come in many colours
+                - reduced endoskeleton
+                - five rows of tube feet
+            - echinoidea: sea urchins & sand dollars
+                - ~950 species
+                - edoskeleton formed of distinct fused plates
+                - still retain pentaradial symmetry
+                - well known for spines (some venemous), locomotion, & defence
+                - have structure called aristotle's lantern for scraping algae off of rocks
+    - phylum chordata: presence of notochord at any stage of life cycle, ALSO DEUTEROSTOMES :D
+        - notochord: elastic rod-like structure derived from embryonic mesoderm found in many deuterostome animals
+            - located dorsal to gut tube, ventral to dorsal nerve cord
+        1. cephalochordata: lancelets
+        2. tunicata (urochordata): tunicates
+        3. vertebrata (craniata): vertebrates (UNIT 5!!!)

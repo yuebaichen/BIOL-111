@@ -1,6 +1,6 @@
 author(s)/contributor(s): yuebai
 
-L5 - origin of life {6}
+L5 - 2.2: origin of life {6}
 
 1. information -> metabolic pathways {4*4, 0, 1}
     ---------------------------------------------------------------------------------------------------------------
@@ -34,12 +34,12 @@ L5 - origin of life {6}
         -1) small 30S subunit (contains 16S rRNA): reads the mRNA
         -2) large 50S subunit (contains 5S & 23S rRNA): forms polypeptide chains of amino acids
     (6-> steps of ribosome translation {6}:
-        - ribosome forms and docks on start codon (AUG) of mRNA with tRNA at P site
-        - corresponding tRNA to the codon at the A site is accepted and a peptide bond forms between the amino acids of the A & P site
-        - tRNA at the P site releases its amino acid onto the tRNA at the A site & becomes empty
-        - ribosome moves one triplet codon forward on mRNA; empty tRNA at E site & peptidyl tRNA at P site
-        - cycle continues & successive tRNAs donate amino acids to the growing polypeptide chain until stop codon (UAG, UGA, UAA) is reached
-        - ribosome disengages & seperates into two subunites; protein folds up & diffuses away
+        1. ribosome forms and docks on start codon (AUG) of mRNA with tRNA at P site
+        2. corresponding tRNA to the codon at the A site is accepted and a peptide bond forms between the amino acids of the A & P site
+        3. tRNA at the P site releases its amino acid onto the tRNA at the A site & becomes empty
+        4. ribosome moves one triplet codon forward on mRNA; empty tRNA at E site & peptidyl tRNA at P site
+        5. cycle continues & successive tRNAs donate amino acids to the growing polypeptide chain until stop codon (UAG, UGA, UAA) is reached
+        6. ribosome disengages & seperates into two subunites; protein folds up & diffuses away
 
 3. redundancy of genetic code {3}:
     (1-> lots of codons code for the same thing

@@ -1,0 +1,220 @@
+authors & contributors: yuebai
+
+L17 - 4.4: inverts 4 - annelids & mollusks
+
+intro:
+    - sister phyla annelids & mollusks are part of clade Lophotrochozoa
+        - closest relatives to flatworms
+    - Lophotrochozoa clade was not morphologically obviously & was later presented based on molecular data
+        - share similar feeding structure called Lophophore (often coiled ring of ciliated tentacles surrounding mouth)
+        - share similar type of ciliated larva called Trochophore (has ciliated ring for mobility & to direct food to mouth)
+        - similar DNA sequences (monophyletic group)
+    - traits of Lophotrochozoa:
+        - protostome animals
+        - bilateral symmetry
+        - triploblastic
+        - coelomates
+
+annelids: segmented/ringed worms
+    - general facts:
+        - body divided into (repeating) segments
+        - ~17k species
+        - inhabit moist aquatic or terrestrial envs
+        - 0.5mm to 3.5m
+        - has coelom used as hydrostatic skeleton
+    - segmentation of a polychaete (paraphyletic class of worms):
+        - subdivided along length to given appearance of series of rings
+        - most segments will have pair of parapodia (appendages) with bristles: used for excretion & locomotion
+        - not all segments are identical: gently modified to accomodate specialization of some organs
+            - regional differentiation: segments are similar but each can be modified (ex. differentiation of gut)
+        - advantages of segmentation:
+            1. multiple copies of organs, structures (ex. nephridia, parapodia)
+            2. efficient nervous control
+                - ganglion in each segment
+                - faster responses
+                - efficient localized movement
+            3. inc body size by unit repetition
+            4. regeneration: ability to regenerate even the head region!! (more segments lost -> more difficult to regen head)
+        - segmentation examples in other animal groups: also found in arthropods & vertebrates
+            - segmentation in rib cage & spinal cord in vertebrates 
+            - jointed segments in crustaceans (annelid & arthropod were grouped in same clade before molecular data)
+    - annelid systems:
+        - nervous: 
+            - anterior "brain": cerebral ganglion more active/complex in active forms & simpler in sessile forms
+            - brain connected to ventral nerve cord: varies in thickness (dialiates into segments, segmental ganglia)
+        - respiratory: skin/epidermis (earthworms) or gills (some polychaetes & oligochaetes, often as extension of parapodia)
+        - excretory: tubular nephridia (equivalent to kidney)
+        - digestive: complete digestive system (one way w/ mouth & anus) with distinct regions (esophagus, gizzard, intestine)
+        - circulatory: "closed", dorsal & ventral blood vessels, pumped by aortic arches ("hearts")
+            - 4 advantages of closed circ sys: blood contained within vessels at all times
+                1. improved exchange between deeper tissues & surface (O2, CO2)
+                2. faster transport of nutrients & gases
+                3. requires less energy for distribution
+                4. allows development of thicker body (free of diffusion limit from body wall)
+    - annelid diversity:
+        1. polychaeta ("many hairs"): bristle worms (marine worms)
+            - mainly marine
+            - detritivores/filter-feeders
+            - forms: crawling, burrowing, swimming, pelagic (open water), tube-dwelling, boring
+            - more mobile forms have impressive array of sensory organs: eyes, palps (appendages for touch/taste), tentacles
+            - sessile forms have reduced head & sense organs but have very well developed tentacles
+            - parapodium: muscular flaps (lateral outgrowths/protrusions) with setae (hair/bristle-like structures) for locomotion & respiration
+            - separate sexes with external fertilization: trochophore ciliated larvae
+            - example: eudistylia sp (fan worms)
+                - low tide: withdraws tentacles when exposed to air
+                - high tide: projects beautiful crown of tentacles when submerged
+            - example: riftia (giant tube worm)
+                - can live near hydrothermal vents (almost boiling & toxic level of chemicals to most organisms)
+                - has symbiosis with chemeosynthetic bacteria (doesn't depend on light)
+        2. clitellata:
+            - oligochaeta ("few hairs"): earthworms (25:30)
+                - terrestrial & few aquatic
+                    - ~10k species
+                    - no parapodia, few setae (bristle structures)
+                    - light sensitive cells (also able to sense vibrations)
+                - detritivores
+                - hermaphroditic: clitellum (swollen section) secretes cocoon for embryo development (no specialized larval stage)
+                    - clitellum suggests close relationship to leeches
+            - hirudinea: leeches
+                - mainly freshwater
+                - ectoparasitic & carnivorous
+                - no setae
+                - anterior & posterior suckers
+                    - attaches onto host using anterior suckers when feeding & injects hirudin (chemical in saliva) into bloodstream of host
+                - hermaphroditic: clitellum secretes cocoon for embryo development (no specialized larval stage)
+                - medicinal uses: 
+                    - hirudin (anticoagulant properties)
+                    - used to inc bloodflow for reattached limbs
+                    - often best option for safely removing excess blood from wound (acts as artificial vein until patient grows back capillaries to inc local circ)
+                - example: leech (hirudo medicinalis)
+        3. echiura & sipuncula: unsegmented worms (NOT COVERED)
+            - recent molecular data groups echiura & sipuncula in anelida (ancestors were segmented & later lost segmentation)
+
+mollusks:
+    - general facts:
+        - >85k extant species
+        - 2nd largest animal group (after arthropods)
+        - terrestrial or aquatic
+        - higly diverse:
+            - morphology
+            - modes of nutrition
+            - reproduction
+            - response to env
+        - bilateral symmetry, triploblastic, protosomes
+        - reduced (but true) coelom (mainly encloses heart & gonad), replaced by hemocoel (open circ)
+        - have trochophore larvae
+        - major groups are modifications on ancestral body plan
+    - mollusk anatomy:
+        1. foot: used for movement & acts as hydrostatic skeleton
+        2. mantle: outgrowth of body wall that covers visceral mass forming enclosure called mantle cavity 
+            - mantle cavity contains gills (aquatic) & acts as lung (terrestrial)
+            - mantle of many species secretes hard shell of calcium carbonate
+        3. visceral mass: contains most main internal organs (heart, stomach, nephridia, gonads)
+        - have specialized anatomical structure: radula - used to scrape food off hard surfaces, equipped w/ tiny teeth & is right next to mouth
+        - have distinct heart, stomach & digestive gland
+        - modifications of ancestral molluskan anatomy/body-plan: allows diversification of mollusks to 4 major mollusk classes
+    - 4 major mollusk classes:
+        1. polyplacophora: "bearer of many plates"
+            - segmented shell (8 overlapping plates): somewhat pliable/flexible
+                - slightly overlapped at back & front yet well coordinated (provides protection while being able to flex) 
+            - most primitive group of mollusks
+            - grazing herbivors: radula scrapes algae & bryozoans
+            - separate sexes, external fertilization: trochophore larva
+            - example: chitons
+                - ~1k extant species common to intertidal zones (but also deep oceans)
+                    - inhabit hard surfaces under rocks (in crevices) in cold water to tropics  
+                - large muscular foot: considerable suction/adhesion power
+                - ability to roll into ball
+                - distinct rows of gills located/protected in mantle grooves
+        2. bivalvia: "two valves"
+            - morphology:
+                - name due to 2 hinged shells
+                - some able to move around, other cannot & burrow themselves in sediment
+                - reduction of head & no radula
+                - enlargement of foot: can be modified to become powerful digging tool in some groups (particularly burrowing forms)
+                    - foot can also be reduced in free-living forms like oysters 
+                - enlargement of gills (since they are filter feeders)
+                - mantle cavity modified by siphons  w/ inhaling & exhaling opening
+                    - siphons: formed as extensions of posterior mantle
+                    - creates strong water current in mantle cavity & across gills that act as filters for food
+                    - single oyster can filter 200L of water/day
+            - relatively sessile
+            - filter/suspension feeders: no radula
+            - either dioecious or germaphroditic: brodcast spawners or external fertilization (trochophore larvae)
+            - example: family of scallops
+                - large adductor muscles to close shell: able to perform rapid movements across short distances (appears to fly in water)
+                    - can escape predation by tightly closing shell to protect soft internal parts
+                - mantle lined with eyes: can detect motion & light
+        3. gastropoda: "belly feet"
+            - most diverse group of mollusks (~70k species)
+            - inhabit terrestrial or aquatic envs (both marine & freshwater)
+            - shelled (snails) or shell-less (slugs, nudibranchs)
+            - herbivores, predators, scavengers
+            - more complex head & eyes
+            - well developed radula
+            - reproduction:
+                - sexual or asexual (by parthenogenesis)
+                - internal (terrestrial) or external (aquatic) fertilization
+                - either dioecious or hermaphroditic (produce veliger larvae after early trochophore stage in aquatic forms)
+            - gastropod body plan:
+                - strong torsion/twisting of body (some sinistral (clockwise twist, rise to left), some dextral (counterclockwise twist, lean to right)):
+                    - 180 deg rotation/ of visceral mass (and visible as shell)
+                    - twisting results in mantle cavity & anus moved over head
+                - coiling of visceral mass
+            - example: family pumonata ("land snails")
+                - loss of gills with with mantle cavity modified to pallial (mantle) lung (highly vascularized): well adapted to life away from water 
+                - eyes on tips of tentacles
+                - detritivores & lay eggs in soil
+                - important food source for other wildlife: important trophic link
+            - example: nudibranchs ("naked gill")
+                - no shell & no torsion: gills on outside & secondary de-torsion
+                - bright colours warn potential predators of toxins: some are poisonous, others merely adopt colours of poisonous relatives
+                    - generally carnivorous: some prey on tentacles of cnidarians & re-use cnidocytes
+        4. cephalopoda: "head foot"
+            - morphology: 
+            - ~800 species
+            - body plan is most transformed of all mollusks
+            - characteristics:
+                - forms:
+                    1. decapodiforms: 8 arms, 2 tentacles - most squids & cuttlefish
+                    2. octopodiforms: 8 arms, no tentacles - most octopuses
+                - morphological features:
+                    - subdivided foot -> arms & tentacles
+                        - arms & tentacles equipped with suckers &/ hooks
+                    - enlarged head with reduced shell (internal shell)
+                    - powerful radula for crushing prey
+                    - uses strong muscles to compress mantle cavity to create strong jet out of siphon for locomotion/propulsion
+                    - siphon also used to expel waste
+                    - very versatile predators with excellent vision (complex eyes with lens)
+                    - complex behaviour: most evolved invertebrates (known to be true problem solvers)
+                        - visual communication with colour & texture (chromatophores for colour, photophores for bioluminescence)
+                        - cryptic coloration (masters of disguise)
+                    - bladder-like ink sac that can suddenly release ink to create smoke effect to esape predation
+                - reproduction:
+                    - separate sexes with elaborate courtship
+                    - internal fertilization (NO TROCHOPHORE LARVA): males transfer sperm via specialized arm (hectocotylus)
+                    - females die after laying eggs (or after eggs hatch)
+                        - thus, fisheries only take pre-reproductive cephalopods which have huge impact on populations
+                - many are short-lived: complete life cycle in less than a year
+            - example: nautilus
+                - 80-90 arms 
+                - only extant SOLID SHELLED CEPHALOPOD (beautiful ornamented outside shell)
+                - regulate buoyancy with gases in internal chambers/compartments within shell
+                - not fast swimmers: lives in deep sea
+                - matures in 20 years & deposits fewer eggs than its relatives
+                - harvested for ornamental value
+    - other mollusk classes:
+        - ammonoidea (ammonites): extinct genus of mollusks
+            - very little is known about their lifestyle: soft bodies are rarely preserved 
+            - dominant invertebrate predator (300 Mya)
+            - extinct at end of Cretaceous (65 Mya)
+            - not closely related to nautilus despite close resemblance of shell
+    - mollusks & humans:
+        - economy & culture: often overharvested
+            - food (shellfish)
+            - jewelry (pearls, abalone)
+        - ecology:
+            - vectors for parasites (intermediate hosts)
+            - exotic invasions: invasive species such as zebra mussel
+        - neurobiological research on squid neurons: (very giant neurons)
+            - squid giant axon can be up to 1.5mm in diameter & up to 10m long 

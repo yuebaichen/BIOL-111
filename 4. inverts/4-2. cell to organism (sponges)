@@ -1,0 +1,116 @@
+authors & contributors: yuebai
+
+L15 - 4.2: inverts 2 - intro to animals II: from one cell to an organism (sponges)
+
+embryonic development: from 1 cell (zygote) to trillions of specialized cells (multicellular organism)
+    - 3 main milestones of embryonic development:
+        1. fertilization: process of combining a single sperm cell with a single egg cell
+        2. zygote: diploid cell resulting from union of two haploid gametes (1st cell of next generation)
+        3. embryo: young animal still contained in protective structure (egg shell or uterus)
+    - 3 major processes during embryonic development: map of initial/embryonic development
+        1. cleavage: multiple rounds of rapid cell divisions (mitotic)
+            - process that forms many cells from one cell (morula, blastula) 
+        2. gastrulation: involves dramatic rearrangement & movement of cells followed by in-folding/invagination
+            - process that forms embryonic tissue layers (2-3)
+            - very important at this stage to have well defined axis (hox genes)
+        3. cellular differentiation: process in which immature cells take on individual characteristics & reach their mature/specialized form/function
+        - map of initial development:
+            - cleavage:
+                - zygote -> 2-cell stage -> 8-cell stage (blastomere, bud parts) -> morula (solid ball) -> blastula (hollow ball, sponges stop here)
+            - gastrulation:
+                - blastula -> early gastrula -> late gastrula
+                    - anatomy of gastrula:
+                        - blastocoel: fluid-filled cleavage cavity & is the basis of the future gut
+                        - archenteron: "old gut" digestive space (gut cavity)
+                        - blastopore:
+                            - forms the mouth in protostomes
+                            - forms the anus in deuterostomes
+                        - 2 germ layers: organisms with 2 germ layers are diploblastic ("with two buds") (MAJOR EVOLUTION, 2 embryonic cell layers)
+                            - ectoderm: "outer skin" -> epidermis & nervous system
+                            - endoderm: "inner skin" -> digestive & respiratory tracts
+                            - 3rd germ layer: mesoderm "middle skin" -> most internal organs: muscles, skeletal system, part of gonads
+                                - organisms with 3 germ layers are triploblastic & have bilateral symmetry ("with three buds") 
+                                - MAJOR EVOLUTION, 3 embryonic cell layers & bilateral symmetry
+            
+3 types of body symmetry: correspondence of size, shape, & relative position of parts on opposite sides of a dividing line, median plane, about a center/axis
+    1. asymmetry:
+        - no axis divides body into equal halves
+        - example: some sponges
+    2. radial symmetry:
+        - any cut through centre divides the body into equal halves 
+    3. bilateral symmetry:
+        - single axis divides body into equal halves through midsagittal plane (between eyes)
+        - some species evolved to revert to radial symmetry in adulthood (seastar, echinoderms)
+
+sponges: most primitive animal group (phylumm porifera)
+    - sponge history:
+        - earliest monophyletic branch of animals
+        - earliest animals to appear in fossil record (700 Mya)
+        - porifera: "pore bearing" 
+        - ~9k species, mostly marine
+        - only ~100 freshwater species
+        - inhabit wide range of habitats: from shallow tidal zones to 9k m deep, from polar to tropic
+        - most adults are sessile; still motile as larvae (dispersal)
+        - have primitive features (specialized cells but no true tissues/organs)
+            - digestion is intracellular
+            - respiration & excretion through diffusion
+        - have endoskeleton: spicules (small sharp-pointed structure typically present in large numbers) & network of elastic fibres for support
+    - sponge morphology is highly variable:
+        - adult sponges can be radially symmetrical or bilaterally symmetrical
+        - adult sponges come in a variety of sizes: from 2mm to 2m
+        - adult sponges exist in a variety of colours & shapes
+        - flat sponges found in intertidal zones
+        - barrel sponges found in ocean depths
+    - sponge feeding:
+        - sponges can generate water current for filter feeding
+        - sponges depend on generated currents for food, oxygen, & even reproduction
+    - sponge anatomy:
+        - atrium: internal cavity of sponge lined with choanocyte cells (collar cells) equipped with flagella 
+        - coordinated movement of flagella suck water through the pores into atrial cavity, then blows it through the osculum
+        - choanocytes take up food & performs intracellular digestion
+            - similar to choanoflagellates; collar acts as filter trapping bacteria on the surface
+        - consists of 3 main (loose) layers: has no true tissues except epidermis (no organs, muscles, nerves)
+            - outer epidermis consists of thin layer of flat epidermal cells 
+            - inner epidermis consists of choanocytes
+            - middle layer: mesohyl with ameboid cells embedded in a jelly matrix
+                - also contains the endoskeleton made up of spicules & spongin fibres
+                - support structures in middle layer:
+                    - extracellular matrix:
+                        - non-cellular 
+                        - collagen & glycoproteins
+                        - provides some support
+                    - spicules: 
+                        - calcium or silica
+                        - provides rigidity
+                    - spongin:
+                        - protein fibres
+                        - flexible support
+                        - high level of spongin: "bath sponge" soft absorbent structure
+                        - high level of silica: "glass sponge" highly rigid structure
+                            - example: venus' flower basket
+    - sponge reproduction: sexual & asexual
+        - 2 mechanisms of asexual reproduction:
+            - fragmentation (external budding): portion of sponge breaks off & regenerates into a complete new organism
+                - not self-induced
+                - brought upon by waves or predators
+            - internal budding (gemmules): dormant stage 
+                - clone of parent
+                - takes place through formation of gemmules
+                - gemmule: small collection of several diff types of cells enclosed in protective covering
+                    - refers to some asexual reproductive structures in plants (as the buds of mosses), sponges, & hydra
+                    - mass of cells capable of remaining dormant then later develops into a new individual
+                - survival mechanism in harsh conditions in which adult may not survive
+                - protective gemmule can develop into adult once conditions are more favourable
+            - prediction for evolution of multicellularity from aggregation of single celled organisms:
+                - pushing sponge through sieve & incubating -> many individual sponges
+        - sexual reproduction:
+            - most sponges are hemaphroditic (each individual can produce both sperm & egg)
+                - however an individual will only make one type of gamete at a given time (not able to self-fertilize)
+            - gametes produced in choanocytes or ameobocytes
+            - sperm is concentrated inside "male" sponge & released at once: broadcast sperm (through osculum)
+            - sperm is trapped by choanocytes of "female" sponge (same way food is trapped)
+                - sperm cells delivered to eggs by ameobocytes & stored in mesohyl where fertilization takes place to form zygote
+                - fertilized eggs develop in extracellular matrix
+                - larvae released back into water (motile)
+                - larvae swim through water while developing
+                - larvae eventually settle to the substrate & become sessile 

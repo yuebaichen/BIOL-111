@@ -1,0 +1,129 @@
+authors & contributors: yuebai
+
+L14 - 4.1: inverts 1 - intro to animals: what is an animal?
+
+7 characteristics of animals:
+    1. eukaryotic (domain eukarya):
+        - similar to fungi, ciliates, plants
+        - have a "true" nucleus
+        - well-compartmentalized & specialized membrane-bound organelles
+        - compartmentalized cytoplasm
+    2. heterotrophic:
+        - all animals consume/use pre-formed organic materials as energy & carbon source
+        - facilitate flow of energy & carbon through trophic chain via consumption
+        - modes of feeding:
+            - predation
+            - herbivory
+            - filter feeding
+            - parasitism
+            - detritivory
+            - omnivory
+        - digestion occurs in specialized organs (not through absorption)
+        - heterotrophism is not unique to animals: plants, fungi, protists, prokaryotes can all be heterotrophism
+    3. multicellularity:
+        - all animals are multicellular (similar to plants & fungi)
+        - multicellularity evolved several times in groups such as fungi or algae but only once in animals
+        - implications of having multiple cells:
+            - cells can become specialized to carry out specific functions
+            - organisms can have longer lifespan
+            - organisms can grow in size (can maintain high SA to volume ratio while still growing in size)
+                - SA to volume ratio decreases drastically as cell size increases
+                - imperative to keep cell size small for high exchange efficiency out of cell
+                - ratio determins nutrient intake & waste expulsion
+        - most animals have tissues:
+            - tissues: groups of similar cells organized into a functional unit
+            - 4 types of animal tissues:
+                - muscle tissueL: active contractile tissue
+                - nervous tissue: comprises the nervous system
+                - connective tissue: non-living tissue forming extracellular matrix
+                - epithelial tissue: cells covering organ surfaces
+            - animals have organs that comprises of different types of tissue to complete complex tasks (absorption, digestion)
+                - example: villi projections in small intestine contain all 4 types of animal tissue & massively inc SA for absorption
+    4. no cell wall:
+        - types of extracellular forms of support:
+            - hydrostatic skeleton: 
+                - found in soft-bodied organisms: muscles contract against fluid-filled cavity
+                - longitudinal & circular muscles contract to provide structure & change shape (fluids are resistant to volume change)
+                - pros & cons of hydrostatic skeletons:
+                    - organisms can perform simple but efficient movements
+                    - limited possibility for attachment of limbs
+                    - dependence of wet/humid environment (to maintain fluid filled cavity)
+                - examples: cnidarians, worms, shell-less mollusks
+            - exoskeleton: external skeleton
+                - firm, rigid, non-living structures outside the body that act as an external armour
+                - does not allow for animals to grow in linear fashion since shell does not grow with animal
+                - undergo molting: shedding of exoskeletons 
+                - called ecdysozoans (molting animals) since they grow by ecdysis (molting)
+                - examples: shelled mollusks, arthropods
+            - endoskeleton:
+                - rigid structure inside the body that provides internal support
+                - consists of all vertebrates (living endoskeleton) & some invertebrates (non-living endoskeleton)
+                - examples: sponges, echinoderms, vertebrates
+                    - cuttlebone in cuttlefish: internal shell filled with gas for bouyancy (studied for light, porous, yet mechanically resistant structure)
+    5. motile at some life stage:
+        - movement reduces competition, enhances genetic diversity, expands distribution range, etc
+            - barnacles: although adults are sessile, larvae are motile
+    6. diploid somatic (body) cells:
+        - somatic cells have two copies of each type of chromosome (one from mother, one from father)
+    7. diplontic:
+        - diploid stage is dominant over haploid & characterizes most of life of individual
+        - whereas fungi is haplontic, plants are alternating, animals are diploid most of the time
+        - haploid stage is very ephermal: only involves formation of gametes (exception: male honey bees are haploid)
+
+evolution of animals:
+    - facts:
+        - ~35 phyla
+        - estimated ~10 mil animal species
+        - only ~1.4 mil species have been classified
+        - 97% of animal species are invertebrates
+    - 4 key evolutions in animal phylogeny:
+        1. multicellularity -> sponges
+        2. 2 embryonic layers -> cnidarians
+        3. 3 embryonic layers, bilateral symmetry -> acoelomorpha
+        4. coelom, CNS, cephalization -> protostomes, deuterostomes
+            - protostomes: Lophotrochozoa, Ecdysozoa
+            - deuterostomes: Echinodermata, Chordata (INCLUDES VERTEBRATES)
+    - history of life:
+        - life forms were unicellular for almost 3 billion years
+        - first animals (early sponges) evolved in the late precambrian era (700 Mya)
+        - followed by the most explosive wave of diversification: The Cambrian Explosion (542-488 Mya)
+            - called Cambrian Explosion since it marks period when most major groups of animals first appear in fossil record
+            - rapid diversification with formation of many new phyla
+            - well documented in two fossil records:
+                - XinJiang, China
+                - Burgess Shale, BC
+        - earliest fossils precambrian were tiny micro-fossils of sponges & corals
+        - fossils are infamously difficult to classify (palaeontologists looking at organisms upside down)
+        - animals evolved in the ocean then several lineages independently colonize land
+    - animls are monophyletic: contains all descendents/lineages of common ancestor
+        - animals share many characteristics
+        - although most of their characteristics are shared with some other groups, no other group shares all of them
+
+3 other lines of evidence that animals are monophyletic:
+    1. similar gene sequences & genomic architecture:
+        - hox genes (subset of homeobox genes):
+            - genes that act in development & control/specify identity of diff body parts along head-tail axis
+            - evolved in a process of tandem gene duplication
+                - first identified in segmented animals then in non-segmented animals
+            - organization of hox genes in chromosome are same as their order of expression (spacial collinearity):
+                - collinearity: correspondence between order of location & order of function
+                - collinearity provides clear link between genome organiation & regulation of genes during development
+                - distinct changes to order of hox genes makes important evolutionary transitions
+    - similar ways to form well integrated tissues: 
+        2. similar extracellular matrix molecules:
+            - most animals secrete an extracellular matrix which provides some level of structural support & controls communication among cells 
+            - similar to cell wall of plant cell but contains more protein than carbs
+            - contains collagen fibres: most common protein (30% of mammal proteins)
+            - proteoglycan complex (surrounds cable-like collagen): proteins that are heavily glycosylated (carb is attach to hydroxyl or other functional group)
+        3. unique types of junctions among cells:
+            - 3 types of junctions: do not necessarily coexist in an actual cell
+                - tight junction: 
+                    - seal cells together & are found in epithelial tissue lining stomach & intestine
+                    - involves specialized proteins in the cell membrane & form a watertight seal
+                - desmosome:
+                    - connect the cytoskeleton of cells & are abundant in epithelial tissue
+                    - follow a continuous structure; running between all cells in the tissue 
+                    - common in epithelial tissue
+                - gap junction:
+                    - act as channels between cells
+                    - found in some muscle & nerve tissues where rapid communication between cells is important

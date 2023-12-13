@@ -1,0 +1,106 @@
+authors & contributors: yuebai
+
+L21 - 5.2: verts 2 - amphibians: how to get on land?
+
+4 possible reasons why we moved to land:
+    1. devonian droughts (~400 Mya): shallow inland seas/swamps/ponds, low dissolved O2 
+    2. inc competition in water: crowding in small pools
+    3. new food sources on land: arthropods, plants
+    4. no vert predators on land (compared to in water)
+
+5 difference between life on land vs water:
+    1. availability of water/moisture: a lot less moisture on land
+    2. density of medium: no medium to float in
+    3. amt of oxygen: easier to get oxygen
+    4. stability of temp: need to thermoregulate
+    5. amt of UV radiation: mechanisms to reduce DNA damage caused by UV
+
+advantages of terrestrial respiration:
+    1. air has higher concentration of oxygen than water
+    2. gases diffuse faster in air than water
+    - lung evolution: lobe-finned fishes
+        - 2 ventral pockets formed off of the esophagus: swim bladder evolved as connection from gut -> formed into lungs
+        - intially used as a supplemental resp device
+        - why we choke: our lungs evolved as projection off of our gut, pathway for food and air is shared at parts
+
+problems on land:
+    1. water needed to prevent dessication: need to stay moist, most need water for fertilization & larval development
+    2. air is less dense than water: require stronger skeletal support, require more energy (more O2 & CO2 brought in & distributed)
+        - tetrapod solution:
+            1. better skeletal support: fight gravity
+                - stronger limbs, vertebral column to hold up body
+                - stronger ribs to hold up body cavity 
+                - what the first fish-like things to be amphibian looked like: Tiktaalik (natural selection starts favoring limbs as more time is spent out of water -> evolution)
+                    - not our actual ancestor, but an evolutionary cousin to our actual ancestor: Tiktaalik are mostly aquatic
+                - more efficient circ sys
+                - breathing mechanisms
+            2. more efficient circulatory system:
+                - 3+ chambered heart
+                - double circuit of blood flow
+                - fish vs amphibian circ sys:
+                    - fish:
+                        - 2-chambered heart
+                        - blood oxygenated in gills
+                        - single circuit circulation (reduced pressure)
+                        - flaw: blood is not under pressure after exiting to the gills (gets through slowly based on muscle contractions & passive flow)
+                    - amphibians:
+                        - 3-chambered heart
+                        - blood oxygenated in lungs & skin
+                        - double circuit circulation: pulmonary (lung) & systemic (body)
+                        - advantages: blood is now under higher pressure than fish (can repressurize blood after going through lungs)
+                        - disadvantages blood is mixed (no septum to fully devide ventricle)
+    3. air temp is more variable: body temp will fluctuate more, need to modify behaviour or physiology (function of features)
+    4. UV radiation more intense on land: need physical protection or change behaviour
+
+early tetrapods: ichthyostega
+    - characteristics:
+        - stronger limbs & girdles, vertebral column, ribs
+        - tail used for balance, not swimming
+        - lungs were primary resp organ
+        - external & internal nostrils (nares)
+
+amphibians:
+    - general info:
+        - ~6k species: freshwater & terrestrial (dependent on water)
+        - first tetrapods
+        - carnivores
+    - characteristics:
+        - smooth moist skin: no scales, has glands
+        - have teeth (evolution of FIRST TEETH!!!)
+    - mechanisms of breathing:
+        - boyle's law: inc volume -> dec pressure
+        - negative pressure breathing of humans: negative pressure inside lungs SUCKS air in
+            - diaphragm (and ribs) causes change in vol of thoracic cavity -> gases move from high to low pressure
+                - diaphragm contracts to flatten -> inc vol -> dec pressure -> gases enter
+                - diaphragm relaxes to curve up -> dec vol -> inc pressure -> gases exit
+        - positive pressure breathing of amphibians: 2-stroke process (positive pressure outside lungs PUSHES air into lungs)
+            1. air drawn through nostrils into buccal/oral cavity while mouth & glottis remain closed (mouth lowers to inc volume)
+            2. nostrils close, glottis opens -> air forced into lungs (mouth contracts to inc pressure in mouth relative to lungs -> air goes into lungs)
+    - 2 life stages: key feature of amphibians
+        1. larvae: tadpole
+            - have gills & 2-chambered heart (like a fish)
+            - herbivorous
+            - most undergo metamorphosis
+        2. adults: frog/toad
+            - have lungs & 3-chambered (tetrapods)
+            - carnivores
+    - amphibian diversity: 3 major groups
+        1. salamanders & newts (urodela):
+            - some have internal fertilization
+            - salamanders adapted for land (wet skin, tail for digging), newts adapted for water (webbed feet, dry skin)
+            - cool fact: newts can be highly toxic, co-evolution of newts and the snakes who eat them make the newts more and more toxic and the snakes more and more resistant
+        2. frogs & toads (anura):
+            - has the most species in amphibians
+            - typically have loud courtship calls to females
+        3. caecilians: worm looking things that can also be highly toxic, have teeth that look like cookie cutter sharks...
+            - have lost appendages
+            - internal fertilization
+            - cool fact: have evolutionary strategy of provisioning offspring where babies will eat skin off mother
+    - 2 extreme parental investment strategies in nature:
+        1. produce billions of offspring, provide no care, hope some will survive <- most amphibians
+        2. produce one offspring, care for until maturity (like humans do) <- some amphibians:
+            - some male frog species carry tadpoles on his back
+            - some frog species have evolved to put eggs underneath skin -> break out of skin when they hatch
+            - some male frog species swallow its eggs -> tadpole lives inside stomach of parent -> feeds off secretions in stomach (went extinct within a few years of being discovered in australia)
+    - example: wood frogs - able to completely freeze during the winter then thaw out during the summer, allows them to live way further north than any other amphibian species
+    - how amphibians stay cool & moist during summer: hide under logs during the day
