@@ -1,0 +1,141 @@
+    - indirect observations: pasteur & koch
+    - symbiosis of bacteria: fine line between mutualism & pathogenesis
+        - some bacteria change their env. which effects other organisms that live there (lower pH)
+        - most plants & animals have a microbiome (microbes living in env. in/on part of body): we have loads of bacteria in/on us, 50:50 cells, 100:1 genes 
+    - bacteria are ancient (stromatolite fossils from 500 Mya to billions of years old): also living stramatolites found today in intertidal zones
+    - bacteria evolve rapid (prooves that no such thing as evolution proof)
+    - advantages of being small: higher SA to volume ratio, shorter time to replicate DNA
+    - 3 levels of biological organization: metabolisms of each level are linked (end of one is the beginning of the other)
+        1. individual cell: metabolism & replication (continuous input of nrg & matter to keep cell out of thermodynamic eqm, turning back to raw materials)
+        2. population: variation & evolution (replication causes variation, reproduction causes competition -> increased mean fitness, evolution)
+        3. community: consumption & nutrient cycling (diff. species linked by consumption & trophic interactions, must be in mass & nrg balance)
+    - summary of the cell:
+        - plasma membrane: phospholipid bilayer separates aqueous outside & inside env. controlling all traffic in & out of cell
+            - 3 types of embedded proteins in plasma membrane:
+                1. transport: channels allow passage of specific molecules & ions
+                2. signal: receptors bind external ligands & change behaviour inside cell
+                3. adhesion: hold cells together (responsible for biofilm formation)
+        - dual system of the cell
+            1. metabolism: synthesizes new biomass, membrane needed to prevent products to diffuse away
+            2. information: needed to synthesize metabolism, membrane needed to link info to metabolic sys.
+        - growth & reproduction: large cells are inefficient due to low SA:volume
+            - cells will aquire biomass until it has to split -> reproduction (division of biomass & replication of info)
+    - 6 steps of DNA replication:
+        1. unwinding at origin, loading of 2 helicases onto DNA
+        2. SBB (single stranded binding) proteins keep strands apart, topoisomerase prevents supercoiling of yet to be zipped DNA
+        3. ATP hydrolysis drives helicase through zipped DNA
+        4. primase synthesizes RNA primer on single strand portions
+        5. replisomes (w/ DNA polymerase) synthesize daughter strands simultaneously (only codes 5'-3', 3'-5' laggin strand needs new primers -> okazaki fragments, primer overwritten w/ DNA & fragments patched by ligase)
+        6. 2 replication forks meet at termiation site, replisome unloaded, daughter chromosomes separate
+    - bacteria:
+        - has nucleoid instead of nucleus
+        - typical genome formed of a single usually circular molecule of DNA in closed loop
+        - plasmids: small DNA molecule that occur in some bacteria that can encode for various functions (not essential & not always beneficial)
+            - encodes for stuff like antibiotic resistance & helps bacteria adapt to new env.
+            - replicate at the same as chromosomes but daughter plasmids don't receive equal numbers
+            - some plasmids encode conjugation (transfer of genetic material through direct contact) allowing plasmid transfer btwn. bacteria via pilus (thin protein tube for conjugation or adhesion)
+        - chromosome replication & cell division are linked in bacteria: 
+            - replicated daughter chromosomes move apart -> FtsZ proteins migrate to centre of cell -> FtsZ ring initiates septum formation -> daughter cells separate
+    
+    - central dogma: flow of genetic info within biological sys.
+        1. DNA: info storage made of base pairs found in nucleus (euk) or cytoplasm (prok)
+        2. mRNA: 
+            1. transcription (info retrival) made of single strand of bases found in cytoplasm
+            2. translation (product assembly) made of triplet codons found in ribosome
+        3. protein: product made of 20+ diff. amino acids found in the cytoplasm
+    - ribosome: macromolecular mRNA translation machine for protein synthesis
+        - 2 subunits of ribosomes: 
+            1. small 30S: 16S rRNA that reads the mRNA
+            2. large 50S subunit: contains 5S & 23S rRNA that forms polypeptide changes of amino acids
+        - 6 steps of ribosome/mRNA translation: 
+            1. ribosome forms & docks on start codon of mRNA (AUG) w/ tRNA at P site 
+            2. matching tRNA to codon accepted at A site -> peptide bond forms btwn amino acids of A & P sites
+            3. P tRNA releases chain to A tRNA 
+            4. ribosome moves 1 triplet codon forward on mRNA -> empty tRNA discarded at E site, new peptidyl tRNA at P site
+            5. cycle continues until stop codon (UAG, UGA, UAA) is reached
+            6. ribosome disengages & separates into 2 subunits -> protein folds up & diffuses away
+    - 2 explanations to genetic redundancy: why amino acids? why only CHNOS? why only 20? A < N^L (given 20 amino acids, 4 bases & 3 bases per codon would be a more parsimonious soln)
+        1. frozen accident
+        2. optimal biochemistry considering versatility, cost of syntheisis, etc
+    - 2 most important attributes of life: 
+        1. genetic info -> self replication & heritability (genotypic)
+        2. metabolism -> complexity (phenotypic)
+    - 3 theories of origin of life:
+        1. special creation: supernatural (not science)
+        2. panspermia: life on earth evolved from life from outer space & was able to thrive upon reaching suitable conditions
+            1. undirected: interplanetary dispersal of microbes via meteors
+            2. directed: delibrate seeding of planets
+            3. misdirected: galactic pollution by spacecraft
+        3. spontaneous generation: unambiguously chemical -> indisputably living, self-assembly -> evolution
+            - 3 processes required for life:
+                1. growth: exergonic chemical rxns that release nrg for synthesizing organic molecules -> metabolism
+                2. reproduction: separated fragment of growing system capable of continued growth itself
+                3. inheritance: products of reproduction resembles parent more closely than random member of pop. -> genetic info
+            - 2 possible routes for origin of life:
+                1. genetics first: RNA world of early oceans populated by self-replicating RNA strands -> cells -> all living organisms
+                2. metabolism first: possible abiotic metabolism at chemical diseqm at hydrothermal vents
+                    - higher pressure & temp -> exergonic rxns
+                    - organic synthesis: dissolved CO2 reduced by H2 -> organic molecules (anoxic metabolism)
+    - metabolism:
+        - electron transport: length of arrow on redox tower from left to right running downward indicates nrg released
+            - electron donor: reduced -(oxidation, e- loss)-> oxidized (gives e- to acceptor & releases nrg)
+            - electron acceptor: oxidized -(reduction, e- gain)-> reduced (becomes donor & continues reacting)
+        - 5 stages of evolution of metabolism:
+            1. glycolysis & fermentation (3.5 Bya): CH20 -> CH20' (2 ATP), 6-carbon glucose -> 3-carbon pyruvate -> nrg (ATP) & reducing power (NADH)
+            2. anaerobic resp (3.45 Bya): Cred + SO4 -> Cox + HS- (>>2 ATP), glycolysis -> oxidation of pyruvate -> citric acid cycle -> electron transport chain
+            3. anoxygenic photosyn. (3.4 Bya): CO2 + H20 -> CH2O + 2S, first photosynthetic bacteria
+            4. oxygenic photosyn. (2.7 Bya): CO2 + H2O -> CH2O + O2, cyanobacteria cased the great oxygenation event (0.0001% -> 21%)
+            5. aerobic resp.: CH2O + O2 -> CO2 + H2O (~36 ATP), oxygen breathing organisms
+            - chemiosmotic nrg storage by membranes:
+                - lipid bilayer impermeable to ions: separates inside & outside electrical charge
+                - charge imbalance from redox rxns pump cations (H+) across membrane -> electrochem gradient -> cations return spontaneous due to conc. diff. across membrane
+                - cations return via ATP synthase channel -> drives oxidative phosphorylation of ADP to ATP -> creates high nrg phosphate bond which is later hydrolyzed to support biosynthesis
+    - winogradsky column: simple way to visualize interactions btwn diverse metabolic sys.
+        - top| iron oxidizing bacteria, cyanobacteria (oxygenic photosyn), sulfur & non-sulfer bacteria (anoxygenic photosyn), desulfovibrio (anerobic resp), clostridia (fermentation) |bottom 
+
+    - molecular phylogenetics: tracking evolution using molecular data 
+        - hemoglobin was used at first to track evolution but Carl Woese championed the use of ribosomal RNA due to its universality
+        - Woese's proposed 3 domain tree of life: archaea & eukaryotes are sister groups
+        - revised "eocyte hypothesis" tree: eukaryotes embedded within archaea formed due to endosymbiosis of bacteria by archaea (not parsimonious due to ester -> ether -> ester)
+    - bacteria: unicellular, cell wall & cell membrane, lack organelles, nucleoid instead of organized nucleus (prokaryotic), cell wall w/ peptidoglycan
+    - archaea: unicellular, prokaryotic, cell membrane phospholipid w/ ether bonds, cannot photosynthesize, distinct metabolic pathways & genes to bacteria (includes extremophiles previously thought to be bacteria)
+    - possible model for first eukaryote: endosymbiosis (entangle, engulf, endogenize)
+    - LUCA: last universal common ancestor -> bacteria & archaea
+        - had phospholipid bilayer plasma membrane
+        - information: single circular DNA genome, helicase, DNA polymerase
+        - translation: DNA-dependent RNA polymerase (synthesize mRNA), tRNA, ribosome
+        - metabolism (anerobic): TCA cycle, ability to synthesize all 4 bases & most amino acids
+    - 2 phylogenetic methods: align sequence, identify changes at homologous sites (diff. sequence), then
+        1. compute dist. matrix -> join most similar sequences -> map on tree & repeat (dist. based)
+        2. choose tree structure to minimize # of mutations (parsimony based)
+
+    - critique of the tree: tree of 1%
+        - tree based on a small portion of the total genes may not accurately represent evolutionary history of the other genes
+        - other genes may be involved in HGT that can't be easily represented in a vertical tree
+    - 2 pieces of evidence of endosymbiotic theory:
+        1. morphological similarity (Margulis' microscopy)
+            - 3 hypotheses of Marguli's & their evidence: free-living ancestor -> organelle (evidence)
+                1. cyanobacteria -> chloroplast (16S RNA similarity, similar gene content in metabolic genes, many genes lost/transferred to host nucleus)
+                2. alphaproteobacteria -> mitochondria (16S RNA similarity, similar gene content in metabolic genes, many genes lost/transferred to host nucleus)
+                3. spirochete -> flagella (morphological evidence only)
+        2. DNA similarity using molecular phylogenetics (Dolittle & Bonen)
+    - HGT: transfer of genetic material horizontally across branches of tree of life (first revelaed by molecular phylogenetics)
+        - conjugation: exchange of genetic material in the form of plasmids via pilus
+        - endosymbiosis: HGT involving transfer of entire genome
+        - some genes from endosymbiont genome transferred to host genome over time
+        - phages: transduction 
+            1. lytic cycle: phage infects bacteria -> injects DNA -> lyses host genome -> some host genome gets accidentally packaged in new phages -> transducing phages
+            2. transducing phage w/ bacterial genome -> inject DNA into another bacteria species w/o killing it -> transduced bacteria cell
+    - virus: likely originated from ancient RNA cells predating LUCA, tiny & make up little biomass but VERY abundant
+            - tiny protein package containing a DNA/RNA genome 
+            - not concidered a cell (no organelles)
+            - not capable of reproduction w/o host
+            - adaptation to one thing typically leads to poor performance in another (coevolution)
+        1. eukaryotic virus: single stranded RNA encapsulated by protein coat (capsid), membrane made of 3 proteins (spike, membrane, envelope)
+            - receptors are specific to tissue & cell type
+            - reproduction cycle:
+                - binding & entry -> release viral genome -> tricks host ribosome to translate viral genome & polymerase 
+                -> RNA replication, transcription, translation -> proteins + nucleocapsid -> virion formation -> exits cell & does damage via exocytosis
+        2. phage: linear DNA genome in protein coat, has stalk that injects DNA into bacteria/archaea
+            - important in ecosystem to impose massive selective pressure on overabundant species
+            - phage therapy to kill deadly bacterial infection

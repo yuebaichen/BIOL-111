@@ -131,3 +131,36 @@ L8 - 2.4: endosymbiosis {4}
         -1) ~10^30 viruses in the ocean
         -2) ~10^23 infections happen every second
         -3) make up little biomass but make up the majority in numbers/abundance
+
+
+
+EXAM:
+    - critique of the tree: tree of 1%
+        - tree based on a small portion of the total genes may not accurately represent evolutionary history of the other genes
+        - other genes may be involved in HGT that can't be easily represented in a vertical tree
+    - 2 pieces of evidence of endosymbiotic theory:
+        1. morphological similarity (Margulis' microscopy)
+            - 3 hypotheses of Marguli's & their evidence: free-living ancestor -> organelle (evidence)
+                1. cyanobacteria -> chloroplast (16S RNA similarity, similar gene content in metabolic genes, many genes lost/transferred to host nucleus)
+                2. alphaproteobacteria -> mitochondria (16S RNA similarity, similar gene content in metabolic genes, many genes lost/transferred to host nucleus)
+                3. spirochete -> flagella (morphological evidence only)
+        2. DNA similarity using molecular phylogenetics (Dolittle & Bonen)
+    - HGT:
+        - endosymbiosis: HGT involving transfer of entire genome
+        - some genes from endosymbiont genome transferred to host genome over time
+        - phages: transduction 
+            1. lytic cycle: phage infects bacteria -> injects DNA -> lyses host genome -> some host genome gets accidentally packaged in new phages -> transducing phages
+            2. transducing phage w/ bacterial genome -> inject DNA into another bacteria species w/o killing it -> transduced bacteria cell
+    - virus: likely originated from ancient RNA cells predating LUCA, tiny & make up little biomass but VERY abundant
+            - tiny protein package containing a DNA/RNA genome 
+            - not concidered a cell (no organelles)
+            - not capable of reproduction w/o host
+            - adaptation to one thing typically leads to poor performance in another (coevolution)
+        1. eukaryotic virus: single stranded RNA encapsulated by protein coat (capsid), membrane made of 3 proteins (spike, membrane, envelope)
+            - receptors are specific to tissue & cell type
+            - reproduction cycle:
+                - binding & entry -> release viral genome -> tricks host ribosome to translate viral genome & polymerase 
+                -> RNA replication, transcription, translation -> proteins + nucleocapsid -> virion formation -> exits cell & does damage via exocytosis
+        2. phage: linear DNA genome in protein coat, has stalk that injects DNA into bacteria/archaea
+            - important in ecosystem to impose massive selective pressure on overabundant species
+            - phage therapy to kill deadly bacterial infection

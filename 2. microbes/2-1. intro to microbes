@@ -168,3 +168,46 @@ L4 - 2.1: intro to microbes {12}
     -ex. distinction between photoautotrophs and heterotrophs (linked since end products of one are the beginning of the other) {2}
         --1) photoautotrophs harvest sunlight to do photosynthesis: take CO2 + H2O -> CH2O (sugar) + O2
         --2) heterotrophs use those sugars (carbohydrates) and those sugars use oxygen to do aerobic respiration: CH2O (sugars/carbs) + O2 -> CO2 + H2O
+
+
+
+EXAM:
+    - indirect observations: pasteur & koch
+    - symbiosis of bacteria: fine line between mutualism & pathogenesis
+        - some bacteria change their env. which effects other organisms that live there (lower pH)
+        - most plants & animals have a microbiome (microbes living in env. in/on part of body): we have loads of bacteria in/on us, 50:50 cells, 100:1 genes 
+    - bacteria are ancient (stromatolite fossils from 500 Mya to billions of years old): also living stramatolites found today in intertidal zones
+    - bacteria evolve rapid (prooves that no such thing as evolution proof)
+    - advantages of being small: higher SA to volume ratio, shorter time to replicate DNA
+    - 3 levels of biological organization: metabolisms of each level are linked (end of one is the beginning of the other)
+        1. individual cell: metabolism & replication (continuous input of nrg & matter to keep cell out of thermodynamic eqm, turning back to raw materials)
+        2. population: variation & evolution (replication causes variation, reproduction causes competition -> increased mean fitness, evolution)
+        3. community: consumption & nutrient cycling (diff. species linked by consumption & trophic interactions, must be in mass & nrg balance)
+    - summary of the cell:
+        - plasma membrane: phospholipid bilayer separates aqueous outside & inside env. controlling all traffic in & out of cell
+            - 3 types of embedded proteins in plasma membrane:
+                1. transport: channels allow passage of specific molecules & ions
+                2. signal: receptors bind external ligands & change behaviour inside cell
+                3. adhesion: hold cells together (responsible for biofilm formation)
+        - dual system of the cell
+            1. metabolism: synthesizes new biomass, membrane needed to prevent products to diffuse away
+            2. information: needed to synthesize metabolism, membrane needed to link info to metabolic sys.
+        - growth & reproduction: large cells are inefficient due to low SA:volume
+            - cells will aquire biomass until it has to split -> reproduction (division of biomass & replication of info)
+    - 6 steps of DNA replication:
+        1. unwinding at origin, loading of 2 helicases onto DNA
+        2. SBB (single stranded binding) proteins keep strands apart, topoisomerase prevents supercoiling of yet to be zipped DNA
+        3. ATP hydrolysis drives helicase through zipped DNA
+        4. primase synthesizes RNA primer on single strand portions
+        5. replisomes (w/ DNA polymerase) synthesize daughter strands simultaneously (only codes 5'-3', 3'-5' laggin strand needs new primers -> okazaki fragments, primer overwritten w/ DNA & fragments patched by ligase)
+        6. 2 replication forks meet at termiation site, replisome unloaded, daughter chromosomes separate
+    - bacteria:
+        - has nucleoid instead of nucleus
+        - typical genome formed of a single usually circular molecule of DNA in closed loop
+        - plasmids: small DNA molecule that occur in some bacteria that can encode for various functions (not essential & not always beneficial)
+            - encodes for stuff like antibiotic resistance & helps bacteria adapt to new env.
+            - replicate at the same as chromosomes but daughter plasmids don't receive equal numbers
+            - some plasmids encode conjugation (transfer of genetic material through direct contact) allowing plasmid transfer btwn. bacteria via pilus (thin protein tube for conjugation or adhesion)
+        - chromosome replication & cell division are linked in bacteria: 
+            - replicated daughter chromosomes move apart -> FtsZ proteins migrate to centre of cell -> FtsZ ring initiates septum formation -> daughter cells separate
+    

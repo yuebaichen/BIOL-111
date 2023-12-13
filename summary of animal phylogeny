@@ -9,9 +9,8 @@ virus: likely originated from ancient RNA cells predating LUCA
 
 LUCA:
     1. bacteria
-    2. split--<:
-        1. archaea
-        2. eukaryotes:
+    2. archaea:
+        - eukaryotes:
             1. split--<:
                 1. fungi
                 2. split--<:

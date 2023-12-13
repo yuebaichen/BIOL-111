@@ -71,7 +71,7 @@ L6 - 2.3: tree of life {4}
     (1-> hypotheses {2, 0, 1}:
         -1) hypothesis 1 (parsimony suggestion): monophyletic archaea
         -2) hypothesis 2 (molecular phylogeny suggestion): paraphyletic archaea (eukaryotes are embedded within archaea tree)
-        -*) paraphaletic archaea hypothesis is disliked/opposed due to non-parsimoniousness; goes against parsimony with the reversal of phosolipid structure back to ester bonds
+        -*) paraphaletic archaea hypothesis is disliked/opposed due to non-parsimoniousness; goes against parsimony with the reversal of phospholipid structure back to ester bonds
     (2-> are we basically archaea? {2}:
         ((1-> "three domains hypothesis"/"Woese's tree": Carl Woese initially placed archaea as sister group to eukaryotes
         ((2-> "eocyte hypothesis" {3, 1}: later research sequencing more 16S RNA of more genes (other ribosomal genes across genome) found that eukaryotes are actually embedded within archaea (emerged within archaea)
@@ -132,3 +132,24 @@ L6 - 2.3: tree of life {4}
     (3-> how to read a tree {2}:
         -1) phylogenies are like mobiles; branches can rotate but it doesn’t change the meaning
         -2) read distance to the last common ancestor
+
+
+
+EXAM:
+    - HGT: transfer of genetic material horizontally across branches of tree of life
+        - first revelaed by molecular phylogenetics
+    - molecular phylogenetics: tracking evolution using molecular data 
+        - hemoglobin was used at first to track evolution but Carl Woese championed the use of ribosomal RNA due to its universality
+        - Woese's proposed 3 domain tree of life: archaea & eukaryotes are sister groups
+        - revised "eocyte hypothesis" tree: eukaryotes embedded within archaea formed due to endosymbiosis of bacteria by archaea (not parsimonious due to ester -> ether -> ester)
+    - bacteria: unicellular, cell wall & cell membrane, lack organelles, nucleoid instead of organized nucleus (prokaryotic), cell wall w/ peptidoglycan
+    - archaea: unicellular, prokaryotic, cell membrane phospholipid w/ ether bonds, cannot photosynthesize, distinct metabolic pathways & genes to bacteria (includes extremophiles previously thought to be bacteria)
+    - possible model for first eukaryote: endosymbiosis (entangle, engulf, endogenize)
+    - LUCA: last universal common ancestor -> bacteria & archaea
+        - had phospholipid bilayer plasma membrane
+        - information: single circular DNA genome, helicase, DNA polymerase
+        - translation: DNA-dependent RNA polymerase (synthesize mRNA), tRNA, ribosome
+        - metabolism (anerobic): TCA cycle, ability to synthesize all 4 bases & most amino acids
+    - 2 phylogenetic methods: align sequence, identify changes at homologous sites (diff. sequence), then
+        1. compute dist. matrix -> join most similar sequences -> map on tree & repeat (dist. based)
+        2. choose tree structure to minimize # of mutations (parsimony based)

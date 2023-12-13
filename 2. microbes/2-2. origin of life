@@ -39,11 +39,11 @@ L5 - 2.2: origin of life {6}
         3. tRNA at the P site releases its amino acid onto the tRNA at the A site & becomes empty
         4. ribosome moves one triplet codon forward on mRNA; empty tRNA at E site & peptidyl tRNA at P site
         5. cycle continues & successive tRNAs donate amino acids to the growing polypeptide chain until stop codon (UAG, UGA, UAA) is reached
-        6. ribosome disengages & seperates into two subunites; protein folds up & diffuses away
+        6. ribosome disengages & seperates into two subunits; protein folds up & diffuses away
 
 3. redundancy of genetic code {3}:
     (1-> lots of codons code for the same thing
-    (2-> (# of amino acids to be specified) < (# of different nucleotides in mRNA)(# of nucleotides per codon)
+    (2-> (# of amino acids to be specified) < (# of different nucleotides in mRNA)^(# of nucleotides per codon)
     (3-> why amino acids? why only C, H, N, O, S? why only 20?
         ((1-> 2 theories {2}:
             -1) “frozen accident” (crick)
@@ -185,11 +185,11 @@ L5 - 2.2: origin of life {6}
         -------------------------------------------------------------------------------------------------------
         |AEROBIC                                                                                              |
         |-----------------------------------------------------------------------------------------------------|
-        |                      |                          |                     |iron oxidizing bateria       |
+        |                      |                          |                     |iron oxidizing bacteria      |
         |-----------------------------------------------------------------------------------------------------|
         |                      |oxygenic photosynthesis   |(photo) autotrophs   |cyanobacteria                |
         |-----------------------------------------------------------------------------------------------------|
-        |SO4 going down column |anoxygenic photosynthesis |(photo) heterotrophs |sulfur & non-sulfur bacteria |
+        |SO4 going down column |anoxygenic photosynthesis |(photo) autotrophs   |sulfur & non-sulfur bacteria |
         |-----------------------------------------------------------------------------------------------------|
         |H2S going up column   |respiration               |(chemo) heterotrophs |desulfovibrio                |
         |-----------------------------------------------------------------------------------------------------|
@@ -201,3 +201,62 @@ L5 - 2.2: origin of life {6}
             -*2) #^heterotroph: uses organic C^#
             -*3) #^photo: light energy^#
             -*4) #^chemo: chemical energy^#
+
+
+
+EXAM:
+    - central dogma: flow of genetic info within biological sys.
+        1. DNA: info storage made of base pairs found in nucleus (euk) or cytoplasm (prok)
+        2. mRNA: 
+            1. transcription (info retrival) made of single strand of bases found in cytoplasm
+            2. translation (product assembly) made of triplet codons found in ribosome
+        3. protein: product made of 20+ diff. amino acids found in the cytoplasm
+    - ribosome: macromolecular mRNA translation machine for protein synthesis
+        - 2 subunits of ribosomes: 
+            1. small 30S: 16S rRNA that reads the mRNA
+            2. large 50S subunit: contains 5S & 23S rRNA that forms polypeptide changes of amino acids
+        - 6 steps of ribosome/mRNA translation: 
+            1. ribosome forms & docks on start codon of mRNA (AUG) w/ tRNA at P site 
+            2. matching tRNA to codon accepted at A site -> peptide bond forms btwn amino acids of A & P sites
+            3. P tRNA releases chain to A tRNA 
+            4. ribosome moves 1 triplet codon forward on mRNA -> empty tRNA discarded at E site, new peptidyl tRNA at P site
+            5. cycle continues until stop codon (UAG, UGA, UAA) is reached
+            6. ribosome disengages & separates into 2 subunits -> protein folds up & diffuses away
+    - 2 explanations to genetic redundancy: why amino acids? why only CHNOS? why only 20? A < N^L (given 20 amino acids, 4 bases & 3 bases per codon would be a more parsimonious soln)
+        1. frozen accident
+        2. optimal biochemistry considering versatility, cost of syntheisis, etc
+    - 2 most important attributes of life: 
+        1. genetic info -> self replication & heritability (genotypic)
+        2. metabolism -> complexity (phenotypic)
+    - 3 theories of origin of life:
+        1. special creation: supernatural (not science)
+        2. panspermia: life on earth evolved from life from outer space & was able to thrive upon reaching suitable conditions
+            1. undirected: interplanetary dispersal of microbes via meteors
+            2. directed: delibrate seeding of planets
+            3. misdirected: galactic pollution by spacecraft
+        3. spontaneous generation: unambiguously chemical -> indisputably living, self-assembly -> evolution
+            - 3 processes required for life:
+                1. growth: exergonic chemical rxns that release nrg for synthesizing organic molecules -> metabolism
+                2. reproduction: separated fragment of growing system capable of continued growth itself
+                3. inheritance: products of reproduction resembles parent more closely than random member of pop. -> genetic info
+            - 2 possible routes for origin of life:
+                1. genetics first: RNA world of early oceans populated by self-replicating RNA strands -> cells -> all living organisms
+                2. metabolism first: possible abiotic metabolism at chemical diseqm at hydrothermal vents
+                    - higher pressure & temp -> exergonic rxns
+                    - organic synthesis: dissolved CO2 reduced by H2 -> organic molecules (anoxic metabolism)
+    - metabolism:
+        - electron transport: length of arrow on redox tower from left to right running downward indicates nrg released
+            - electron donor: reduced -(oxidation, e- loss)-> oxidized (gives e- to acceptor & releases nrg)
+            - electron acceptor: oxidized -(reduction, e- gain)-> reduced (becomes donor & continues reacting)
+        - 5 stages of evolution of metabolism:
+            1. glycolysis & fermentation (3.5 Bya): CH20 -> CH20' (2 ATP), 6-carbon glucose -> 3-carbon pyruvate -> nrg (ATP) & reducing power (NADH)
+            2. anaerobic resp (3.45 Bya): Cred + SO4 -> Cox + HS- (>>2 ATP), glycolysis -> oxidation of pyruvate -> citric acid cycle -> electron transport chain
+            3. anoxygenic photosyn. (3.4 Bya): CO2 + H20 -> CH2O + 2S, first photosynthetic bacteria
+            4. oxygenic photosyn. (2.7 Bya): CO2 + H2O -> CH2O + O2, cyanobacteria cased the great oxygenation event (0.0001% -> 21%)
+            5. aerobic resp.: CH2O + O2 -> CO2 + H2O (~36 ATP), oxygen breathing organisms
+            - chemiosmotic nrg storage by membranes:
+                - lipid bilayer impermeable to ions: separates inside & outside electrical charge
+                - charge imbalance from redox rxns pump cations (H+) across membrane -> electrochem gradient -> cations return spontaneous due to conc. diff. across membrane
+                - cations return via ATP synthase channel -> drives oxidative phosphorylation of ADP to ATP -> creates high nrg phosphate bond which is later hydrolyzed to support biosynthesis
+    - winogradsky column: simple way to visualize interactions btwn diverse metabolic sys.
+        - top| iron oxidizing bacteria, cyanobacteria (oxygenic photosyn), sulfur & non-sulfer bacteria (anoxygenic photosyn), desulfovibrio (anerobic resp), clostridia (fermentation) |bottom
