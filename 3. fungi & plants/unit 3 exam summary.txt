@@ -1,0 +1,288 @@
+
+fungi: eukaryotic, heterotrophic, uni/multicellular, highly ubiquitous
+    - evolved in ocean ~1 Bya, colonized land 500 Mya (before plants)
+    - innovated nutrient extraction in terrestrial env.
+    - evolutionary history hard to study due to few fossils (phylogeny poorly sorted, mostly based on reproductive structures & DNA -> big groups/clusters)
+    - fill many niches (free-living/symbiotic, mutualistic/pathogenic) , critical to ecosystem function across all ecosystems (as plant symbionts & decomposers)
+    - 4 main features of fungi:
+        1. structure: cell walls like plants but contain chitin like animals
+            1. single-celled: yeasts, chitrid fungi, 
+            2. mycelia: hyphae can be bundled into mycelium (can grow through things) or fruiting bodies (mushrooms)
+                - long thin structure massively increases SA:vol -> master absorbers
+                - cell is a loose term for fungi: hyphae cells separated by septa w/ large pores alowing for rapid transport of nutrients (and even nuclei)
+            - fungi are mostly water (require moist habitat): fungi spores & small fungi can survive harsher conditions
+        2. nutrition: fungi nutrition hugely impacts ecosystems
+            - lignin: fungi were first efficient decomposers of lignin (could break up ligninocellulose), recycles nrg in dead matter
+            - lichen: fungal symbiosis w/ algae/cyanobacteria, very abundant (cover 6% of eart's surface), important in succession (secretes acids -> break down rock -> kickstarts soil formation)
+            - mycorrhizae: plants provide fungus w/ sugar & carbon, fungus provides nutrients from soil, 80% of vascular plants have mycorrhizae symbiont (very important for plant health)
+            - chytrid fungi: grows on skin of amphibians, arose in Korea in 1960s & spread rapidly worldwide (60 species extinct at time of identification in 1990s, ~120 species extinct today), persists as spores in env.
+        3. reproduction: very diverse, some have haploid & diploid phases 
+            1. asexual: fragmentation (simple) or production of haploid vegetative spores during haploid phase (slightly more complex)
+            2. sexual: can only see reproductive structures (muschrooms, fruting bodies)
+                - have dikaryotic phase where cells fuse without nucleus fusion
+                - plasmogamy initiates sexual cycle to produce dikaryotic mycelium which can last for decades 
+                - eventually produces mushrooms -> karyogamy -> recombination -> meiosis -> spores
+        4. dispersal: spores (can persist in dry & unfavourable conditions for very long time, small size facilitates airborne dispersal)
+            - 3 interesting mechanisms: ejection (puffball), animal dispersers (stinkhorns producing scent of rotting meat & stinky stuff), infect/possess animals ("zombie fungus"/ophiocordiceps, symbiont -> saprophyte)
+    - humans & fungi: edible fungi, yeasts (to make alcohol, bread, soy sause, cheese), mycotoxins (penicillin, cyclosporine, ergot alkaloids), bioremediation, bio control
+
+origin of photosynthesis: not monophyletic
+    - evolved at least once in cyanobacteria, first photosynthetic euk. evolved ~1 Bya after cyanobacteria
+    - clues: photosynthesis requires two photosystems (PSI & PSII) which have both evolved in bacteria (2 photosystems evolving more than once is unlikely), all photosynthetic euk. use similar structure (chloroplasts) for photosynthesis
+    - heterotrophic euk. likely acquired photosynthetic ability from cyanobacteria via endosymbiosis (3rd membrane of euk. is lost, double membrane of chloroplast both contain peptidoglycan)
+        - chloroplasts similar to cyanobacteria & behave somewhat independently from cell (replicate by fission independently of cell division, manufacture own proteins, have own DNA, peptidoglycan in cell walls)
+        - chloroplasts have at least a double membrane (more for later photosynthetic groups which aquired their photosynthetic ability from the first photosynthetic euk. via secondary endosymbiosis)
+        - endosymbiotic cyanobacteria also found in extant euk. & animals (sea slugs, leaf slugs, some amoeba)
+
+algae examples: mostly aquatic, photosynthetic, lack true roots/stems/leaves & specialized reproductive structures
+    - used as food, food thickener, agar, gelatin substitute, bioplastics, potential fertilizer, potential biofuel
+    1. phytoplankton: single-celled, free-living organisms, responsible for ~50% of global photosynthesis (PLANTS!!!)
+    2. brown algae: kelps, ~2k species, brown from carotenoid pigment, multicellular, fast growing, crucial to ecosystems (kelp forests), sex/asex (NOT PLANTS!!!)
+    3. red algae: uni/multi-cellular, sex/asex, 7k+ species, can live at great depths (red carotenoid pigment absorbs blue light) (PLANTS!!! but not green)
+        - coralline red algae: lays down hard calcareous deposits in a wall around the cell -> large coralline structures left behind when alage die
+            - attracts coral larva, can patch up broken coral, provides reinforcement to coral skeletons, but very slow-growing & vulnerable to damage
+
+    - 2 impacts of the key evolutionary innovations in plants:
+        1. proliferation of new lineages
+        2. facilitated acces to new habitats & ecological niches
+    - green algae: uni/multicellular, sex/asex, main primary producers in freshwater, some have flagella & can swim
+        - 90% live in freshwater, mostly aquatic (except for some lichens, watermelon snow, pathogenic green algae)
+    - land plants: fairly recent (~475 Mya, ~1 Bya after first photosynthetic euk.)
+        - 4 reasons to move onto land: huge uncolonized area, abundant light, readily available CO2, less herbivory (at the time)
+        - 5 challenges of moving onto land: UV radiation, dehydration, dispersal, gravity, nutrients
+    - bryophytes: mosses, liverworts, hogworts
+        - 6 characteristics: 
+            1-2. no vascular tissue, no roots,
+            3-4. absorb water & nutrients from primitive "leaves", thin leaves w/ primitive cuticle & few/no stomata
+            5-6. small & short & slow-growing (limited by diffusion), generally grow in damp/moist habitats
+        - fragile but also tough: very ecologically important, found on all 7 continents (only plants to grow on antarctica)
+        - 3 effects of warming on moss growth: dehydration from evaporation, greater rate of respiration (but rate of photosynthesis doesn't change), less snow cover
+        - examples of moss innovation: ability to tolerate dessication then rapidly rehydrate when water is available, desert mosses grow long filamentous structures to harvest moisture in air
+        - 3 key innovations:
+            1. protection from UV: production of UV absorbing compounds (flavonoids, anthocyanins, carotenoids)
+            2. cuticle: watertight sealant covering above-ground plant parts produced by epidermal cells, prevents gas loss but also inhibits gas exchange, primitive cuticles have no stomata
+            3. reproduction: 3 mechanisms 
+                1. spores: encased in tough coat which can resist drying, survive/remain dormant for fairly long periods of time, be dispersed by wind (resistant but lightweight, one of strongest compounds known to man)
+                2. gametes: distinct male & female gametes produced in protective, complex, multicellular structure to prevent from drying & physical damage (herbivory)
+                3. embryos: multicellular embryo retained on & nourished by parent plant instead of shedding them into water
+                - can be uni/bisexual: gametophyte produces male or female, or produces both male & female
+                - life cycle: sporophyte -(meiosis)-> spores -(wind dispersal, mitosis)-> gametophytes -> sperm swims from antheridia to archegonia -(fertilization)-> zygote -(mitosis)-> sporophyte
+        - ex. sphagnum moss: massive carbon sink, non-renewable resource crucial to peatland ecosystems harvested for garden compost & fuel
+    - life cycle of plants: all plants go through alternation of generations but it is only visibly apparent in bryophtes; sporophyte became dominant as plants became more complex
+        - diploid sporophyte phase:
+            - zygote undergoes mitosis (cell division to create 2 identical daughter cells) to replicate & form sporophyte
+            - sporophyte produces spores through meiosis (2-step division process to create 4 cells with half the genetic information)
+        - haploid gametophyte phase:
+            - spores undergo mitosis to become gametophyte consisting of gametes
+            - gametes undergo fusion to become zygotes
+
+tracheophytes: vascular plants
+    - early silurian: small bryophyte-like things & GIANT FUNGI!!
+        - 4 new challenges for tracheophytes: competition (for space, light, water, nutrients), colonize drier env., grow taller & deeper
+    - mid silurian: BRANCHES!!
+        - 4 key innovations:
+            1. complexity/competition: branching
+                - branching enabled diff. stems to specialize: earliest plants could not grow very tall & were just green stems with no leaves
+                    - roots: grow along ground to acquire nutrients 
+                    - stems: grow up to outcompete neighbours for light (shade out competitors)
+            2. drier env.: stomata (allow gas exhange when open & prevents water loss when closed)
+                - cuticle & stomata evolved tgt, stomata enabled evolution of full cuticle
+                - stoma: opening/pore surrounded by specialized guard cells (on bottom of leaf since less evaporation) (guard cells let plant control stomata opening)
+            3. taller: vascular tissue (specialized reinforced conductive tissue)
+                - 2 function: transport (water, sugars, nutrients), support
+                - extant non-vascular plants have conducting cells but no secondary thickening
+                - earliest vascular plants: thickened conducting cells, had some branches but no leaves, increasinly effective vascular tissue (from cork-like spongy tissue to hollow lignified tubes)
+                - 4 stages of increasing differentiation/specialization -> more support:
+                    1. bryophytes: primary cellulose wall
+                    2. first vascular tissue: primary wall + lignin ring
+                    3. ferns & most gymnosperms: primary cellulose wall + secondary lignin wall (ends & sides have pits w/ no secondary wall)
+                    4. angiosperms: ends have perforations w/ no primary & secondary wall
+            4. deeper: roots (allowed expansion into drier env. by going deeper to where water is instead of relying on osmosis/diffusion)
+                - 2 main functions: nutrient/water acquisition, physical support
+                - 3rd function: interface w/ symbionts (mycorrhizae)
+                - responsible for creation of soil: breakdown of aggregates/minerals, release acids, put organic matter in soil
+    - devonian: age of forests (20 m)
+        - early Devonian: tallest plants ~1m (dwarfed by fungi!)
+        - mid Devonian: shurblike forests of ferns & horsetails
+            - competition for water/nutrients & need for support -> roots
+            - competition for light -> flattened stems -> leaves
+        - late Devonian: world's first forests, first tree-like plants
+            - gilboa trees: look like modern fern trees (from ancient & weird fern-like family)
+                - 8m tall (like modern palm tree) while rest of vegetation was only 2m
+                - no leaves present: increasingly fine branches
+                - vascular tissue allowed for taller growth but no true wood (like modern ferns)
+    - reduction of gametophyte: one of strongest trends in land plant evolution
+        - bryophytes: small & short-lived sporophyte, depends on gametophyte for nutrition, gametophyte-dominant life cycle, most in haploid form
+        - vascular seedless plants: sporophyte much larger & longer-lived than gametophyte, sporophyte-dominant life cycle
+        - seed plants: gametophytes are microscopic
+        - 3 advantages of being sporophyte/diploid dominant:
+            1. twice as much DNA: inc. potential expression of traits
+            2. diploid cells can respond to varying environmental conditions more efficiently
+            3. can mask deleterious mutations if individual is heterozygous (two different alleles) at many genes
+    - tracheophytes: extant vascular seedless plants
+        - ferns & fern allies (horsetails, clubmosses)
+        - have complex leaves & roots, has vascular tissue but no true wood
+        - sporophyte-dominant life cycle but still disperses using spores
+        - life cycle much like bryophyte except gametophyte is smaller & shorter-lived
+        - ferns: once dominant but taken over by seed plants, 11k species mostly found in tropics
+            - lot of species remain very similar to when they first evolved (evolutionary stasis)
+            - hybridization thought to have played major roles in fern evolution (breeding btwn. close relatives, many fern species hybridize in nature)
+            - ~30% of modern ferns are epiphytes (live on other plants) & host huge diversity of inverts
+            - ex. application: bioremediation of heavy metals (ferns rly good at absorbing heavy metals in soil, harvest then extract heavy metals, slow but cheap)
+                - ferns can tolerate lethal levels of heavy metals (proteins help bind it & move it & induce stress response, stored in vacuole in less toxic form)
+    - 3 types of env. variation that plants face:
+        - env: light & uv, water (drough, flood), temp (varying), ice/fire/wind/acidity
+        - materials: nutrient availability, salt, metals
+        - predation: herbivores, pathogens
+
+gymnosperms: trees & seeds
+    - carboniferous: fern trees (30-50m)
+    - cretaceous: conifer trees
+    - today: conifer trees (100+ m, 650 tons, some of the biggest plants to ever exist)
+    - what is a tree?: not a taxonomic group!! (not all seed plants are trees but all trees are seed plants)
+        - simple definition: a growth form where a plant with single stem & branching canopy can reach large heights thanks to specialized cells
+        - stricter definition: has wood & increases in girth
+            - excludes early tree-like plants (Gilboa trees)
+            - excludes modern "trees" (palms, banana trees, fern trees)
+    - first "true tree": archaeopteris (extinct genus of fern-like trees)
+        - wood similar to modern gymnosperm wood, trunks (30 m) with reinforced branch joints, fern-like leaves
+        - still reproduced via spores, but had 2 types of spores (heterospory)
+    - xylem vs phloem: water & dissolved minerals up from roots to leaves vs food down from leaves to roots
+    - 3 key innovations of gymnosperms:
+        1. wood: composite of cellulose fibres in lignin matrix formed by accumulation of live & dead xylem
+            - modern trees have vascular cambrium (ring layer of living dividing cells beneath bark)
+            - allows trees to build support via girth as they build height
+            - ecology: emerald ash borer larvae eat phloem & young xylem of ash trees -> kills ash trees since roots require food from leaves & leaves require nutrients from roots
+        2. reproduction: 2 further innovation from ferns
+            1. pollen: no more spores (encased gametes to replace motile sperm)
+                - spores evolved into pollen grains:
+                    - 2-3 tiny male gametophytes encased in tough coat (one of most recalcitrant compounds known to man, can be preserved for hundreds of thousands of years)
+                    - pollen grains germinate to form pollen tube, sperm swims down pollen tube to ovule
+                    - allow efficient reproduction in dry habitats: can be exposed to air for long periods w/o drying out, carried to female gametophyte by wind/animals
+            2. seeds no more 2nd free-living generation (fertilized embryo protected in seed)
+                - ferlized ovule forms seeds, embryo contained within seed, outer tissue becomes protective coat, seed growth provisioned by mother plant (but no fruits!!)
+                - dispersal (conifer example): cones open when seeds are mature to release for dispersal
+        3. heterospory: spores are of 2 sizes
+            - small ones (microspores) -> pollen grain (male)
+            - big ones (megaspores) -> ovule w/ egg (female) (housed in cones in conifers):
+                - not exposed to air, dessication resistant
+                - male gametophyte has to "burrow" to access female gametophyte
+    - spores vs seeds: ___ | ___
+        - definition: reproductive structure that can develop into a new individual | fertilized ovule of seed plants
+        - occurence: non-seeded plants & fungi | gymnosperms & angiosperms
+        - size: microscopic | macroscopic
+        - cellularity: uni | multi
+        - production: large #s | small #s
+        - ploidy: haploid | diploid
+        - food storage: none | stores food
+        - survival: susceptible to harsh env. | can tolerate harsh env.
+    - gymnosperm life cycle (conifer):
+        - mature sporophyte:
+            - cones with sporangia:
+                - meiosis -> haploid microspore forms pollen grain
+                - mitosis -> multicellular pollen grain
+                - pollination -> disperal by wind
+            - ovulate cone:
+                - contain ovules
+                - ovules contain megasporangia
+                - megasporangium contains diploid mother cell
+                - meiosis -> 4 products, one is large & forms the megaspore, the rest die
+        - pollen grain burrows to ovule:
+            - megaspore divides to form female gametophyte
+            - mitosis -> female gametophyte forms eggs
+            - pollen tube delivers sperm to egg
+            - only one egg is fertilized
+            - fertilization mitosis: forms diploid embryo within seeds
+            - seeds dispersed by wind/animals
+            - germination: developing sporophyte
+    - gymnosperms today: 3 examples
+        1. cycad: not palms! (more closely related to pine trees), ~100 extant species left of once large tropical group
+            - slow growing & long lived (up to 1k year old)
+            - ex. of evolutionary stasis: cycads were once large part of diet of some herbivorous dinosaurs
+            - separate male & female plants: cones either produce pollen (males) or ovules (females)
+            - descended from one of first groups that branched off from ferns (still have motile sperm like non-vascular plants)
+        2. ginkgo biloba: closest living relatives to cycads! (equiv. to humans & snakes)
+            - share ancient features w/ cycads: motile sperm, separate male & female plants
+            - "living fossil" - visibly related to prehistoric fossils
+            - only 1 extant species (endangered in china but grown globally): all relatives from same order are extinct!! (alone for over 3 million years)
+            - have big weird-looking seeds, have weird fan-like leaves w/ parallel veins, can live for at least 1400 years
+        3. conifer: most abundant/dominant/diverse gymnosperms on earth tdy (~630 species), dominates worlds largest forest biome (taiga/boreal-forest, characterized by coniferous forests)
+            - all are woody & cone-bearing, most are trees
+            - includes pines, cypres, yews, larches
+            - pines: specialize in dry env. (both hot & cold)
+                - 3 types of innovations to overcome challenges of winter:
+                    1. resistance to cold: thick bark, pine cones sheltering seeds
+                    2. ability to shed snow: cone shaped tree, down-facing flexible branches
+                    3. wind resistance: dense wood & waxy needles
+                - pines in warm climates: thin needles to aid thermoregulation (resistant to dessication)
+    - impact of climate change on range & other things:
+        - vegetation greeness change over last 20 years:
+            - inc heat & drought stress -> death along southern margin of taiga -> browning of southern taiga
+            - trees & shurbs expand north into tundra as climate warms -> greening of northern taiga
+        - albedo change in tundra over last 20 years (light reflectivity)
+            - lower albedo in the north due to inc vegetation coverage -> more warming
+            - albedo is a factor that controls earth temp: light not reflected warms the surface!
+            - forest covered tundra accelerates arctic warming (conifers shed snow!!!)
+            - positive reinforcement cycle: more greening of tundra -> more warming -> more greening of tundra
+        - urban island effect: will inc. extreme heat in cities
+            - dark materials absorb more heat (concrete, asphalt)
+            - "canyons" created by tall buildings along roads trap heat
+            - lack of plant cover (esp trees) lead to lower albedo
+            - solution: more trees/greenspace -> cooler surface temp
+                - trees provide shade (higher albedo than concrete/asphalt)
+                - plants shed heat via evaporative cooling: trees are constantly losing water from their stomata
+                - temp diff under canopy can create breeze, total cooling effect of 3-9 deg C
+                - non-lin rel. of more trees & cooler suface temp in urban env.: has to pass certain threshold (~40%) where trees start to have progressively stronger cooling effect
+
+angiosperms: flowering plants
+    - angiosperm radiation: 125-80 Mya (cretaceous period), angiosperm coponent of world's flora goes from ~0% to >75%
+        - adaptive radiation: 1 lineage produces unusually large # of descendant species adapted to many habitats & ecological niches
+        - angiosperms are one of the great adaptive radiations in history of life (unsure when first evolved, but they took off rapidly once they did)
+        - reproductive isolation (cause of rapid speciation): diverging species no longer interbred, no gene mixing (last & often hardest step in speciation)
+            - flowers are most associated w/ speciation since they're the reproductive structures (directly involved in mating choice, change in flowers -> change in gene mixing -> formation of new species)
+            - divergence in flower structures can quickly lead to reproductive isolation (carpel, stamen, petals diversified -> fantastic array of sizes, shapes, colours)
+    - what is a flower?: for plant sex (esp. for finding mates)
+        1. stamen (male structure): anther, filament (produce pollen grains)
+        2. carpel (female structure): stigma, style, ovary (produce ovules, protect developing embryo)
+            - ovule: includes integument -> seed coat
+            - ovary: additional maternal tissue around ovule (ovarian tissue, fruit)
+            - pericarp: ovary wall -> fruit
+        - contain reproductive organs: either carpel or stamen or both (some have male & female on same flower, diff. flower same plant, diff. individual plants entirely)
+        - flowers later evolved to enclose stamen & carpels in petals which evolved from leaves
+    - pollination: not specific to angiosperms (gymnosperms also have pollination), but angiosperms have targeted pollen movement
+        - pollination: pollen transfer from anther to compatible, receptive stigma
+            - out-cross pollination: pollen & stigma bred from different species
+        - diversity of floral structures are directly linked to pollination
+        - pollen that lands or wrong stigma (or anywhere else) is wasted: wind pollinated plants waste lots of resources on creating pollen that ends up wasted (reproductive dead end)
+        - adaptations that improve chances of pollen grain ending on right stigma -> inc. reproductive success
+        - ~80% of angiosperms use animal pollinators (diff angiosperms have evolved/specialized to target the right pollinators)
+    - adaptive significance of floral traits:
+        - floral traits can: attract good pollinators, deter non-pollinating visitors, manipulate visitor behaviour to maximize pollen transfer
+        - almost any floral trait can affect pollination (colour, scent, shape & size, markings (including uv-visible), position, pollinator rewards (nectars, oils, heat, etc), flowering time (day, night, season))
+        - theory of pollinator-mediated speciation (diff. groups favour diff. traits -> reproductive isolation -> speciation)
+            - pollinator shifts can be first step in reproductive isolation, simple changes in flowers can lead to pollinator shifts
+            - experimental crosses & genetic analyses show large changes in flower morphology possible with single mutations
+    - fruit: same tissue (ovarian tissue) has diversified into many forms & specific functions (like w/ the flower)
+        - ovaries usually ripens after fertilization -> develops into fruit (enormous diversity in fruiting process)
+        - general functions: protecting developing seed, seed dispersal (most seed dispersal structures develop from pericarp &/ ovary tissue)
+        - not all fruits are meant to be eaten: sheel of walnut, maple keys 
+            - 4 ways ovarian tissue can aid in dispersal: wind (dandelion seed), animal fur (burdock), explosion (ballistic seed), water (coconut)
+        - some fruits are meant to be eaten: seeds will likely end up where animal goes which will likely be a suitable env. (animal will likely stay in places w/ similar conditions)
+            - fruits get eaten (hopefully by intended disperser) -> flesh gets digested but seeds aren't -> seeds gets pooped out in new place (moist env. pre-provisioned w/ nutrients)
+            - fruits could be hidden & forgotten (squirrels w/ acorns)
+            - takes more nrg to make fruit than wind-dispersed seed but it's a beneficial ecological strategy if inc. provisioning & complexity means inc. survival rate
+    - 2 angiosperm groups: 4 differences of monocots vs dicots
+        - species: all grasses incl. some flowers & trees | prettier species & bigger species
+        1. cotyledons: 1 | 2
+        2. vascular tissue: scattered through stem | circular arrangement
+        3. leaf veins: parallel | branching
+        4. phyly: monophyletic | paraphyletic (since little monocot branch evolved from dicots)
+        - examples: all grasses, corn, wheats, oats, rice, sugarcane, irises, orchids lillies palms | everything not monocot, bean & soy
+        - monocots have lost woodiness
+    - incredible modularity of plants: especially notable in angiosperms
+        - plants produce multiples of most morphological structures, that can take each other's place (cut off top branches, side branch will replace it)
+        - can create vastly different structures with the same tissue or analogous structures via diff pathways/tissues
+        - allows huge flexibility for individuals & evolutionary lineages
+    - angiosperms & humans: almost all plants we eat are angiosperms (except pine nuts, algae, fiddlehead ferns)
+        - angiosperms need to synthesize new chemicals to create new pigments & scenets to attract specific pollinators
+            - compounds uses: poison (cyanide), perfumes (flowers), insecticide (permethrin from chrysanthemum flowers), coffee (seeds), drugs (heroin & opiates), spices, pigments

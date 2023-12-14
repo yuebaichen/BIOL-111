@@ -107,3 +107,21 @@ L9 - 3.2: plants 1 - marine algae & photosynthesis {6}
     -5) packaging: bioplastics
     -6) potential sustainable fertilizer (cyanobacteria can fix nitrogen from the atmosphere)
     -7) potential biofuel (single-celled simple organisms that can be grown in mass)
+
+
+
+EXAM:
+    - origin of photosynthesis: not monophyletic
+        - evolved at least once in cyanobacteria, first photosynthetic euk. evolved ~1 Bya after cyanobacteria
+        - clues: photosynthesis requires two photosystems (PSI & PSII) which have both evolved in bacteria (2 photosystems evolving more than once is unlikely), all photosynthetic euk. use similar structure (chloroplasts) for photosynthesis
+        - heterotrophic euk. likely acquired photosynthetic ability from cyanobacteria via endosymbiosis (3rd membrane of euk. is lost, double membrane of chloroplast both contain peptidoglycan)
+            - chloroplasts similar to cyanobacteria & behave somewhat independently from cell (replicate by fission independently of cell division, manufacture own proteins, have own DNA, peptidoglycan in cell walls)
+            - chloroplasts have at least a double membrane (more for later photosynthetic groups which aquired their photosynthetic ability from the first photosynthetic euk. via secondary endosymbiosis)
+            - endosymbiotic cyanobacteria also found in extant euk. & animals (sea slugs, leaf slugs, some amoeba)
+    - algae examples: mostly aquatic, photosynthetic, lack true roots/stems/leaves & specialized reproductive structures
+        - used as food, food thickener, agar, gelatin substitute, bioplastics, potential fertilizer, potential biofuel
+        1. phytoplankton: single-celled, free-living organisms, responsible for ~50% of global photosynthesis (PLANTS!!!)
+        2. brown algae: kelps, ~2k species, brown from carotenoid pigment, multicellular, fast growing, crucial to ecosystems (kelp forests), sex/asex (NOT PLANTS!!!)
+        3. red algae: uni/multi-cellular, sex/asex, 7k+ species, can live at great depths (red carotenoid pigment absorbs blue light) (PLANTS!!! but not green)
+            - coralline red algae: lays down hard calcareous deposits in a wall around the cell -> large coralline structures left behind when alage die
+                - attracts coral larva, can patch up broken coral, provides reinforcement to coral skeletons, but very slow-growing & vulnerable to damage

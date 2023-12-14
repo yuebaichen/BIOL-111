@@ -22,7 +22,7 @@ the angiosperm radiation:
         - fruits
     - flowers are most associated with speciation (since they are the reproductive structures)
     - cause of rapid speciation in angiosperms:
-        - reproductive isoaltion: diverging species no longer interbred, no gene mixing (last & often hardest step in speciation)
+        - reproductive isolation: diverging species no longer interbred, no gene mixing (last & often hardest step in speciation)
         - flowers are directly involved in mating & mate choice (changes in flowers -> changes in gene mixing -> formation of new species)
         - divergence in flowers can more quickly lead to reproductive isolation 
         - flower structures (carpel, stamen, petals) diversified -> fantastic array of sizes, shapes, & colours
@@ -31,7 +31,7 @@ what is a flower?:
     - basically a protected ovule housed on the flower
     - flowers are for plant sex, esp for finding mates
     - important anatomy:
-        - presence of ovarian tissue (ovule)
+        - presence of ovarian tissue (-> ovule)
         - stamen (male structure): anther, filament
         - carpel (female structure): stigma, style, ovary
     - contain reproductive organs: carpel, stamen, or both:
@@ -48,7 +48,7 @@ pollination:
         - out-cross pollination: pollen & stigma bred from different species
     - pollen that lands or wrong stigma (or anywhere else) is wasted:
         - wind pollinated plants waste lots of resources on creating pollen that ends up wasted (reproductive dead end)
-    - adaptations that improve changes of pollen grain landing on right stigma (/stigma getting the right pollen grains) inc reproductive success
+    - adaptations that improve chances of pollen grain landing on right stigma (/stigma getting the right pollen grains) inc reproductive success
     - ~80% of angiosperms use animal pollinators
         - diff angiosperms have evolved/specialized to target the right pollinators
             - species pollinated by hawk moths tend to be white & bloom at night
@@ -97,7 +97,7 @@ fruits:
     - some fruits are meant to be eaten:
         - fruits get eaten (hopefully by intended disperser)
         - fruit flesh gets digested but seeds aren't
-        - seeds gets pooped out in new place (moise microenvironment pre-provisioned with nutrients)
+        - seeds gets pooped out in new place (moist microenvironment pre-provisioned with nutrients)
         - fruits could be hidden & forgotten: squirrels with acorns
         - chances are that the seed will end up where the animal goes which will likely be a suitable environment (since the same animal ate the fruit from the same plant)
             - some most animals don't like chillies since we can taste spice from capsaicin whereas the targeted disperser (birds) can't taste it
@@ -131,10 +131,9 @@ the 2 angiosperm groups:
                 - everything not monocot
                 - include beans & soy
     
-incredible modularity of plants:
+incredible modularity of plants: especially notable in angiosperms
     - plants produce multiples of most morphological structures, that can take each other's place (cut off top branches, side branch will replace it)
     - can create vastly different structures with the same tissue or analogous structures via diff pathways/tissues
-    - especially notable in angiosperms
     - allows huge flexibility for individuals & evolutionary lineages
 
 angiosperms & humans:
@@ -148,3 +147,58 @@ angiosperms & humans:
             - coffee: caffeine (defensive compounds/poisons of seeds)
             - drugs: heroin & opiates
             - spices, pigments, spices
+
+
+
+EXAM:
+    - angiosperm radiation: 125-80 Mya (cretaceous period), angiosperm coponent of world's flora goes from ~0% to >75%
+        - adaptive radiation: 1 lineage produces unusually large # of descendant species adapted to many habitats & ecological niches
+        - angiosperms are one of the great adaptive radiations in history of life (unsure when first evolved, but they took off rapidly once they did)
+        - reproductive isolation (cause of rapid speciation): diverging species no longer interbred, no gene mixing (last & often hardest step in speciation)
+            - flowers are most associated w/ speciation since they're the reproductive structures (directly involved in mating choice, change in flowers -> change in gene mixing -> formation of new species)
+            - divergence in flower structures can quickly lead to reproductive isolation (carpel, stamen, petals diversified -> fantastic array of sizes, shapes, colours)
+    - what is a flower?: for plant sex (esp. for finding mates)
+        1. stamen (male structure): anther, filament (produce pollen grains)
+        2. carpel (female structure): stigma, style, ovary (produce ovules, protect developing embryo)
+            - ovule: includes integument -> seed coat
+            - ovary: additional maternal tissue around ovule (ovarian tissue, fruit)
+            - pericarp: ovary wall -> fruit
+        - contain reproductive organs: either carpel or stamen or both (some have male & female on same flower, diff. flower same plant, diff. individual plants entirely)
+        - flowers later evolved to enclose stamen & carpels in petals which evolved from leaves
+    - pollination: not specific to angiosperms (gymnosperms also have pollination), but angiosperms have targeted pollen movement
+        - pollination: pollen transfer from anther to compatible, receptive stigma
+            - out-cross pollination: pollen & stigma bred from different species
+        - diversity of floral structures are directly linked to pollination
+        - pollen that lands or wrong stigma (or anywhere else) is wasted: wind pollinated plants waste lots of resources on creating pollen that ends up wasted (reproductive dead end)
+        - adaptations that improve chances of pollen grain ending on right stigma -> inc. reproductive success
+        - ~80% of angiosperms use animal pollinators (diff angiosperms have evolved/specialized to target the right pollinators)
+    - adaptive significance of floral traits:
+        - floral traits can: attract good pollinators, deter non-pollinating visitors, manipulate visitor behaviour to maximize pollen transfer
+        - almost any floral trait can affect pollination (colour, scent, shape & size, markings (including uv-visible), position, pollinator rewards (nectars, oils, heat, etc), flowering time (day, night, season))
+        - theory of pollinator-mediated speciation (diff. groups favour diff. traits -> reproductive isolation -> speciation)
+            - pollinator shifts can be first step in reproductive isolation, simple changes in flowers can lead to pollinator shifts
+            - experimental crosses & genetic analyses show large changes in flower morphology possible with single mutations
+    - fruit: same tissue (ovarian tissue) has diversified into many forms & specific functions (like w/ the flower)
+        - ovaries usually ripens after fertilization -> develops into fruit (enormous diversity in fruiting process)
+        - general functions: protecting developing seed, seed dispersal (most seed dispersal structures develop from pericarp &/ ovary tissue)
+        - not all fruits are meant to be eaten: sheel of walnut, maple keys 
+            - 4 ways ovarian tissue can aid in dispersal: wind (dandelion seed), animal fur (burdock), explosion (ballistic seed), water (coconut)
+        - some fruits are meant to be eaten: seeds will likely end up where animal goes which will likely be a suitable env. (animal will likely stay in places w/ similar conditions)
+            - fruits get eaten (hopefully by intended disperser) -> flesh gets digested but seeds aren't -> seeds gets pooped out in new place (moist env. pre-provisioned w/ nutrients)
+            - fruits could be hidden & forgotten (squirrels w/ acorns)
+            - takes more nrg to make fruit than wind-dispersed seed but it's a beneficial ecological strategy if inc. provisioning & complexity means inc. survival rate
+    - 2 angiosperm groups: 4 differences of monocots vs dicots
+        - species: all grasses incl. some flowers & trees | prettier species & bigger species
+        1. cotyledons: 1 | 2
+        2. vascular tissue: scattered through stem | circular arrangement
+        3. leaf veins: parallel | branching
+        4. phyly: monophyletic | paraphyletic (since little monocot branch evolved from dicots)
+        - examples: all grasses, corn, wheats, oats, rice, sugarcane, irises, orchids lillies palms | everything not monocot, bean & soy
+        - monocots have lost woodiness
+    - incredible modularity of plants: especially notable in angiosperms
+        - plants produce multiples of most morphological structures, that can take each other's place (cut off top branches, side branch will replace it)
+        - can create vastly different structures with the same tissue or analogous structures via diff pathways/tissues
+        - allows huge flexibility for individuals & evolutionary lineages
+    - angiosperms & humans: almost all plants we eat are angiosperms (except pine nuts, algae, fiddlehead ferns)
+        - angiosperms need to synthesize new chemicals to create new pigments & scenets to attract specific pollinators
+            - compounds uses: poison (cyanide), perfumes (flowers), insecticide (permethrin from chrysanthemum flowers), coffee (seeds), drugs (heroin & opiates), spices, pigments

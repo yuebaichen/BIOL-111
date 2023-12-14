@@ -43,7 +43,7 @@ mid silurian landscape: BRANCHES
         - taller: vascular tissue
             - vascular tissue: specialized reinforced conductive tissue
             - 2 functions: transport (water, sugars, nutrients) & support
-            - extant non-vasular plants have conducting cells have no secondary thickening: some conductance but no support (sponges)
+            - extant non-vasular plants have conducting cells but no secondary thickening: some conductance but no support (sponges)
             - earliest vascular plants:
                 - thickened conducting cells
                 - some branches but no leaves or roots (used photosynthetic stems)
@@ -139,7 +139,7 @@ fern evolution
         - hybridization thought to have played major role in fern evolution (often between very disparate parents, e.g. 60 million years apart)
 
 ferns today
-    - roots very similar to leaves
+    - roots very similar to roots of seed plants
     - leaves produce spores -> sporophyte
     - widespread & still dominant in some ecosystems (e.g. New Zealand, ferns trees 20m)
     - make up a lot of diversity in tropical forest canopy
@@ -155,7 +155,7 @@ ferns today
             - proteins that help bind it, move it, & induce stress responses
             - stored in vacuole in less toxic form
 
-environmental varitation that plants face
+environmental variation that plants face
     - environment:
         - light & uv
         - water (drought, flood)
@@ -168,3 +168,64 @@ environmental varitation that plants face
     - predation:
         - herbivores
         - pathogens
+
+
+
+EXAM:
+    - early silurian: small bryophyte-like things & GIANT FUNGI!!
+        - 4 new challenges for tracheophytes: competition (for space, light, water, nutrients), colonize drier env., grow taller & deeper
+    - mid silurian: BRANCHES!!
+        - 4 key innovations:
+            1. complexity/competition: branching
+                - branching enabled diff. stems to specialize: earliest plants could not grow very tall & were just green stems with no leaves
+                    - roots: grow along ground to acquire nutrients 
+                    - stems: grow up to outcompete neighbours for light (shade out competitors)
+            2. drier env.: stomata (allow gas exhange when open & prevents water loss when closed)
+                - cuticle & stomata evolved tgt, stomata enabled evolution of full cuticle
+                - stoma: opening/pore surrounded by specialized guard cells (on bottom of leaf since less evaporation) (guard cells let plant control stomata opening)
+            3. taller: vascular tissue (specialized reinforced conductive tissue)
+                - 2 function: transport (water, sugars, nutrients), support
+                - extant non-vascular plants have conducting cells but no secondary thickening
+                - earliest vascular plants: thickened conducting cells, had some branches but no leaves, increasinly effective vascular tissue (from cork-like spongy tissue to hollow lignified tubes)
+                - 4 stages of increasing differentiation/specialization -> more support:
+                    1. bryophytes: primary cellulose wall
+                    2. first vascular tissue: primary wall + lignin ring
+                    3. ferns & most gymnosperms: primary cellulose wall + secondary lignin wall (ends & sides have pits w/ no secondary wall)
+                    4. angiosperms: ends have perforations w/ no primary & secondary wall
+            4. deeper: roots (allowed expansion into drier env. by going deeper to where water is instead of relying on osmosis/diffusion)
+                - 2 main functions: nutrient/water acquisition, physical support
+                - 3rd function: interface w/ symbionts (mycorrhizae)
+                - responsible for creation of soil: breakdown of aggregates/minerals, release acids, put organic matter in soil
+    - devonian: age of forests (20 m)
+        - early Devonian: tallest plants ~1m (dwarfed by fungi!)
+        - mid Devonian: shurblike forests of ferns & horsetails
+            - competition for water/nutrients & need for support -> roots
+            - competition for light -> flattened stems -> leaves
+        - late Devonian: world's first forests, first tree-like plants
+            - gilboa trees: look like modern fern trees (from ancient & weird fern-like family)
+                - 8m tall (like modern palm tree) while rest of vegetation was only 2m
+                - no leaves present: increasingly fine branches
+                - vascular tissue allowed for taller growth but no true wood (like modern ferns)
+    - reduction of gametophyte: one of strongest trends in land plant evolution
+        - bryophytes: small & short-lived sporophyte, depends on gametophyte for nutrition, gametophyte-dominant life cycle, most in haploid form
+        - vascular seedless plants: sporophyte much larger & longer-lived than gametophyte, sporophyte-dominant life cycle
+        - seed plants: gametophytes are microscopic
+        - 3 advantages of being sporophyte/diploid dominant:
+            1. twice as much DNA: inc. potential expression of traits
+            2. diploid cells can respond to varying environmental conditions more efficiently
+            3. can mask deleterious mutations if individual is heterozygous (two different alleles) at many genes
+    - tracheophytes: extant vascular seedless plants
+        - ferns & fern allies (horsetails, clubmosses)
+        - have complex leaves & roots, has vascular tissue but no true wood
+        - sporophyte-dominant life cycle but still disperses using spores
+        - life cycle much like bryophyte except gametophyte is smaller & shorter-lived
+        - ferns: once dominant but taken over by seed plants, 11k species mostly found in tropics
+            - lot of species remain very similar to when they first evolved (evolutionary stasis)
+            - hybridization thought to have played major roles in fern evolution (breeding btwn. close relatives, many fern species hybridize in nature)
+            - ~30% of modern ferns are epiphytes (live on other plants) & host huge diversity of inverts
+            - ex. application: bioremediation of heavy metals (ferns rly good at absorbing heavy metals in soil, harvest then extract heavy metals, slow but cheap)
+                - ferns can tolerate lethal levels of heavy metals (proteins help bind it & move it & induce stress response, stored in vacuole in less toxic form)
+    - 3 types of env. variation that plants face:
+        - env: light & uv, water (drough, flood), temp (varying), ice/fire/wind/acidity
+        - materials: nutrient availability, salt, metals
+        - predation: herbivores, pathogens

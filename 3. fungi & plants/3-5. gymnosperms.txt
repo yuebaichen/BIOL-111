@@ -65,10 +65,9 @@ from ancient (fern-like) trees to gymnosperms:
         - heterospory: spores are of two sizes (seed plants)
             - small ones (microspores) form pollen grain (male)
             - big ones (megaspores) form ovule with egg, housed in cones in case of conifers (female)
-        - advantages of heterospory:
-            - not exposed to air
-            - dessication resistant
-            - male gametophyte has to "burrow" to access female gametophyte 
+                - not exposed to air
+                - dessication resistant
+                - male gametophyte has to "burrow" to access female gametophyte 
 
 spores vs seeds:
     - spores:
@@ -129,7 +128,7 @@ gymnosperms today:
         - not palms!: more closely related to pine trees
         - ~100 extant species left of once large tropical group
         - slow growing & long lived (up to 1k year old)
-        - ex of evolutionary stasis: cycads were once large part of diet of some herbivorous dinosaurs
+        - ex. of evolutionary stasis: cycads were once large part of diet of some herbivorous dinosaurs
         - separate male & female plants: cones either produce pollen (males) or ovules (females)
         - descended from one of first groups that branched off from ferns and still have motile sperm (like non-vascular plants)
     - ginkgo biloba:
@@ -181,3 +180,104 @@ trees today: trees & humans (all trees as a growth form)
         - total cooling effect of 3-9 deg C
         - non linear relationship of more trees -> cooler surface temp in urban environments 
             - has to pass certain threshold where trees start to have progressively strong effect on local temp (~40% tree cover)
+
+
+
+EXAM:
+    - carboniferous: fern trees (30-50m)
+    - cretaceous: conifer trees
+    - today: conifer trees (100+ m, 650 tons, some of the biggest plants to ever exist)
+    - what is a tree?: not a taxonomic group!! (not all seed plants are trees but all trees are seed plants)
+        - simple definition: a growth form where a plant with single stem & branching canopy can reach large heights thanks to specialized cells
+        - stricter definition: has wood & increases in girth
+            - excludes early tree-like plants (Gilboa trees)
+            - excludes modern "trees" (palms, banana trees, fern trees)
+    - first "true tree": archaeopteris (extinct genus of fern-like trees)
+        - wood similar to modern gymnosperm wood, trunks (30 m) with reinforced branch joints, fern-like leaves
+        - still reproduced via spores, but had 2 types of spores (heterospory)
+    - xylem vs phloem: water & dissolved minerals up from roots to leaves vs food down from leaves to roots
+    - 3 key innovations of gymnosperms:
+        1. wood: composite of cellulose fibres in lignin matrix formed by accumulation of live & dead xylem
+            - modern trees have vascular cambrium (ring layer of living dividing cells beneath bark)
+            - allows trees to build support via girth as they build height
+            - ecology: emerald ash borer larvae eat phloem & young xylem of ash trees -> kills ash trees since roots require food from leaves & leaves require nutrients from roots
+        2. reproduction: 2 further innovation from ferns
+            1. pollen: no more spores (encased gametes to replace motile sperm)
+                - spores evolved into pollen grains:
+                    - 2-3 tiny male gametophytes encased in tough coat (one of most recalcitrant compounds known to man, can be preserved for hundreds of thousands of years)
+                    - pollen grains germinate to form pollen tube, sperm swims down pollen tube to ovule
+                    - allow efficient reproduction in dry habitats: can be exposed to air for long periods w/o drying out, carried to female gametophyte by wind/animals
+            2. seeds no more 2nd free-living generation (fertilized embryo protected in seed)
+                - ferlized ovule forms seeds, embryo contained within seed, outer tissue becomes protective coat, seed growth provisioned by mother plant (but no fruits!!)
+                - dispersal (conifer example): cones open when seeds are mature to release for dispersal
+        3. heterospory: spores are of 2 sizes
+            - small ones (microspores) -> pollen grain (male)
+            - big ones (megaspores) -> ovule w/ egg (female) (housed in cones in conifers):
+                - not exposed to air, dessication resistant
+                - male gametophyte has to "burrow" to access female gametophyte
+    - spores vs seeds: ___ | ___
+        - definition: reproductive structure that can develop into a new individual | fertilized ovule of seed plants
+        - occurence: non-seeded plants & fungi | gymnosperms & angiosperms
+        - size: microscopic | macroscopic
+        - cellularity: uni | multi
+        - production: large #s | small #s
+        - ploidy: haploid | diploid
+        - food storage: none | stores food
+        - survival: susceptible to harsh env. | can tolerate harsh env.
+    - gymnosperm life cycle (conifer):
+        - mature sporophyte:
+            - cones with sporangia:
+                - meiosis -> haploid microspore forms pollen grain
+                - mitosis -> multicellular pollen grain
+                - pollination -> disperal by wind
+            - ovulate cone:
+                - contain ovules
+                - ovules contain megasporangia
+                - megasporangium contains diploid mother cell
+                - meiosis -> 4 products, one is large & forms the megaspore, the rest die
+        - pollen grain burrows to ovule:
+            - megaspore divides to form female gametophyte
+            - mitosis -> female gametophyte forms eggs
+            - pollen tube delivers sperm to egg
+            - only one egg is fertilized
+            - fertilization mitosis: forms diploid embryo within seeds
+            - seeds dispersed by wind/animals
+            - germination: developing sporophyte
+    - gymnosperms today: 3 examples
+        1. cycad: not palms! (more closely related to pine trees), ~100 extant species left of once large tropical group
+            - slow growing & long lived (up to 1k year old)
+            - ex. of evolutionary stasis: cycads were once large part of diet of some herbivorous dinosaurs
+            - separate male & female plants: cones either produce pollen (males) or ovules (females)
+            - descended from one of first groups that branched off from ferns (still have motile sperm like non-vascular plants)
+        2. ginkgo biloba: closest living relatives to cycads! (equiv. to humans & snakes)
+            - share ancient features w/ cycads: motile sperm, separate male & female plants
+            - "living fossil" - visibly related to prehistoric fossils
+            - only 1 extant species (endangered in china but grown globally): all relatives from same order are extinct!! (alone for over 3 million years)
+            - have big weird-looking seeds, have weird fan-like leaves w/ parallel veins, can live for at least 1400 years
+        3. conifer: most abundant/dominant/diverse gymnosperms on earth tdy (~630 species), dominates worlds largest forest biome (taiga/boreal-forest, characterized by coniferous forests)
+            - all are woody & cone-bearing, most are trees
+            - includes pines, cypres, yews, larches
+            - pines: specialize in dry env. (both hot & cold)
+                - 3 types of innovations to overcome challenges of winter:
+                    1. resistance to cold: thick bark, pine cones sheltering seeds
+                    2. ability to shed snow: cone shaped tree, down-facing flexible branches
+                    3. wind resistance: dense wood & waxy needles
+                - pines in warm climates: thin needles to aid thermoregulation (resistant to dessication)
+    - impact of climate change on range & other things:
+        - vegetation greeness change over last 20 years:
+            - inc heat & drought stress -> death along southern margin of taiga -> browning of southern taiga
+            - trees & shurbs expand north into tundra as climate warms -> greening of northern taiga
+        - albedo change in tundra over last 20 years (light reflectivity)
+            - lower albedo in the north due to inc vegetation coverage -> more warming
+            - albedo is a factor that controls earth temp: light not reflected warms the surface!
+            - forest covered tundra accelerates arctic warming (conifers shed snow!!!)
+            - positive reinforcement cycle: more greening of tundra -> more warming -> more greening of tundra
+        - urban island effect: will inc. extreme heat in cities
+            - dark materials absorb more heat (concrete, asphalt)
+            - "canyons" created by tall buildings along roads trap heat
+            - lack of plant cover (esp trees) lead to lower albedo
+            - solution: more trees/greenspace -> cooler surface temp
+                - trees provide shade (higher albedo than concrete/asphalt)
+                - plants shed heat via evaporative cooling: trees are constantly losing water from their stomata
+                - temp diff under canopy can create breeze, total cooling effect of 3-9 deg C
+                - non-lin rel. of more trees & cooler suface temp in urban env.: has to pass certain threshold (~40%) where trees start to have progressively stronger cooling effect

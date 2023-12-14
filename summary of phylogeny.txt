@@ -18,19 +18,14 @@ LUCA:
                     2. animalia: ...
             2. plantae: ...
 
-plantae:
-    - green algae (chloroplasts containing chlorophyll a+b & B-carotene, green plants)
-        - bryophytes (terrestrial, non-vascular)
-            - tracheophytes (vascular tissue, seedless)
-                - gymnosperms (naked seeds)
-                    - angiosperms (flowering)
+plantae (archaeplastids):
+    - viridiplantae (green plants): not all green
+        - green algae (chloroplasts containing chlorophyll a+b & B-carotene, green plants)
+            - bryophytes (terrestrial, non-vascular)
+                - tracheophytes (vascular tissue, seedless)
+                    - gymnosperms (naked seeds)
+                        - angiosperms (flowering)
     
-algae examples: mostly aquatic, photosynthetic, lack true roots/stems/leaves & specialized reproductive structures
-        - used as food, food thickener, agar, gelatin substitute, bioplastics, potential fertilizer, potential biofuel
-    1. phytoplankton: single-celled, free-living organisms, responsible for ~50% of global photosynthesis (PLANTS!!!)
-    2. brown algae: kelps, ~2k species, brown from carotenoid pigment, multicellular, fast growing, crucial to ecosystems, sex/asex (NOT PLANTS!!!)
-    3. red algae: uni/multi-cellular, sex/asex, 7k+ species, can live at great depths (red carotenoid pigment absorbs blue light) (PLANTS!!! but not green)
-
 animalia: eukaryotic, heterotrophic, multicellular, no cell wall, motile at some life stage, diploid somatic cells, diplontic
     - multicellularity:
         - porifera (sponges)

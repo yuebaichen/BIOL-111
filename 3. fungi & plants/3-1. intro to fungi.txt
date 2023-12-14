@@ -81,7 +81,7 @@ L7 - 3.1: intro to fungi
                 -6) ~120 frog species today have gone extinct or near extinction due to chytrid fungus
                 -7) persists as spores in the environment; almost impossible to wipe out
                 -8) one of most devastating wildlife diseases of the last 50 years (no possibility for intervention)
-    (3-> reproduction {}: sexual, asexual (very diverse)
+    (3-> reproduction {5}: sexual, asexual (very diverse)
         ((1-> reproduction is an important characteristic distinguishes different groups of organisms; shapes evolution very strongly
         ((2-> fungi have evolved very diverse/complicated reproduction system
         ((3-> different to other organisms in that some fungi have haploid&diploid phases
@@ -143,3 +143,33 @@ L7 - 3.1: intro to fungi
         --2) zygote: cell formed by karyogamy
     -15) polytomy: node on phylogeny where more than two lineages descend from a single ancestral lineage (indicates uncertainty in descendent lineages or possibility of simultaneous speciation)
     -16) dikaryotic: organism that contains two genetically distinct nuclei in the same cell
+
+
+
+EXAM:
+    - fungi: eukaryotic, heterotrophic, uni/multicellular, highly ubiquitous
+        - evolved in ocean ~1 Bya, colonized land 500 Mya (before plants)
+        - innovated nutrient extraction in terrestrial env.
+        - evolutionary history hard to study due to few fossils (phylogeny poorly sorted, mostly based on reproductive structures & DNA -> big groups/clusters)
+        - fill many niches (free-living/symbiotic, mutualistic/pathogenic) , critical to ecosystem function across all ecosystems (as plant symbionts & decomposers)
+        - 4 main features of fungi:
+            1. structure: cell walls like plants but contain chitin like animals
+                1. single-celled: yeasts, chitrid fungi, 
+                2. mycelia: hyphae can be bundled into mycelium (can grow through things) or fruiting bodies (mushrooms)
+                    - long thin structure massively increases SA:vol -> master absorbers
+                    - cell is a loose term for fungi: hyphae cells separated by septa w/ large pores alowing for rapid transport of nutrients (and even nuclei)
+                - fungi are mostly water (require moist habitat): fungi spores & small fungi can survive harsher conditions
+            2. nutrition: fungi nutrition hugely impacts ecosystems
+                - lignin: fungi were first efficient decomposers of lignin (could break up ligninocellulose), recycles nrg in dead matter
+                - lichen: fungal symbiosis w/ algae/cyanobacteria, very abundant (cover 6% of eart's surface), important in succession (secretes acids -> break down rock -> kickstarts soil formation)
+                - mycorrhizae: plants provide fungus w/ sugar & carbon, fungus provides nutrients from soil, 80% of vascular plants have mycorrhizae symbiont (very important for plant health)
+                - chytrid fungi: grows on skin of amphibians, arose in Korea in 1960s & spread rapidly worldwide (60 species extinct at time of identification in 1990s, ~120 species extinct today), persists as spores in env.
+            3. reproduction: very diverse, some have haploid & diploid phases 
+                1. asexual: fragmentation (simple) or production of haploid vegetative spores during haploid phase (slightly more complex)
+                2. sexual: can only see reproductive structures (muschrooms, fruting bodies)
+                    - have dikaryotic phase where cells fuse without nucleus fusion
+                    - plasmogamy initiates sexual cycle to produce dikaryotic mycelium which can last for decades 
+                    - eventually produces mushrooms -> karyogamy -> recombination -> meiosis -> spores
+            4. dispersal: spores (can persist in dry & unfavourable conditions for very long time, small size facilitates airborne dispersal)
+                - 3 interesting mechanisms: ejection (puffball), animal dispersers (stinkhorns producing scent of rotting meat & stinky stuff), infect/possess animals ("zombie fungus"/ophiocordiceps, symbiont -> saprophyte)
+        - humans & fungi: edible fungi, yeasts (to make alcohol, bread, soy sause, cheese), mycotoxins (penicillin, cyclosporine, ergot alkaloids), bioremediation, bio control

@@ -14,16 +14,9 @@ L10 - 3.3: plants 2 - non-vascular plants & transition to land: bryophytes
             1. bryophytes: non-vascular plants
             2. tracheophytes: vascular plants
 
-- key evolutionary innovations in plants:
+- 2 major impacts of the key evolutionary innovations in plants:
     1. enabled proliferation of new lineages
     2. facilitated access to new habitats & ecological niches
-
-- plantae:
-    - chloroplasts containing chlorophyll a+b & B-carotene -> green algae: green plants
-        - ability to live on land -> non-vascular plants: land plants (bryophytes)
-            - vascular tissue -> seedless plants: vascular plants (tracheophytes)
-                - seeds (vs spores) -> gymnosperms: seed plants
-                    - flowers -> angiosperms: flowering plants
 
 - green algae:
     - facts:
@@ -148,3 +141,42 @@ L10 - 3.3: plants 2 - non-vascular plants & transition to land: bryophytes
             - spores undergo mitosis to become gametophyte consisting of gametes
             - gametes undergo fusion to become zygotes
     - all plants go through alternation of generations but it is only visibly apparent in bryophtes; sporophyte became dominant as plants became more complex
+
+
+
+EXAM:
+    - 2 impacts of the key evolutionary innovations in plants:
+        1. proliferation of new lineages
+        2. facilitated acces to new habitats & ecological niches
+    - green algae: uni/multicellular, sex/asex, main primary producers in freshwater, some have flagella & can swim
+        - 90% live in freshwater, mostly aquatic (except for some lichens, watermelon snow, pathogenic green algae)
+    - land plants: fairly recent (~475 Mya, ~1 Bya after first photosynthetic euk.)
+        - 4 reasons to move onto land: huge uncolonized area, abundant light, readily available CO2, less herbivory (at the time)
+        - 5 challenges of moving onto land: UV radiation, dehydration, dispersal, gravity, nutrients
+    - bryophytes: mosses, liverworts, hogworts
+        - 6 characteristics: 
+            1-2. no vascular tissue, no roots,
+            3-4. absorb water & nutrients from primitive "leaves", thin leaves w/ primitive cuticle & few/no stomata
+            5-6. small & short & slow-growing (limited by diffusion), generally grow in damp/moist habitats
+        - fragile but also tough: very ecologically important, found on all 7 continents (only plants to grow on antarctica)
+        - 3 effects of warming on moss growth: dehydration from evaporation, greater rate of respiration (but rate of photosynthesis doesn't change), less snow cover
+        - examples of moss innovation: ability to tolerate dessication then rapidly rehydrate when water is available, desert mosses grow long filamentous structures to harvest moisture in air
+        - 3 key innovations:
+            1. protection from UV: production of UV absorbing compounds (flavonoids, anthocyanins, carotenoids)
+            2. cuticle: watertight sealant covering above-ground plant parts produced by epidermal cells, prevents gas loss but also inhibits gas exchange, primitive cuticles have no stomata
+            3. reproduction: 3 mechanisms 
+                1. spores: encased in tough coat which can resist drying, survive/remain dormant for fairly long periods of time, be dispersed by wind (resistant but lightweight, one of strongest compounds known to man)
+                2. gametes: distinct male & female gametes produced in protective, complex, multicellular structure to prevent from drying & physical damage (herbivory)
+                3. embryos: multicellular embryo retained on & nourished by parent plant instead of shedding them into water
+                - can be uni/bisexual: gametophyte produces male or female, or produces both male & female
+                - life cycle: sporophyte -(meiosis)-> spores -(wind dispersal, mitosis)-> gametophytes -> sperm swims from antheridia to archegonia -(fertilization)-> zygote -(mitosis)-> sporophyte
+        - ex. sphagnum moss: massive carbon sink, non-renewable resource crucial to peatland ecosystems harvested for garden compost & fuel
+    - life cycle of plants: all plants go through alternation of generations but it is only visibly apparent in bryophtes; sporophyte became dominant as plants became more complex
+        - diploid sporophyte phase:
+            - zygote undergoes mitosis (cell division to create 2 identical daughter cells) to replicate & form sporophyte
+            - sporophyte produces spores through meiosis (2-step division process to create 4 cells with half the genetic information)
+        - haploid gametophyte phase:
+            - spores undergo mitosis to become gametophyte consisting of gametes
+            - gametes undergo fusion to become zygotes
+
+
