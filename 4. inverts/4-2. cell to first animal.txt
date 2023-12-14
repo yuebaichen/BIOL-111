@@ -117,7 +117,11 @@ sponges: most primitive animal group (phylumm porifera)
 
 
 
-EXAM:
+
+
+
+<><>
+EXAM: just use this
     - embryonic development: from 1 cell (zygote) to trillions of specialized cells (multicellular organism)
         - 3 main milestones of embryonic development:
             1. fertilization: process of combining a single sperm cell with a single egg cell

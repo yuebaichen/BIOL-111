@@ -227,7 +227,11 @@ platyhelminthes (flatworms): triploblastic, bilaterally symmetrical, acoelomates
 
 
 
-EXAM:
+
+
+
+<><>
+EXAM: just use this
     - cnidarians: diploblastic, radially symmetrical, blind gut
         - most marine with few freshwater relatives: habitat ranges from surface to benthic (seabed substrates) habitats
         - vary greatly in size: microscopic to may meters long

@@ -221,7 +221,7 @@ mollusks:
 
 
 
-EXAM:
+EXAM: SUPPLEMENT ONLY
     - 4 advantages of segmentation:
         1. multiple copies of organs, structures (ex. nephridia, parapodia)
         2. efficient nervous control

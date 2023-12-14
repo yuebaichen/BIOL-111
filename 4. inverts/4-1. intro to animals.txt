@@ -29,11 +29,11 @@ L14 - 4.1: inverts 1 - intro to animals: what is an animal?
             - organisms can grow in size (can maintain high SA to volume ratio while still growing in size)
                 - SA to volume ratio decreases drastically as cell size increases
                 - imperative to keep cell size small for high exchange efficiency out of cell
-                - ratio determins nutrient intake & waste expulsion
+                - ratio determines nutrient intake & waste expulsion
         - most animals have tissues:
             - tissues: groups of similar cells organized into a functional unit
             - 4 types of animal tissues:
-                - muscle tissueL: active contractile tissue
+                - muscle tissue: active contractile tissue
                 - nervous tissue: comprises the nervous system
                 - connective tissue: non-living tissue forming extracellular matrix
                 - epithelial tissue: cells covering organ surfaces
@@ -130,7 +130,23 @@ evolution of animals:
 
 
 
-EXAM:
+
+
+
+<><>
+EXAM: just use this
+    - 3 implications of having multiple cells:
+        1. cells can become specialized to carry out specific functions
+        2. organisms can have longer lifespan
+        3. organisms can grow in size (can maintain high SA to volume ratio while still growing in size)
+            - SA to volume ratio decreases drastically as cell size increases
+            - imperative to keep cell size small for high exchange efficiency out of cell
+            - ratio determines nutrient intake & waste expulsion
+    - 4 types of animal tissues: group of similar cells organized into function unit
+        - muscle tissue: active contractile tissue
+        - nervous tissue: comprises the nervous system
+        - connective tissue: non-living tissue forming extracellular matrix
+        - epithelial tissue: cells covering organ surfaces
     - 3 pieces of evidence suggesting animals are monophyletic:
         1. similar genes & genomic architecture: presence of hox genes in animals (spacial collinearity btwn hox genes & development)
         - similar ways to form well integrated tissues

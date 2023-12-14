@@ -1,0 +1,104 @@
+
+4 vertebrates characteristics:
+    1. axial skeleton: cranium (skull), vertebral column (spine), ribs
+    2. appendicular skeleton: pectoral girdle, pelvic girdle (bony structure to which limbs of verts are attached)
+    3. closed circ sys: ventral heart
+    4. organs suspended in coelom
+
+fish circ. sys: 2 heart chambers
+    - strong muscular pump that maintains blood flow (located ventrally)
+    - SV (sinus venosus) -> atrium (dorsal) -> ventricle (ventral) -> BA (bulbous arteriosus)
+    - one-way valves inside heart: prevents back-flow
+
+fish vs amphibian circ:
+    - fish: 2-chambered heart
+        - blood oxygenated in gills
+        - single circuit circulation (reduced pressure)
+        - flaw: blood is not under pressure after exiting to the gills (gets through slowly based on muscle contractions & passive flow)
+    - amphibians: 3-chambered heart
+        - blood oxygenated in lungs & skin
+        - double circuit circulation: pulmonary (lung) & systemic (body)
+        - advantages: blood is now under higher pressure than fish (can repressurize blood after going through lungs)
+        - disadvantages blood is mixed (no septum to fully devide ventricle)
+
+4 possible reasons why we moved to land:
+    1. devonian droughts (~400 Mya): shallow inland seas/swamps/ponds, low dissolved O2 
+    2. inc competition in water: crowding in small pools
+    3. new food sources on land: arthropods, plants
+    4. no vert predators on land (compared to in water)
+
+5 difference between life on land vs water:
+    1. availability of water/moisture: a lot less moisture on land
+    2. density of medium: no medium to float in
+        - 2 tetrapod solutions:
+                1. better skeletal support: fight gravity (stronger limbs, vertebral column to hold up body, ribs to hold up body cavity)
+                2. more efficient circulatory system: 3+ chambered heart, double circuit of blood flow
+    3. amt of oxygen: easier to get oxygen
+    4. stability of temp: need to thermoregulate
+    5. amt of UV radiation: mechanisms to reduce DNA damage caused by UV
+
+2 advantages of terrestrial respiration:
+    1. air has higher concentration of oxygen than water
+    2. gases diffuse faster in air than water
+    - lung evolution: lobe-finned fishes
+        - 2 ventral pockets formed off of the esophagus: swim bladder evolved as connection from gut -> formed into lungs
+        - intially used as a supplemental resp device
+        - why we choke: our lungs evolved as projection off of our gut, pathway for food and air is shared at parts
+
+3 innovations of reptiles:
+    1. more efficient heart: partial septum, 2 aorta
+    2. special nitrogenous waste: uric acid
+    3. aminotic egg: embryo surrounded by extra embryonic layers
+
+4 main ways of heat loss/gain:
+    1. conduction: from surface you're sitting on
+    2. radiation: heat from sun radiation
+    3. evaporation: evaporative cooling off body
+    4. convection: wind blowing & removing heat via convection
+
+2 sources of body heat:
+    1. ectotherms: absorb EXTERNAL heat & ridding it to the env passively
+    2. endotherms: generate their own INTERNAL heat via METABOLIC processes
+
+3 ways of thermoregulation:
+    1. behavioural: moving
+    2. physiological: sweating, panting, shivering
+    3. physical: insulation, colour, SA:vol (allen's rule)
+
+4 independent evolution of flight:
+    1. insects
+    2. pterosaurs
+    3. birds
+    4. bats
+
+3 innovations to fly:
+    1. hollow bones
+    2. sternum/breastbone enlarged & keeled (projection to allow for bigger muscle attachment)
+    3. feathers
+
+3 unique features specific to mammals:
+    1. hair: insulation, camouflage, sensory & defence, display (hair & feathers evolved independently: completely separate evolutionary solutions to insulation)
+    2. sweat glands
+    3. mammary glands: milk production (hence the name mammals)
+
+4 other features of mammals:
+    1. endothermic, 4-chambered heart (not completely homeothermic, body temp drops during hibernation)
+    2. "advanced" nervous system
+    3. internal fertilization
+    4. unlike fish & reptiles, mammals show heterodonty (massive variation in teeth specialized for diff tasks)
+        - specialized teeth among species reflects varied diets
+
+2 possible reasons why the pleistocene mammals/megafauna (megatherium, smilodon, etc) went extinct:
+    1. hunting by humans (or climate + human-caused fires)
+        - fossils of mammoths & stuff stabbed w/ big spear points
+        - evidence shows locations of fires correlated with location of extinctios
+            - climate dried env + human setting fires -> extinction (disappearance of megafauna (large/giant animals) coincided with major fire episodes)
+            - fires have massive effects on shaping terrestrial ecosystems & humans historically have hugely modified env in NA by burning
+            - however fires weren't everywhere so it can't be the sole explanation (however, it matches to the events in LA)
+    2. climate change (end of ice age)
+
+4 types of excretory products:
+    1. salt, ions
+    2. water
+    3. fecal mater
+    4. nitrogenous wastes

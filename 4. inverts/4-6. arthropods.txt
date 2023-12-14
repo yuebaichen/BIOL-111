@@ -183,5 +183,27 @@ deuterostomes: focus on echinodermata
 
 
 
-EXAM:
-    - n/a
+EXAM: SUPPLEMENT ONLY
+    - 4 characteristic features of arthropods:
+        1. segmented body plan:
+            - body segments
+            - segments are specialized & fused to form tagma/tagmata
+                - tagma: specialized grouping of multiple segments to form coherently functional morphological group
+                - created through tagmosis: evolutionary process that creates tagma by modifying & fusing segments
+            - diversification based on number & function of segments
+            - number of segments varies from <20 (insects & crustacenas) to >100 (centipedes & millipedes)
+        2. jointed appendages:
+            - biramous (branched) or uniramous (unbranched)
+                - ancient arthropods have each body segment associated with single pair of appendages
+            - specialized functions: most species have modified some appendages to form other structures (mouth structures, antennae, reproductive structures)
+        3. higly developed sense organs:
+            - high cephalized
+            - elaborate sensory organs including: statocysts, antennae, simple/compound eyes, sensitive hairs, & more
+                - compound eyes very good at detecting light & motion but poor at detecting shapes: consists of hundreds of ommatidium
+        4. rigid exoskeleton (characteristic of ecdysozoans):
+            - non-living exoskeleton secreted by epidermis
+            - covers all external surfaces, disgestive tract, & tracheae
+            - composed of layers (multi-layered)
+            - composition varies from group to group:
+                - insects: cuticule of chitin & protein
+                - crustaceans: cuticle mineralized with calcium carbonate (not huge impediment since crustaceans are aquatic & water bouyancy supports their weight)

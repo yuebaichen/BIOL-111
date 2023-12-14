@@ -45,17 +45,17 @@ animalia: eukaryotic, heterotrophic, multicellular, no cell wall, motile at some
                                 - free-living:
                                     1. turbellaria: planarians (spanish dancer)
                                 - parasitic:
-                                    2. monogea (mostly ectoparasitic flukes)
+                                    2. monogenea (mostly ectoparasitic flukes)
                                     3. trematoda (mostly endoparasitic flukes)
-                                    4. cestoda (endoparasitic flukes)
+                                    4. cestoda (endoparasitic flukes, tapeworms)
                             *3. annelids:
                                 1. polychaeta ("many hairs") (bristle worms, marine worms)
-                                2. clitellata:
+                                2. clitellata: hermaphroditic w/ clitellum that secretes cocoon for embryo development
                                     1. oligochaeta ("few hairs") (earthworms)
                                     2. hirudinea (leeches)
                                 3. echiura & sipuncula (unsegmented worms) (NOT COVERED)
                             *4. mollusks:
-                                1. polyplacophora ("bearer of many plates") (chiton; looks like isopod but lacks advanced locking mechanism & exoskeleton)
+                                1. polyplacophora ("bearer of many plates", 8 plates) (chiton; looks like isopod but lacks advanced locking mechanism & exoskeleton)
                                 2. bivalvia ("two valves") (clams, mussels, oysters, scallops)
                                 3. gastropda ("belly feet") (land snails, nudibranch)
                                 4. cephalopoda ("head foot") (squid, cuttlefish, octopus, nautilus)
@@ -84,9 +84,9 @@ animalia: eukaryotic, heterotrophic, multicellular, no cell wall, motile at some
 vertebrata: vertebrae, cranium
     *1. myxinoidea (hagfish)
     *2. petromyzontoidea (lamprey)
-    - gnathostomata: jaws
+    - gnathostomata: jaws & paired fins
         - chondrichthyes (cartilaginous fishes) (sharks, rays, skates)
-        - osteichthyes (bony fishes): lungs, endoskeleton
+        - osteichthyes (bony fishes): lungs, endoskeleton, SWIM BLADDER!!
             - actinopterygii (ray-finned fishes)
             - sarcopterygii: lobed fins
                 - actinistia (coelocanths)

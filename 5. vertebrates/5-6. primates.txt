@@ -91,7 +91,7 @@ mammalian nervous system:
         - conscious (sensory info, neural afferents, info to CNS) -> CNS -> voluntary (commands to muscles, neural efferents, info out of CNS)
         - unconscious (physiological info: blood pressure, deep body temp) -> CNS -> autonomis (autonomic commands: HR, sweating, saliva)
         - hormones -> CNS -> neurohormones
-    - parts of brain: diencephalon (info relay, homeostasis), brain stem (info relay, autonomic), cerebellum (coordination), cerebrum (conscious thought & memory) 
+    - 4 parts of brain: diencephalon (info relay, homeostasis), brain stem (info relay, autonomic), cerebellum (coordination), cerebrum (conscious thought & memory) 
     - cerebrum: 
         - enlarged in primates: intellect, learning, memory, language, conciousness
         - divided into 2 hemispheres
