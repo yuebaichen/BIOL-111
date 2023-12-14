@@ -154,3 +154,66 @@ what controls moulting:
             - secreted in corpus allatum
             - controls metamorphosis
             - declining release influences developmental stages 
+
+
+
+EXAM:
+    - 4 characteristic features of arthropods:
+        1. segmented body plan:
+            - body segments
+            - segments are specialized & fused to form tagma/tagmata
+                - tagma: specialized grouping of multiple segments to form coherently functional morphological group
+                - created through tagmosis: evolutionary process that creates tagma by modifying & fusing segments
+            - diversification based on number & function of segments
+            - number of segments varies from <20 (insects & crustacenas) to >100 (centipedes & millipedes)
+        2. jointed appendages:
+            - biramous (branched) or uniramous (unbranched)
+                - ancient arthropods have each body segment associated with single pair of appendages
+            - specialized functions: most species have modified some appendages to form other structures (mouth structures, antennae, reproductive structures)
+        3. higly developed sense organs:
+            - high cephalized
+            - elaborate sensory organs including: statocysts, antennae, simple/compound eyes, sensitive hairs, & more
+                - compound eyes very good at detecting light & motion but poor at detecting shapes: consists of hundreds of ommatidium
+        4. rigid exoskeleton (characteristic of ecdysozoans):
+            - non-living exoskeleton secreted by epidermis
+            - covers all external surfaces, disgestive tract, & tracheae
+            - composed of layers (multi-layered)
+            - composition varies from group to group:
+                - insects: cuticule of chitin & protein, 
+                - crustaceans: cuticle mineralized with calcium carbonate (not huge impediment since crustaceans are aquatic & water bouyancy supports their weight)
+    - 5 advantages of rigid exoskeleton:
+        1. physical support & protection (from abrasion, predation, parasite entry, desiccation)
+        2. provides place for muscle attachment
+        3. jointed appendages & exoskeleton allow faster locomotion
+        4. allows for possible metamorphosis: opportunity to change morphology between larval & adult stages
+        5. location for pigments (camouflage, warning colouration, mating signal)
+    - 5 disadvantages of rigid exoskeleton:
+        1. inflexible & heavy (if thick & protective)
+        2. continuous growth in size not possible: must periodically shed via moulting
+            - discontinuous growth in size: mass grows continuously but size changes in stepwize fashion
+                - undergo instars (period between moulting) where size stagnates
+                - size inc dramatically after moulting (ecdysis)
+        3. requires energy to form & shed (energy costly)
+        4. requires certain level of calcium in water to grow shell (hard water)
+        5. respiration through skin is not possible in most cases: need for spiracles (pores) & tracheae (tubes)
+    - external vs internal muskuloskeletal sys.: external skeleton has muscles attached on inside
+    - 2 types of metamorphosis to adult form: opportunity to change morphology & ecological role
+        1. complete:
+            - abrupt changes in form
+            - 4 stages: one of which is resting stage (pupa): eggs, larva, pupa, adult
+            - often major habitat changes
+            - examples: butterflies, moths, beetles, bees, ants, fleas, mosquitoes
+            - life cycle example: comet moth
+                - adult female lays eggs (120-170)
+                - larva caterpillars emerge out of eggs (after 2 weeks)
+                - caterpillars feed voraciously & molt: only stops eating when molting (2 months)
+                - time between molts are instars: number of instars depends on species (4 for comet moths)
+                - pupates: insect makes hard shell & will rest inside as pupa (6 months)
+                - adult leaves pupa, slowly stretches out in sun to dry & harden exoskeleton
+                - adult lives for short amount of time to reproduce (comet moth does not eat & only has a few days to reproduce)
+        2. incomplete:
+            - gradual changes in form
+            - 3 stages with no "resting" stage: eggs, nymph, adult
+            - often no habitat change
+            - examples: found in true bugs, grasshoppers, crickets, termites, mites
+  

@@ -95,7 +95,7 @@ evolution of animals:
         - earliest fossils precambrian were tiny micro-fossils of sponges & corals
         - fossils are infamously difficult to classify (palaeontologists looking at organisms upside down)
         - animals evolved in the ocean then several lineages independently colonize land
-    - animls are monophyletic: contains all descendents/lineages of common ancestor
+    - animals are monophyletic: contains all descendents/lineages of common ancestor
         - animals share many characteristics
         - although most of their characteristics are shared with some other groups, no other group shares all of them
 
@@ -127,3 +127,17 @@ evolution of animals:
                 - gap junction:
                     - act as channels between cells
                     - found in some muscle & nerve tissues where rapid communication between cells is important
+
+
+
+EXAM:
+    - 3 pieces of evidence suggesting animals are monophyletic:
+        1. similar genes & genomic architecture: presence of hox genes in animals (spacial collinearity btwn hox genes & development)
+        - similar ways to form well integrated tissues
+            2. similar extracellular matrix molecules: most animals secrete extracellular mtx for support & controls communication among cells
+                - similar to cell wall of plant cell but w/ more protein than carbs
+                - contains collagen fibres (most common protein, 30% of mammal proteins): proteoglycan complex surrounds collagen (heavily glycosated proteins)
+            3. shared unique types of junctions among cells: 3 junction types
+                1. tight junction: seals cells tgt, found in epithelial tissue lining stomach & intestine, involves specialized proteins in cell membrane, forms watertight seal
+                2. desmosome: connect cytoskeleton of cells, abundant in epithelial tissue, follows a continuous structure running btwn all cells in tissue
+                3. gap junction: act as channels btwn cells (found in some muscle & nerve tissues where rapid communication is important)

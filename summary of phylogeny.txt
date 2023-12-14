@@ -26,7 +26,7 @@ plantae (archaeplastids):
                     - gymnosperms (naked seeds)
                         - angiosperms (flowering)
     
-animalia: eukaryotic, heterotrophic, multicellular, no cell wall, motile at some life stage, diploid somatic cells, diplontic
+animalia: eukaryotic, heterotrophic, multicellular, no cell wall, motile at some life stage, diploid somatic cells, diplontic (MONOPHYLETIC)
     - multicellularity:
         - porifera (sponges)
         - 2 embryonic cell layers (diploblastic):
@@ -40,19 +40,25 @@ animalia: eukaryotic, heterotrophic, multicellular, no cell wall, motile at some
                 - coelom, CNS, cephalization:
                     - protostomes: spiral cleavage, coelom forms via splitting within mesoderm, blastopore develops into mouth
                         - lophotrochozoa: lophophore (often coiled ring of ciliated tentacles around mouth), trochophore larva (ciliated ring for mobility & to direct food to mouth)
-                            - rotifera (NOT COVERED)
-                                - platyhelminthes/flatworm
-                                    *1. annelids:
-                                        1. polychaeta ("many hairs") (bristle worms, marine worms)
-                                        2. clitellata:
-                                            1. oligochaeta ("few hairs") (earthworms)
-                                            2. hirudinea (leeches)
-                                        3. echiura & sipuncula (unsegmented worms) (NOT COVERED)
-                                    *2. mollusks:
-                                        1. polyplacophora ("bearer of many plates") (chiton; looks like isopod but lacks advanced locking mechanism & exoskeleton)
-                                        2. bivalvia ("two valves") (clams, mussels, oysters, scallops)
-                                        3. gastropda ("belly feet") (land snails, nudibranch)
-                                        4. cephalopoda ("head foot") (squid, cuttlefish, octopus, nautilus)
+                            1. rotifera (NOT COVERED)
+                            2. platyhelminthes/flatworm:
+                                - free-living:
+                                    1. turbellaria: planarians (spanish dancer)
+                                - parasitic:
+                                    2. monogea (mostly ectoparasitic flukes)
+                                    3. trematoda (mostly endoparasitic flukes)
+                                    4. cestoda (endoparasitic flukes)
+                            *3. annelids:
+                                1. polychaeta ("many hairs") (bristle worms, marine worms)
+                                2. clitellata:
+                                    1. oligochaeta ("few hairs") (earthworms)
+                                    2. hirudinea (leeches)
+                                3. echiura & sipuncula (unsegmented worms) (NOT COVERED)
+                            *4. mollusks:
+                                1. polyplacophora ("bearer of many plates") (chiton; looks like isopod but lacks advanced locking mechanism & exoskeleton)
+                                2. bivalvia ("two valves") (clams, mussels, oysters, scallops)
+                                3. gastropda ("belly feet") (land snails, nudibranch)
+                                4. cephalopoda ("head foot") (squid, cuttlefish, octopus, nautilus)
                         - ecdysozoa: exoskeleton, grow by ecdysis/molting
                             1. nematoda (round worms)
                             2. tardigrada (water bears or moss piglets)

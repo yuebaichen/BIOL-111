@@ -104,7 +104,7 @@ mollusks:
         - reduced (but true) coelom (mainly encloses heart & gonad), replaced by hemocoel (open circ)
         - have trochophore larvae
         - major groups are modifications on ancestral body plan
-    - mollusk anatomy:
+    - mollusk body plan:
         1. foot: used for movement & acts as hydrostatic skeleton
         2. mantle: outgrowth of body wall that covers visceral mass forming enclosure called mantle cavity 
             - mantle cavity contains gills (aquatic) & acts as lung (terrestrial)
@@ -112,7 +112,7 @@ mollusks:
         3. visceral mass: contains most main internal organs (heart, stomach, nephridia, gonads)
         - have specialized anatomical structure: radula - used to scrape food off hard surfaces, equipped w/ tiny teeth & is right next to mouth
         - have distinct heart, stomach & digestive gland
-        - modifications of ancestral molluskan anatomy/body-plan: allows diversification of mollusks to 4 major mollusk classes
+        - modifications of ancestral molluskan body-plan: allows diversification of mollusks to 4 major mollusk classes
     - 4 major mollusk classes:
         1. polyplacophora: "bearer of many plates"
             - segmented shell (8 overlapping plates): somewhat pliable/flexible
@@ -218,3 +218,29 @@ mollusks:
             - exotic invasions: invasive species such as zebra mussel
         - neurobiological research on squid neurons: (very giant neurons)
             - squid giant axon can be up to 1.5mm in diameter & up to 10m long 
+
+
+
+EXAM:
+    - 4 advantages of segmentation:
+        1. multiple copies of organs, structures (ex. nephridia, parapodia)
+        2. efficient nervous control
+            - ganglion in each segment
+            - faster responses
+            - efficient localized movement
+        3. inc body size by unit repetition
+        4. regeneration: ability to regenerate even the head region!! (more segments lost -> more difficult to regen head)
+    - 4 advantages of closed circ sys: blood contained within vessels at all times
+        1. improved exchange between deeper tissues & surface (O2, CO2)
+        2. faster transport of nutrients & gases
+        3. requires less energy for distribution
+        4. allows development of thicker body (free of diffusion limit from body wall)
+    - 3 parts of mollusk body plan:
+        1. foot: used for movement & acts as hydrostatic skeleton
+        2. mantle: outgrowth of body wall that covers visceral mass forming enclosure called mantle cavity 
+            - mantle cavity contains gills (aquatic) & acts as lung (terrestrial)
+            - mantle of many species secretes hard shell of calcium carbonate
+        3. visceral mass: contains most main internal organs (heart, stomach, nephridia, gonads)
+        - have specialized anatomical structure: radula - used to scrape food off hard surfaces, equipped w/ tiny teeth & is right next to mouth
+        - have distinct heart, stomach & digestive gland
+        - modifications of ancestral molluskan body-plan: allows diversification of mollusks to 4 major mollusk classes

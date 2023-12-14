@@ -106,11 +106,76 @@ sponges: most primitive animal group (phylumm porifera)
         - sexual reproduction:
             - most sponges are hemaphroditic (each individual can produce both sperm & egg)
                 - however an individual will only make one type of gamete at a given time (not able to self-fertilize)
-            - gametes produced in choanocytes or ameobocytes
+            - gametes produced in choanocytes or amoebocytes
             - sperm is concentrated inside "male" sponge & released at once: broadcast sperm (through osculum)
             - sperm is trapped by choanocytes of "female" sponge (same way food is trapped)
-                - sperm cells delivered to eggs by ameobocytes & stored in mesohyl where fertilization takes place to form zygote
+                - sperm cells delivered to eggs by amoebocytes & stored in mesohyl where fertilization takes place to form zygote
                 - fertilized eggs develop in extracellular matrix
                 - larvae released back into water (motile)
                 - larvae swim through water while developing
                 - larvae eventually settle to the substrate & become sessile 
+
+
+
+EXAM:
+    - embryonic development: from 1 cell (zygote) to trillions of specialized cells (multicellular organism)
+        - 3 main milestones of embryonic development:
+            1. fertilization: process of combining a single sperm cell with a single egg cell
+            2. zygote: diploid cell resulting from union of two haploid gametes (1st cell of next generation)
+            3. embryo: young animal still contained in protective structure (egg shell or uterus)
+        - 3 major processes during embryonic development: map of initial/embryonic development
+            1. cleavage: multiple rounds of rapid cell divisions (mitotic), forms many cells from one cell (morula, blastula) 
+            2. gastrulation: dramatic rearrangement & movement of cells -> in-folding/invagination -> forms embryonic tissue layers (2-3)
+                - very important at this stage to have well defined axis (hox genes)
+            3. cellular differentiation: process in which immature cells take on individual characteristics & reach their mature/specialized form/function
+        - map of initial development:
+            - cleavage:
+                - zygote -> 2-cell stage -> 8-cell stage (blastomere, bud parts) -> morula (solid ball) -> blastula (hollow ball, sponges stop here)
+            - gastrulation:
+                - blastula -> early gastrula -> late gastrula
+                    - anatomy of gastrula: diploblastic
+                        - blastocoel: fluid-filled cleavage cavity & is the basis of the future gut
+                        - archenteron: "old gut" digestive space (gut cavity)
+                        - blastopore: forms the mouth in protostomes, forms the anus in deuterostomes
+    - diploblastic: 2 germ (embryonic cell) layers ("with two buds")
+        - ectoderm: "outer skin" -> epidermis & nervous system
+        - endoderm: "inner skin" -> digestive & respiratory tracts
+    - triploblastic: 3rd germ layer ("with 3 buds") (triploblastic organisms also have bilateral symmetry unless lost)
+        - mesoderm "middle skin" -> most internal organs: muscles, skeletal system, part of gonads (accompanied w/ bilateral symmetry)
+    - 3 types of body symmetry: correspondence of size, shape, relative position of parts on opposite sides of a dividing line, median plane, about a center/axis
+        1. asymmetry: no axis divides body into equal halves (some sponges)
+        2. radial symmetry: any cut through centre divides the body into equal halves 
+        3. bilateral symmetry: single axis divides body into equal halves through midsagittal plane (between eyes) (some reverted back to radial)
+    - prediction of evolution of multicellularity: aggregation of single celled organisms (pushing sponge through seive & incubating -> many individual sponges)
+    - sponges: most primitive animal
+        - inhabit wide range: from shallow tidal to ocean depths, polar to tropic (mostly marine species, some freshwater)
+        - lifestyle: most adults sessile (motile as larvae for dispersal)
+        - morphology: highly variable
+            - primitive features: intracellular digestion, resp. & excretion via diffusion (have specialized cell but no true tissues/organs)
+            - have endoskeleton: spicules (small sharp-pointed structure present in large #s), network of elastic fibres for support
+            - radial or bilateral symmetry, variety of sizes (2mm - 2m), variety of colours & shapes
+            - flat sponges found in intertidal zones, barrel sponges found in ocean depths
+        - feeding: generate water current for filter feeding (depend on generated currents for food, oxygen, reproduction)
+        - sponge anatomy: atrium (internal cavity of sponge lined with choanocyte cells (collar cells) equipped with flagella)
+            - coordinated movement of flagella suck water through the pores into atrial cavity, then blows it through the osculum
+            - choanocytes take up food & performs intracellular digestion (similar to choanoflagellates; collar acts as filter trapping bacteria on the surface)
+            - 3 main (loose) layers: has no true tissues except epidermis (no organs, muscles, nerves)
+                - outer epidermis consists of thin layer of flat epidermal cells 
+                - inner epidermis consists of choanocytes
+                - middle layer: mesohyl with ameboid cells embedded in a jelly matrix (also contains the endoskeleton made up of spicules & spongin fibres)
+                    - 3 support structures in middle layer:
+                        1. extracellular matrix: non-cellular mtx made of collage & glycoproteins -> provides some support
+                        2. spicules: made of calcium/silica -> provides rigidity
+                        3. spongin: protein fibres -> provide flexible support
+                            - high level of spongin: "bath sponge" soft absorbent structure
+                            - high level of silica: "glass sponge" highly rigid structure
+        - 2 mechanisms of reproduction:
+            - 2 mechanisms of asexual: 
+                1. external budding (fragmentation): portion breaks off -> regenerates into new organism (not self-induced, brought by waves/predators) 
+                2. internal budding: formation of gemmules -> forms clone of parent 
+                        - gemmules consist of collection of several diff. cell types enclosed in protective covering (survival mechanism when adult may not survive, can remain dormant for long time)
+            - sexual: broadcast sperm
+                - most are hemaphroditic (each can produce both sperm & egg, but will usually only make one type at a given time to prevent self-fertilization)
+                - gametes produced in choanocytes/amoebocytes -> sperm concentrated in "male" sponge & released at once through osculum (broadcast sperm)
+                -> sperm trapped by choanocyte of "female" sponge -> delivered to egg by amoebocytes -> stored in mesohyl -> fertilization -> zygote -> develop in extracellular mtx
+                -> larvae releasted back in water (motile) -> swim through water while developing -> eventually settle to substrate -> becomes sessile
