@@ -70,21 +70,21 @@ origin of life:
                     - higher pressure & temp -> exergonic rxns
                     - organic synthesis: dissolved CO2 reduced by H2 -> organic molecules (anoxic metabolism)
     - evolution of metabolism:
-    - electron transport: length of arrow on redox tower from left to right running downward indicates nrg released
-        - electron donor: reduced -(oxidation, e- loss)-> oxidized (gives e- to acceptor & releases nrg)
-        - electron acceptor: oxidized -(reduction, e- gain)-> reduced (becomes donor & continues reacting)
-    - 5 stages of evolution of metabolism:
-        1. glycolysis & fermentation (3.5 Bya): CH20 -> CH20' (2 ATP), 6-carbon glucose -> 3-carbon pyruvate -> nrg (ATP) & reducing power (NADH)
-        2. anaerobic resp (3.45 Bya): Cred + SO4 -> Cox + HS- (>>2 ATP), glycolysis -> oxidation of pyruvate -> citric acid cycle -> electron transport chain
-        3. anoxygenic photosyn. (3.4 Bya): CO2 + H20 -> CH2O + 2S, first photosynthetic bacteria
-        4. oxygenic photosyn. (2.7 Bya): CO2 + H2O -> CH2O + O2, cyanobacteria cased the great oxygenation event (0.0001% -> 21%)
-        5. aerobic resp.: CH2O + O2 -> CO2 + H2O (~36 ATP), oxygen breathing organisms
-        - chemiosmotic nrg storage by membranes:
-            - lipid bilayer impermeable to ions: separates inside & outside electrical charge
-            - charge imbalance from redox rxns pump cations (H+) across membrane -> electrochem gradient -> cations return spontaneous due to conc. diff. across membrane
-            - cations return via ATP synthase channel -> drives oxidative phosphorylation of ADP to ATP -> creates high nrg phosphate bond which is later hydrolyzed to support biosynthesis
-    - winogradsky column: simple way to visualize interactions btwn diverse metabolic sys.
-    - top| iron oxidizing bacteria, cyanobacteria (oxygenic photosyn), sulfur & non-sulfer bacteria (anoxygenic photosyn), desulfovibrio (anerobic resp), clostridia (fermentation) |bottom 
+        - electron transport: length of arrow on redox tower from left to right running downward indicates nrg released
+            - electron donor: reduced -(oxidation, e- loss)-> oxidized (gives e- to acceptor & releases nrg)
+            - electron acceptor: oxidized -(reduction, e- gain)-> reduced (becomes donor & continues reacting)
+        - 5 stages of evolution of metabolism:
+            1. glycolysis & fermentation (3.5 Bya): CH20 -> CH20' (2 ATP), 6-carbon glucose -> 3-carbon pyruvate -> nrg (ATP) & reducing power (NADH)
+            2. anaerobic resp (3.45 Bya): Cred + SO4 -> Cox + HS- (>>2 ATP), glycolysis -> oxidation of pyruvate -> citric acid cycle -> electron transport chain
+            3. anoxygenic photosyn. (3.4 Bya): CO2 + H20 -> CH2O + 2S, first photosynthetic bacteria
+            4. oxygenic photosyn. (2.7 Bya): CO2 + H2O -> CH2O + O2, cyanobacteria cased the great oxygenation event (0.0001% -> 21%)
+            5. aerobic resp.: CH2O + O2 -> CO2 + H2O (~36 ATP), oxygen breathing organisms
+            - chemiosmotic nrg storage by membranes:
+                - lipid bilayer impermeable to ions: separates inside & outside electrical charge
+                - charge imbalance from redox rxns pump cations (H+) across membrane -> electrochem gradient -> cations return spontaneous due to conc. diff. across membrane
+                - cations return via ATP synthase channel -> drives oxidative phosphorylation of ADP to ATP -> creates high nrg phosphate bond which is later hydrolyzed to support biosynthesis
+        - winogradsky column: simple way to visualize interactions btwn diverse metabolic sys.
+            - top| iron oxidizing bacteria, cyanobacteria (oxygenic photosyn), sulfur & non-sulfer bacteria (anoxygenic photosyn), desulfovibrio (anerobic resp), clostridia (fermentation) |bottom 
 
 tree of life:
     - molecular phylogenetics: tracking evolution using molecular data 
@@ -135,9 +135,9 @@ tree of life:
         - tree based on a small portion of the total genes may not accurately represent evolutionary history of the other genes
         - other genes may be involved in HGT that can't be easily represented in a vertical tree
     - 4 vectors of HGT: transfer of genetic material horizontally across branches of tree of life (first revelaed by molecular phylogenetics)
-    1. conjugation: exchange of genetic material in the form of plasmids via pilus
-    2. endosymbiosis: HGT involving transfer of entire genome
-    3. transfer of some genes from endosymbiont genome to host genome over time
-    4. phages: transduction 
-        1. lytic cycle: phage infects bacteria -> injects DNA -> lyses host genome -> some host genome gets accidentally packaged in new phages -> transducing phages
-        2. transducing phage w/ bacterial genome -> inject DNA into another bacteria species w/o killing it -> transduced bacteria cell
+        1. conjugation: exchange of genetic material in the form of plasmids via pilus
+        2. endosymbiosis: HGT involving transfer of entire genome
+        3. transfer of some genes from endosymbiont genome to host genome over time
+        4. phages: transduction 
+            - lytic cycle: phage infects bacteria -> injects DNA -> lyses host genome -> some host genome gets accidentally packaged in new phages -> transducing phages
+            -> transducing phage w/ bacterial genome -> inject DNA into another bacteria species w/o killing it -> transduced bacteria cell

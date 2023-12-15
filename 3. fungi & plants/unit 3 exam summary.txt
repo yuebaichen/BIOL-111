@@ -44,7 +44,7 @@ algae examples: mostly aquatic, photosynthetic, lack true roots/stems/leaves & s
 
 2 impacts of the key evolutionary innovations in plants:
     1. proliferation of new lineages
-    2. facilitated acces to new habitats & ecological niches
+    2. facilitated access to new habitats & ecological niches
 
 viridiplantae: 
     - green algae: uni/multicellular, sex/asex, main primary producers in freshwater, some have flagella & can swim
@@ -161,13 +161,13 @@ gymnosperms: trees & seeds
                 - male gametophyte has to "burrow" to access female gametophyte
     - spores vs seeds: ___ | ___
         - definition: reproductive structure that can develop into a new individual | fertilized ovule of seed plants
-        - occurence: non-seeded plants & fungi | gymnosperms & angiosperms
-        - size: microscopic | macroscopic
-        - cellularity: uni | multi
-        - production: large #s | small #s
-        - ploidy: haploid | diploid
-        - food storage: none | stores food
-        - survival: susceptible to harsh env. | can tolerate harsh env.
+        1. occurence: non-seeded plants & fungi | gymnosperms & angiosperms
+        2. size: microscopic | macroscopic
+        3. cellularity: uni | multi
+        4. production: large #s | small #s
+        5. ploidy: haploid | diploid
+        6. food storage: none | stores food
+        7. survival: susceptible to harsh env. | can tolerate harsh env.
     - gymnosperm life cycle (conifer):
         - mature sporophyte:
             - cones with sporangia:

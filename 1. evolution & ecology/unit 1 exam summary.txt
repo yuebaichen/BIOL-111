@@ -47,9 +47,9 @@ evolution: change in allele freq. across generations
         5. gene flow: moving of genetic material across diff. populations
         - drunkards walk: mutation (stumbling), genetic drift (helping hand), natural (slope), sexual (hot girl), gene flow (bungee cord) 
     - 3 insights of darwin & wallace:
-                    1. all organisms have potential for exponential growth yet most pop. are relatively stable: implies lots of death
-                    2. traits: vary among individuals, influence survival, are heritable
-                    3. traits the improve survival should inc. freq. or size through time
+        1. all organisms have potential for exponential growth yet most pop. are relatively stable: implies lots of death
+        2. traits: vary among individuals, influence survival, are heritable
+        3. traits the improve survival should inc. freq. or size through time
 
 global change:
     - 6 major forms of global change:
